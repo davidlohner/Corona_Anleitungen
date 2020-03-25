@@ -7,6 +7,10 @@ tags: KIT_corona, Anleitung, Phase1
 ```
 letzte Aktualisierung: 25.03.2020
 ```
+:::success
+Für das nächste Update sind Ergänzungen für ältere Versionen von PowerPoint vorgesehen.
+:::
+
 Wenn Sie ihre Lehrinhalte in PowerPoint-Folien vorliegen haben, können Sie Ihren Vortrag mit einfachen Mitteln aufzeichnen. Diese Anleitung zeigt, welche Schritte in PowerPoint dafür nötig sind.
 
 #### Übersicht
