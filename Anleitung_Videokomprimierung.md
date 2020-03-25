@@ -1,6 +1,8 @@
 ---
 tags: KIT_corona, Anleitung
 ---
+![](https://i.imgur.com/eAg9Fgb.png)
+
 # Videos für den Upload vorbereiten
 ```
 letzte Aktualisierung: 25.03.2020
