@@ -1,6 +1,8 @@
 ---
 tags: KIT_corona, Anleitung, Phase1
 ---
+![](https://i.imgur.com/eAg9Fgb.png)
+
 # Videos mit PowerPoint aufzeichnen
 ```
 letzte Aktualisierung: 25.03.2020
