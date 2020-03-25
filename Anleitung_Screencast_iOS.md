@@ -1,8 +1,12 @@
 ---
 tags: KIT_corona, Anleitung
 ---
-# Bildschirmaufzeichnung mit iOS
+![](https://i.imgur.com/eAg9Fgb.png)
 
+# Bildschirmaufzeichnung mit iOS
+```
+letzte Aktualisierung: 25.03.2020
+```
 Wenn Sie ihre Lehrinhalte auf ihrem Apple iPad oder Apple iPhone vorliegen haben, können Sie diese Inhalte mit einfachen aufzeichnen. Diese Anleitung zeigt, welche Schritte unter iOS dafür nötig sind.
 :::warning
 Diese Funktion ist nur auf Geräten mit iOS 12 oder neuer verfügbar.
@@ -57,3 +61,8 @@ Sollten Sie mit einem der Aspekte nicht zufrieden sein, korrigieren Sie Ihre Ein
 Sollten Sie Probleme haben, die Funktion für die Aufzeichnung auf Ihrem Gerät zu finden, kann Ihnen die offizielle Support-Seite von Apple weiterhelfen:
 
 [Aufzeichnen des Bildschirminhalts unter iOS (Apple)](https://support.apple.com/de-de/HT207935)
+
+
+---
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Diese Anleitung für die Erstellung von digitalem Lehrmaterial</span> des <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Zentrum für Mediales Lernen (ZML) am Karlsruher Instituts für Technologie (KIT)</span> ist lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung 4.0 International Lizenz</a>.<br />Über diese Lizenz hinausgehende Erlaubnisse können Sie unter <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.zml.kit.edu" rel="cc:morePermissions">http://www.zml.kit.edu</a> erhalten.
