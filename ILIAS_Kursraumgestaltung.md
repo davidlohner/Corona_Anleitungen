@@ -7,7 +7,7 @@ tags: KIT_corona, Anleitung, ILIAS,
 ```
 letzte Aktualisierung: 26.03.2020
 ```
-Introtext
+ILIAS-Kursräume sind die primäre Umgebung für die Organisation und Verwaltung Ihrer Lehrveranstaltung. Damit Studierende sich darin gut und leicht zurechtfinden, sollten Sie die jeweiligen Kursräume sauber strukturieren und optisch ansprechend und individuell gestalten. Auf diese Weise können die Studierenden mit nur einem kurzen Blick feststellen, in welchem virtuellen Raum sie sich gerade befinden.
 
 #### Übersicht
 [TOC]
@@ -25,9 +25,43 @@ Zusatzinformationen sind blau gekennzeichnet.
 ---
 
 ### Benötigte Ausstattung
+* ILIAS-Kursraum
+* ggf. Bildbearbeitungsprogramm
+* Geduld 
+
+### Quick N Dirty
+* Planen, was man braucht (Objekttypen kennen, siehe andere Anleitungen)
+* Kozept aufzeichen (prototyping): was soll wo hin
+* Alles auf oberster Ebene hinzufügen
+    * Material zuweisen (z.B. Sitzungen, Ordnern oder Gruppen)
+* Objektblöcke erstellen und benennen um Objekte zu gruppieren
+* Layout erstellen (responsive Spalten)
+* Objektblöcke in entsprechende Spalten bewegen
+
+Hinweise:
+* Ordner können als ZIP hochgeladen werden -> danach entstehen Ordner in der entsprechenden Struktur
+* **Blöcke** können mit Zeiten versehen werden, sodass sie automatisch eingeblendet und ausgeblendet werden
+* Ordner als Postbox für Abgaben?
+    * besser als Übung mit Abgabe
+* Struktur kann/sollte sich am Aufbau "normaler" Webseiten orientieren
+    * Header, Seitenleiste, Content
+    * Bilder nutzen!
+    * für Kurs persönliches Icon/Symbol verwenden (schnelle Auffindbarkeit im Magazin/Schreibtisch)
+    * 
+* Über den Verlauf des Semesters ändern sich Prioritäten
+    * Wichtiges sollte immer oben stehen
+    * Wenn zu Beginn z.B. ein Welcome-Text am Anfang steht, sollte am Ende dort ggf. Hinweise für den Leistungsnachweis stehen
+    * **mögliche Lösung** Inhalte in ein Akkordeon packen, dessen standardmäßige "Öffnung" man über den Lauf des Semesters ändert (auch horizontal oder als Karussel möglich)
+
+* Offene Fragen:
+    * ILIAS vs. MS Teams für Kommunikation: brauchen wir ein Forum? (als Schwarzes Brett?)
+    * 
+
+* kollaborative Dokumente in NextCloud freigaben und embedden
 * 
 
 ## Schritt 1: 
+
 
 
 ---
