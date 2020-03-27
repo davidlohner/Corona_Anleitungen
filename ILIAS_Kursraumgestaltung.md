@@ -53,9 +53,12 @@ ILIAS zeigt Ihnen nun eine Liste Ihrer Materialien geordnet nach Objektblöcken 
 Objecktblöcke sind dann besonders sinnvoll, wenn Sie unterschiedliche Objekttypen gruppieren wollen. In einem späteren Schritt können Sie unter den „Materiallisten” neben Objektblöcken auch alle Objekte eines Typs (z.B. Sitzungen) gruppieren.
 :::
 
-## Schritt 3: Arrangieren der Objektblöcke
+## Gestaltung der Kursseite
 
-Damit Ihre Studierenden sich schnell und einfach in Ihrem ILIAS-Kurs zurechtfinden, sollten Sie die erstellen Objecktblöcke auf der Seite Ihres Kurses arrangieren. Im Grunde genommen gestalten Sie hierbei eine Webseite, auf der Ihre Kursinhalte gespeichert sind. Daher ist es hilfreich, sich Anleihen aus dem Webdesign für die Gestaltung zu nehmen.
+Damit Ihre Studierenden sich schnell und einfach in Ihrem ILIAS-Kurs zurechtfinden, sollten Sie die erstellen Objecktblöcke auf der Seite Ihres Kurses arrangieren.
+
+### Vorbemerkung
+Im Grunde genommen gestalten Sie hierbei eine Webseite, auf der Ihre Kursinhalte gespeichert sind. Daher ist es hilfreich, sich Anleihen aus dem Webdesign für die Gestaltung zu nehmen.
 
 ### Spaltenlayout
 Ein wichtiges Merkmal guter Gestaltung ist ein zugrunde liegendes Raster. In ILIAS können Sie ein Spaltenlayout verwenden, dass die Inhalte Ihres Kurses in **zwölf gleichgroße Spalten** unterteilt. ILIAS bietet Ihnen die Möglichkeit, Inhalte auf eine definierte Breite dieses Grundrasters zu skalieren und gibt diese Schritte in Zwöflteln an:
@@ -65,6 +68,37 @@ Die Spalten werden dabei stets von links nach rechts durchgezählt: Die erste Sp
 
 ### Layout für Mobilgeräte
 ILIAS optimiert die Darstellung für verschiedene Display-Größen (vom Smartphone im Hochformat bis zum großen Desktop). Im Spaltenlayout können Sie selbst festlegen, wie breit jede Spalte auf den jeweiligen Endgeräten angezeigt wird. Mehrere Spalten nebeneinander werden auf schmalen Geräten untereinander angezeigt.
+
+## Schritt 3: Arrangieren der Objektblöcke
+1. Klicken Sie auf „Seite gestalten”
+2. Klicken Sie auf das Plus und wählen Sie „Spaltenlayout”
+3. Erstellen Sie nun ein Spaltenlayout, das für Ihre Inhalte sinnvoll ist.
+4. Auf der Seite können Sie in die einzelnen Spalten Inhalte einfügen.
+5. Fügen Sie unter dem Eintrag „Materiallisten” Ihre erstellten Objektblöcke in die jeweilgen Spalten ein.
+    * Sie können auch alle Objekte eines Typs (z.B. Sitzungen) als eine Materialliste einer Spalte hinzufügen.
+6. Fügen Sie an entsprechenden Stellen weitere Blöcke für Textbausteine (etwa Überschriften, kurze Absätze) ein. Wählen Sie dazu unter „Seite gestalten” - „Block einfügen” und wählen Sie aus den Absatzformaten z.B. „Hintergrund” um einen weißen Kasten um Ihre Textbausteine zu erhalten.
+7. Speichern Sie Textbausteine und Absätze regelmäßig über die Buttons „Speichern und ...” am oberen Rand des Editors.
+
+:::info
+**Tipps**
+Blöcke können Zusatzfunktionen haben:
+* Der Block „Vertiefungswissen” kann z.B. von den Studierenden auf Ihrer Kursseite mit einem einzigen Klick bei Bedarf aus- und wieder eingeblendet werden.
+* Blöcke können mit Daten versehen werden um automatisch zu vorab definierten Zeitpunkten oder -räumen sichtbar zu sein (z.B. für Ankündigungen o.Ä.).
+:::
+
+Ihre ILIAS-Seite hat nun eine klare Strutkur.
+
+## Bonus: Eye Candy und weitere Individualisierungen
+Damit Studiernde Ihren Kurs leicht von anderen der Lernplattformen unterscheiden können, können Sie einige optische Elemente verwenden, um Ihren Kurs individuell zu gestalten.
+
+### Eigenes Kurs-Icon
+
+
+### Prominentes Header-Bild
+
+
+### Präsentationsansicht: Kacheln
+
 
 ### Quick N Dirty
 * Planen, was man braucht (Objekttypen kennen, siehe andere Anleitungen)
