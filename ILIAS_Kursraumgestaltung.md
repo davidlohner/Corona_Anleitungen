@@ -83,6 +83,7 @@ ILIAS optimiert die Darstellung für verschiedene Display-Größen (vom Smartpho
 **Tipps**
 Blöcke können Zusatzfunktionen haben:
 * Der Block „Vertiefungswissen” kann z.B. von den Studierenden auf Ihrer Kursseite mit einem einzigen Klick bei Bedarf aus- und wieder eingeblendet werden.
+* Sie können Blöcke bereits anlegen, aber „deaktivieren” und erst bei Bedarf sichtbar machen (aktivieren).
 * Blöcke können mit Daten versehen werden um automatisch zu vorab definierten Zeitpunkten oder -räumen sichtbar zu sein (z.B. für Ankündigungen o.Ä.).
 :::
 
@@ -92,47 +93,21 @@ Ihre ILIAS-Seite hat nun eine klare Strutkur.
 Damit Studiernde Ihren Kurs leicht von anderen der Lernplattformen unterscheiden können, können Sie einige optische Elemente verwenden, um Ihren Kurs individuell zu gestalten.
 
 ### Eigenes Kurs-Icon
+In den Einstellungen Ihres Kurses können Sie unter „Darstellung” ein angepasstes Icon auswählen. Das Bildformat muss eine „scalable vector graphic” mit der Endung .**svg** sein.
+
+### Header-Bild (für einzelne Spalten)
+1. Fügen Sie unter „Seite gestalten” in einer Spalte Ihrer Wahl ein **Bild**/Audio/Video ein.
+2. Navigieren Sie zu den Einstellungen des hochgeladenen Bildes.
+3. Wählen Sie im Reiter „Style” das Absatzformat „MediaContainerFull100”.
 
 
-### Prominentes Header-Bild
+## Einige Hinweise
+* Wichtige und für die Studierenden relevante Inhalte sollten möglichst prominent, also in der Hierarchie weit oben platziert werden.
+* Im Verlauf eines Semesters ändern sich die Prioritäten. Sollte Ihr Kurs mit einem „Herzlich Willkommen”-Textabsatz eröffnet werden, benötigen Sie diesen Abschnitt nach einigen Wochen im Semester ggf. nicht mehr. Dafür werden z.B. die Kriterien für Leistungsnachweise gefragter. **Passen Sie Ihren Kurs auch während des Semesters an die aktuellen Bedarfe Ihrer Studierenden an.**
 
-
-### Präsentationsansicht: Kacheln
-
-
-### Quick N Dirty
-* Planen, was man braucht (Objekttypen kennen, siehe andere Anleitungen)
-* Kozept aufzeichen (prototyping): was soll wo hin
-* Alles auf oberster Ebene hinzufügen
-    * Material zuweisen (z.B. Sitzungen, Ordnern oder Gruppen)
-* Objektblöcke erstellen und benennen um Objekte zu gruppieren
-* Layout erstellen (responsive Spalten)
-* Objektblöcke in entsprechende Spalten bewegen
-
-Hinweise:
-* Ordner können als ZIP hochgeladen werden -> danach entstehen Ordner in der entsprechenden Struktur
-* **Blöcke** können mit Zeiten versehen werden, sodass sie automatisch eingeblendet und ausgeblendet werden
-* Ordner als Postbox für Abgaben?
-    * besser als Übung mit Abgabe
-* Struktur kann/sollte sich am Aufbau "normaler" Webseiten orientieren
-    * Header, Seitenleiste, Content
-    * Bilder nutzen!
-    * für Kurs persönliches Icon/Symbol verwenden (schnelle Auffindbarkeit im Magazin/Schreibtisch)
-    * 
-* Über den Verlauf des Semesters ändern sich Prioritäten
-    * Wichtiges sollte immer oben stehen
-    * Wenn zu Beginn z.B. ein Welcome-Text am Anfang steht, sollte am Ende dort ggf. Hinweise für den Leistungsnachweis stehen
-    * **mögliche Lösung** Inhalte in ein Akkordeon packen, dessen standardmäßige "Öffnung" man über den Lauf des Semesters ändert (auch horizontal oder als Karussel möglich)
-
-* Offene Fragen:
-    * ILIAS vs. MS Teams für Kommunikation: brauchen wir ein Forum? (als Schwarzes Brett?)
-    * 
-
-* kollaborative Dokumente in NextCloud freigaben und embedden
-* 
-
-
-
+:::info
+Diese Anleitung wird ggf. um weitere Tipps erweitert.
+:::
 
 ---
 
