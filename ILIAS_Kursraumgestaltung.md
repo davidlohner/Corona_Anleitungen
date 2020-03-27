@@ -5,7 +5,7 @@ tags: KIT_corona, Anleitung, ILIAS,
 
 # Ansprechende Kursraumgestaltung in ILIAS
 ```
-letzte Aktualisierung: 26.03.2020
+letzte Aktualisierung: 27.03.2020
 ```
 ILIAS-Kursräume sind die primäre Umgebung für die Organisation und Verwaltung Ihrer Lehrveranstaltung. Damit Studierende sich darin gut und leicht zurechtfinden, sollten Sie die jeweiligen Kursräume sauber strukturieren und optisch ansprechend und individuell gestalten. Auf diese Weise können die Studierenden mit nur einem kurzen Blick feststellen, in welchem virtuellen Raum sie sich gerade befinden.
 
@@ -34,15 +34,37 @@ Für diese Anleitung wird ein exemplarischer Kurs erstellt, der einem klassische
 
 ## Schritt 1: Objekte hinzufügen
 1. Fügen Sie neue Objekte auf der obersten Ebene des ILIAS-Kurses hinzu.
-2. Weisen Sie alle Materialien entsprechnden Sitzungen oder Ordnern zu.
 
-ILIAS fügt alle Materialien einer langen Liste in Ihrem Kurs hinzu und ordenet die Objekte automatisch nach Typ. Diese Standardeinstellung macht die Navigation in einem Kurs mit vielen Materialien recht unübersichtlich.
+:::warning
+ILIAS fügt alle Materialien einer langen Liste in Ihrem Kurs hinzu und ordenet die Objekte automatisch nach Typ.
+:::
+2. Ordnen Sie alle Materialien entsprechnden Sitzungen oder Ordnern zu.
+
+
 
 ## Schritt 2: Gruppieren der Objekte
 Objekte unterschiedlicher Objekttypen können in Materiallisten, sogenannten „Objektblöcken” gruppiert werden. 
-1. Erstellen Sie einen Objektblock.
-2. 
+1. Erstellen Sie einen neuen Objektblock und geben Sie ihm einen aussagekräftigen Namen.
+2. Fügen Sie inhaltlich oder organisatorische zusammenhängende Objekte in den Objektblock ein. Wählen Sie dazu aus der Liste die jeweils zutreffenden Objekte per Ausawahl an.
 
+ILIAS zeigt Ihnen nun eine Liste Ihrer Materialien geordnet nach Objektblöcken an. 
+
+:::info
+Objecktblöcke sind dann besonders sinnvoll, wenn Sie unterschiedliche Objekttypen gruppieren wollen. In einem späteren Schritt können Sie unter den „Materiallisten” neben Objektblöcken auch alle Objekte eines Typs (z.B. Sitzungen) gruppieren.
+:::
+
+## Schritt 3: Arrangieren der Objektblöcke
+
+Damit Ihre Studierenden sich schnell und einfach in Ihrem ILIAS-Kurs zurechtfinden, sollten Sie die erstellen Objecktblöcke auf der Seite Ihres Kurses arrangieren. Im Grunde genommen gestalten Sie hierbei eine Webseite, auf der Ihre Kursinhalte gespeichert sind. Daher ist es hilfreich, sich Anleihen aus dem Webdesign für die Gestaltung zu nehmen.
+
+### Spaltenlayout
+Ein wichtiges Merkmal guter Gestaltung ist ein zugrunde liegendes Raster. In ILIAS können Sie ein Spaltenlayout verwenden, dass die Inhalte Ihres Kurses in **zwölf gleichgroße Spalten** unterteilt. ILIAS bietet Ihnen die Möglichkeit, Inhalte auf eine definierte Breite dieses Grundrasters zu skalieren und gibt diese Schritte in Zwöflteln an:
+
+
+Die Spalten werden dabei stets von links nach rechts durchgezählt: Die erste Spalte ist ganz links, die letzte Spalte ganz rechts.
+
+### Layout für Mobilgeräte
+ILIAS optimiert die Darstellung für verschiedene Display-Größen (vom Smartphone im Hochformat bis zum großen Desktop). Im Spaltenlayout können Sie selbst festlegen, wie breit jede Spalte auf den jeweiligen Endgeräten angezeigt wird. Mehrere Spalten nebeneinander werden auf schmalen Geräten untereinander angezeigt.
 
 ### Quick N Dirty
 * Planen, was man braucht (Objekttypen kennen, siehe andere Anleitungen)
