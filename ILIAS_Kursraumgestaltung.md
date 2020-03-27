@@ -34,20 +34,29 @@ Für diese Anleitung wird ein exemplarischer Kurs erstellt, der einem klassische
 
 ## Schritt 1: Objekte hinzufügen
 1. Fügen Sie neue Objekte auf der obersten Ebene des ILIAS-Kurses hinzu.
+![](https://i.imgur.com/njEVqKe.jpg)
 
 :::warning
 ILIAS fügt alle Materialien einer langen Liste in Ihrem Kurs hinzu und ordenet die Objekte automatisch nach Typ.
 :::
+![](https://i.imgur.com/22X1cQ3.jpg)
+
 2. Ordnen Sie alle Materialien entsprechnden Sitzungen oder Ordnern zu.
+![](https://i.imgur.com/dFxD2tL.jpg)
+![](https://i.imgur.com/aQL3p2J.jpg)
 
 
 
 ## Schritt 2: Gruppieren der Objekte
 Objekte unterschiedlicher Objekttypen können in Materiallisten, sogenannten „Objektblöcken” gruppiert werden. 
 1. Erstellen Sie einen neuen Objektblock und geben Sie ihm einen aussagekräftigen Namen.
+![](https://i.imgur.com/VpAiw7c.jpg)
+
 2. Fügen Sie inhaltlich oder organisatorische zusammenhängende Objekte in den Objektblock ein. Wählen Sie dazu aus der Liste die jeweils zutreffenden Objekte per Ausawahl an.
+![](https://i.imgur.com/VZ66jaJ.jpg)
 
 ILIAS zeigt Ihnen nun eine Liste Ihrer Materialien geordnet nach Objektblöcken an. 
+![](https://i.imgur.com/DGit48f.jpg)
 
 :::info
 Objecktblöcke sind dann besonders sinnvoll, wenn Sie unterschiedliche Objekttypen gruppieren wollen. In einem späteren Schritt können Sie unter den „Materiallisten” neben Objektblöcken auch alle Objekte eines Typs (z.B. Sitzungen) gruppieren.
@@ -62,6 +71,7 @@ Im Grunde genommen gestalten Sie hierbei eine Webseite, auf der Ihre Kursinhalte
 
 ### Spaltenlayout
 Ein wichtiges Merkmal guter Gestaltung ist ein zugrunde liegendes Raster. In ILIAS können Sie ein Spaltenlayout verwenden, dass die Inhalte Ihres Kurses in **zwölf gleichgroße Spalten** unterteilt. ILIAS bietet Ihnen die Möglichkeit, Inhalte auf eine definierte Breite dieses Grundrasters zu skalieren und gibt diese Schritte in Zwöflteln an:
+![](https://i.imgur.com/1hhsu1B.jpg)
 
 
 Die Spalten werden dabei stets von links nach rechts durchgezählt: Die erste Spalte ist ganz links, die letzte Spalte ganz rechts.
@@ -71,13 +81,34 @@ ILIAS optimiert die Darstellung für verschiedene Display-Größen (vom Smartpho
 
 ## Schritt 3: Arrangieren der Objektblöcke
 1. Klicken Sie auf „Seite gestalten”
-2. Klicken Sie auf das Plus und wählen Sie „Spaltenlayout”
-3. Erstellen Sie nun ein Spaltenlayout, das für Ihre Inhalte sinnvoll ist.
-4. Auf der Seite können Sie in die einzelnen Spalten Inhalte einfügen.
-5. Fügen Sie unter dem Eintrag „Materiallisten” Ihre erstellten Objektblöcke in die jeweilgen Spalten ein.
+2. ![](https://i.imgur.com/Vf8zJp0.jpg)
+
+2. Klicken Sie auf das Plus und wählen Sie „Spaltenlayout einfügen”.
+![](https://i.imgur.com/DMW3lbw.jpg)
+
+4. Erstellen Sie nun ein Spaltenlayout, das für Ihre Inhalte sinnvoll ist
+![](https://i.imgur.com/zf9p76G.jpg)
+
+
+5. Auf der Seite können Sie in die einzelnen Spalten Inhalte einfügen.
+6. ![](https://i.imgur.com/4dIPt5p.jpg)
+
+6. Fügen Sie unter dem Eintrag „Materiallisten” Ihre erstellten Objektblöcke in die jeweilgen Spalten ein.
+7. ![](https://i.imgur.com/vSZTih6.jpg)
+
     * Sie können auch alle Objekte eines Typs (z.B. Sitzungen) als eine Materialliste einer Spalte hinzufügen.
-6. Fügen Sie an entsprechenden Stellen weitere Blöcke für Textbausteine (etwa Überschriften, kurze Absätze) ein. Wählen Sie dazu unter „Seite gestalten” - „Block einfügen” und wählen Sie aus den Absatzformaten z.B. „Hintergrund” um einen weißen Kasten um Ihre Textbausteine zu erhalten.
-7. Speichern Sie Textbausteine und Absätze regelmäßig über die Buttons „Speichern und ...” am oberen Rand des Editors.
+    ![](https://i.imgur.com/9hapBoE.jpg)
+
+![](https://i.imgur.com/Lq6g5r9.jpg)
+
+7. Fügen Sie an entsprechenden Stellen weitere Blöcke für Textbausteine (etwa Überschriften, kurze Absätze) ein. Wählen Sie dazu unter „Seite gestalten” - „Block einfügen” und wählen Sie aus den Absatzformaten z.B. „Hintergrund” um einen weißen Kasten um Ihre Textbausteine zu erhalten
+![](https://i.imgur.com/OcWgGaB.jpg)
+![](https://i.imgur.com/sq5qEN1.jpg)
+
+
+8. Speichern Sie Textbausteine und Absätze regelmäßig über die Buttons „Speichern und ...” am oberen Rand des Editors.
+![](https://i.imgur.com/avQuvRB.jpg)
+
 
 :::info
 **Tipps**
@@ -88,17 +119,32 @@ Blöcke können Zusatzfunktionen haben:
 :::
 
 Ihre ILIAS-Seite hat nun eine klare Strutkur.
+![](https://i.imgur.com/sbO53DL.jpg)
 
 ## Bonus: Eye Candy und weitere Individualisierungen
 Damit Studiernde Ihren Kurs leicht von anderen der Lernplattformen unterscheiden können, können Sie einige optische Elemente verwenden, um Ihren Kurs individuell zu gestalten.
 
 ### Eigenes Kurs-Icon
 In den Einstellungen Ihres Kurses können Sie unter „Darstellung” ein angepasstes Icon auswählen. Das Bildformat muss eine „scalable vector graphic” mit der Endung .**svg** sein.
+![](https://i.imgur.com/crsARwZ.jpg)
+![](https://i.imgur.com/KQ6d1vQ.jpg)
+
 
 ### Header-Bild (für einzelne Spalten)
 1. Fügen Sie unter „Seite gestalten” in einer Spalte Ihrer Wahl ein **Bild**/Audio/Video ein.
+![](https://i.imgur.com/tJ4AlHc.jpg)
+
+
+
 2. Navigieren Sie zu den Einstellungen des hochgeladenen Bildes.
+![](https://i.imgur.com/n6pOQfK.jpg)
+
 3. Wählen Sie im Reiter „Style” das Absatzformat „MediaContainerFull100”.
+
+![](https://i.imgur.com/Iq7KhDx.jpg)
+
+![](https://i.imgur.com/zhRrd7O.jpg)
+
 
 
 ## Einige Hinweise
