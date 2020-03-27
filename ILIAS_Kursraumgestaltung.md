@@ -23,11 +23,8 @@ Zusatzinformationen sind blau gekennzeichnet.
 :::
 
 ---
-
-### Benötigte Ausstattung
-* ILIAS-Kursraum
-* ggf. Bildbearbeitungsprogramm
-* Geduld 
+## Schritt 1: Planung
+* 
 
 ### Quick N Dirty
 * Planen, was man braucht (Objekttypen kennen, siehe andere Anleitungen)
@@ -60,7 +57,6 @@ Hinweise:
 * kollaborative Dokumente in NextCloud freigaben und embedden
 * 
 
-## Schritt 1: 
 
 
 
