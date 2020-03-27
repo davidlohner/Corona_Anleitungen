@@ -23,8 +23,26 @@ Zusatzinformationen sind blau gekennzeichnet.
 :::
 
 ---
-## Schritt 1: Planung
-* 
+## Konzept dieser Anleitung
+Diese Anleitung verfolgt einen Dreischritt, der in Teilen von der Bedienung von ILIAS als Lerning Management System (LMS) geschuldet ist. In aller Kürze lässt sich dieser Dreischritt wie folgt formulieren:
+
+**1. Hinzufügen aller Onjekte und Materialien
+2. Gruppieren der Objekte
+3. Arrangieren der Inhalte innerhalb des Kurses**
+
+Für diese Anleitung wird ein exemplarischer Kurs erstellt, der einem klassischen Sitzungsverlauf folgt und einige Zusatzmaterialien über ILIAS bereitstellt.
+
+## Schritt 1: Objekte hinzufügen
+1. Fügen Sie neue Objekte auf der obersten Ebene des ILIAS-Kurses hinzu.
+2. Weisen Sie alle Materialien entsprechnden Sitzungen oder Ordnern zu.
+
+ILIAS fügt alle Materialien einer langen Liste in Ihrem Kurs hinzu und ordenet die Objekte automatisch nach Typ. Diese Standardeinstellung macht die Navigation in einem Kurs mit vielen Materialien recht unübersichtlich.
+
+## Schritt 2: Gruppieren der Objekte
+Objekte unterschiedlicher Objekttypen können in Materiallisten, sogenannten „Objektblöcken” gruppiert werden. 
+1. Erstellen Sie einen Objektblock.
+2. 
+
 
 ### Quick N Dirty
 * Planen, was man braucht (Objekttypen kennen, siehe andere Anleitungen)
