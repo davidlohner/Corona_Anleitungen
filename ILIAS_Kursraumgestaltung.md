@@ -96,19 +96,19 @@ ILIAS optimiert die Darstellung für verschiedene Display-Größen (vom Smartpho
 
 
 5. Auf der Seite können Sie in die einzelnen Spalten Inhalte einfügen.
-6. ![](https://i.imgur.com/4dIPt5p.jpg)
+![](https://i.imgur.com/4dIPt5p.jpg)
 
 6. Fügen Sie unter dem Eintrag „Materiallisten” Ihre erstellten Objektblöcke in die jeweilgen Spalten ein.
-7. ![](https://i.imgur.com/vSZTih6.jpg)
+![](https://i.imgur.com/vSZTih6.jpg)
 
-    * Sie können auch alle Objekte eines Typs (z.B. Sitzungen) als eine Materialliste einer Spalte hinzufügen.
+* Sie können auch alle Objekte eines Typs (z.B. Sitzungen) als eine Materialliste einer Spalte hinzufügen.
     ![](https://i.imgur.com/9hapBoE.jpg)
 
-![](https://i.imgur.com/Lq6g5r9.jpg)
 
 7. Fügen Sie an entsprechenden Stellen weitere Blöcke für Textbausteine (etwa Überschriften, kurze Absätze) ein. Wählen Sie dazu unter „Seite gestalten” - „Block einfügen” und wählen Sie aus den Absatzformaten z.B. „Hintergrund” um einen weißen Kasten um Ihre Textbausteine zu erhalten
+
 ![](https://i.imgur.com/OcWgGaB.jpg)
-![](https://i.imgur.com/sq5qEN1.jpg)
+![](https://i.imgur.com/AN5maVy.jpg)
 
 
 8. Speichern Sie Textbausteine und Absätze regelmäßig über die Buttons „Speichern und ...” am oberen Rand des Editors.
@@ -152,14 +152,31 @@ In den Einstellungen Ihres Kurses können Sie unter „Darstellung” ein angepa
 
 
 
-## Einige Hinweise
+# Einige Hinweise
 * Wichtige und für die Studierenden relevante Inhalte sollten möglichst prominent, also in der Hierarchie weit oben platziert werden.
 * Im Verlauf eines Semesters ändern sich die Prioritäten. Sollte Ihr Kurs mit einem „Herzlich Willkommen”-Textabsatz eröffnet werden, benötigen Sie diesen Abschnitt nach einigen Wochen im Semester ggf. nicht mehr. Dafür werden z.B. die Kriterien für Leistungsnachweise gefragter. **Passen Sie Ihren Kurs auch während des Semesters an die aktuellen Bedarfe Ihrer Studierenden an.**
 
 :::info
-Diese Anleitung wird ggf. um weitere Tipps erweitert.
+Diese Anleitung wird laufend erweitert.
 :::
 
 ---
+## Infos & Kontakt
 
+### Lizenzhinweis
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Diese Anleitung für die Erstellung von digitalem Lehrmaterial</span> des <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Zentrum für Mediales Lernen (ZML) am Karlsruher Instituts für Technologie (KIT)</span> ist lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung 4.0 International Lizenz</a>.<br />Über diese Lizenz hinausgehende Erlaubnisse können Sie unter <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.zml.kit.edu" rel="cc:morePermissions">http://www.zml.kit.edu</a> erhalten.
+
+### Impressum
+
+**Herausgeber**
+Karlsruher Institut für Technologie (KIT)
+Kaiserstraße 12
+76131 Karlsruhe
+
+**Kontakt**
+Karl-Friedrich-Str. 17
+76133 Karlsruhe
+Deutschland
+Tel.: +49 721 608-48200
+Fax: +49 721 608-48210
+E-Mail: info@zml.kit.edu
