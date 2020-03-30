@@ -5,7 +5,7 @@ tags: KIT_corona, Anleitung, ILIAS,
 
 # Ansprechende Kursraumgestaltung in ILIAS
 ```
-letzte Aktualisierung: 27.03.2020
+letzte Aktualisierung: 21.03.2020
 ```
 ILIAS-Kursräume sind die primäre Umgebung für die Organisation und Verwaltung Ihrer Lehrveranstaltung. Damit Studierende sich darin gut und leicht zurechtfinden, sollten Sie die jeweiligen Kursräume sauber strukturieren und optisch ansprechend und individuell gestalten. Auf diese Weise können die Studierenden mit nur einem kurzen Blick feststellen, in welchem virtuellen Raum sie sich gerade befinden.
 
@@ -52,18 +52,18 @@ ILIAS fügt alle Materialien einer langen Liste in Ihrem Kurs hinzu und ordenet 
 
 
 ## Schritt 2: Gruppieren der Objekte
-Objekte unterschiedlicher Objekttypen können in Materiallisten, sogenannten „Objektblöcken” gruppiert werden. 
-1. Erstellen Sie einen neuen Objektblock und geben Sie ihm einen aussagekräftigen Namen.
+Objekte unterschiedlicher Objekttypen können in Materiallisten, sogenannten „Objekteblöcken” gruppiert werden. 
+1. Erstellen Sie einen neuen Objekteblock und geben Sie ihm einen aussagekräftigen Namen.
 ![](https://i.imgur.com/VpAiw7c.jpg)
 
-2. Fügen Sie inhaltlich oder organisatorische zusammenhängende Objekte in den Objektblock ein. Wählen Sie dazu aus der Liste die jeweils zutreffenden Objekte per Ausawahl an.
+2. Fügen Sie inhaltlich oder organisatorische zusammenhängende Objekte in den Objekteblock ein. Wählen Sie dazu aus der Liste die jeweils zutreffenden Objekte per Ausawahl an.
 ![](https://i.imgur.com/VZ66jaJ.jpg)
 
-ILIAS zeigt Ihnen nun eine Liste Ihrer Materialien geordnet nach Objektblöcken an. 
+ILIAS zeigt Ihnen nun eine Liste Ihrer Materialien geordnet nach Objekteblöcken an. 
 ![](https://i.imgur.com/DGit48f.jpg)
 
 :::info
-Objecktblöcke sind dann besonders sinnvoll, wenn Sie unterschiedliche Objekttypen gruppieren wollen. In einem späteren Schritt können Sie unter den „Materiallisten” neben Objektblöcken auch alle Objekte eines Typs (z.B. Sitzungen) gruppieren.
+Objeckteblöcke sind dann besonders sinnvoll, wenn Sie unterschiedliche Objekttypen gruppieren wollen. In einem späteren Schritt können Sie unter den „Materiallisten” neben Objekteblöcken auch alle Objekte eines Typs (z.B. Sitzungen) gruppieren.
 :::
 
 ## Gestaltung der Kursseite
@@ -83,7 +83,7 @@ Die Spalten werden dabei stets von links nach rechts durchgezählt: Die erste Sp
 ### Layout für Mobilgeräte
 ILIAS optimiert die Darstellung für verschiedene Display-Größen (vom Smartphone im Hochformat bis zum großen Desktop). Im Spaltenlayout können Sie selbst festlegen, wie breit jede Spalte auf den jeweiligen Endgeräten angezeigt wird. Mehrere Spalten nebeneinander werden auf schmalen Geräten untereinander angezeigt.
 
-## Schritt 3: Arrangieren der Objektblöcke
+## Schritt 3: Arrangieren der Objekteblöcke
 1. Klicken Sie auf „Seite gestalten”
 
 ![](https://i.imgur.com/Vf8zJp0.jpg)
@@ -98,7 +98,7 @@ ILIAS optimiert die Darstellung für verschiedene Display-Größen (vom Smartpho
 5. Auf der Seite können Sie in die einzelnen Spalten Inhalte einfügen.
 ![](https://i.imgur.com/4dIPt5p.jpg)
 
-6. Fügen Sie unter dem Eintrag „Materiallisten” Ihre erstellten Objektblöcke in die jeweilgen Spalten ein.
+6. Fügen Sie unter dem Eintrag „Materiallisten” Ihre erstellten Objekteblöcke in die jeweilgen Spalten ein.
 ![](https://i.imgur.com/vSZTih6.jpg)
 
 * Sie können auch alle Objekte eines Typs (z.B. Sitzungen) als eine Materialliste einer Spalte hinzufügen.
