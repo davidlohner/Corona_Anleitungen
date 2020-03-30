@@ -32,6 +32,10 @@ Diese Anleitung verfolgt einen Dreischritt, der in Teilen von der Bedienung von 
 
 Für diese Anleitung wird ein exemplarischer Kurs erstellt, der einem klassischen Sitzungsverlauf folgt und einige Zusatzmaterialien über ILIAS bereitstellt.
 
+:::warning
+Alle in den Bildern gezeigten Objekte sind ausschließlich für Demonstrationszwecke hinzugefügt. Hinweise für die (medien-)didaktische Gestaltung von reinen Online-Lehrveranstaltungen werden am ZML erarbeitet.
+:::
+
 ## Schritt 1: Objekte hinzufügen
 1. Fügen Sie neue Objekte auf der obersten Ebene des ILIAS-Kurses hinzu.
 ![](https://i.imgur.com/njEVqKe.jpg)
@@ -81,7 +85,8 @@ ILIAS optimiert die Darstellung für verschiedene Display-Größen (vom Smartpho
 
 ## Schritt 3: Arrangieren der Objektblöcke
 1. Klicken Sie auf „Seite gestalten”
-2. ![](https://i.imgur.com/Vf8zJp0.jpg)
+
+![](https://i.imgur.com/Vf8zJp0.jpg)
 
 2. Klicken Sie auf das Plus und wählen Sie „Spaltenlayout einfügen”.
 ![](https://i.imgur.com/DMW3lbw.jpg)
