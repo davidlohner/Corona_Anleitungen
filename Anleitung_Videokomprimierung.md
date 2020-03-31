@@ -5,7 +5,7 @@ tags: KIT_corona, Anleitung
 
 # Videos für den Upload vorbereiten
 ```
-letzte Aktualisierung: 25.03.2020
+letzte Aktualisierung: 31.03.2020
 ```
 Um die Datenmengen, die beim Produzieren von Videos entstehen für das Hochladen möglichst gering zu halten, sollten Sie die Videos vor dem Upload **komprimieren**. Das bedeutet, dass Sie die Dateigröße reduzieren, ohne die Qualität des Videos maßgeblich zu verringern.
 So können beschleunigen Sie den Upload und minimieren gleichzeitig die Serverlast der Ressourcen des KIT. Wie Sie das erreichen, zeigt diese Anleitung.
@@ -50,16 +50,12 @@ Sie können auch einen ganzen Ordner auswählen, der mehrere Videodateien enthä
 
 3. Navigieren Sie im Dateibrowser zu Ihren gespeicherten Videos und wählen Sie **ein** zu komprimierendes Video aus:
 ![](https://i.imgur.com/B5VyHFf.jpg)
-
 4. Wählen Sie im Auswahlmenü „Voreinstellungen” unter der Kategorie „General” den Punkt „Very Fast 720p30”:
 ![](https://i.imgur.com/m9uaGaI.jpg)
-
 6. Wählen Sie am unteren Rand des Fensters einen Speicherort für das komprimierte Video:
 ![](https://i.imgur.com/JKNKcEN.jpg)
-
 8. Klicken Sie auf den grünen „Start”-Button in der Menüleiste.
 ![](https://i.imgur.com/PKDFM8w.jpg)
-
 11. Springen Sie zu Punkt 16.
 
 
@@ -69,13 +65,10 @@ Sie können auch einen ganzen Ordner auswählen, der mehrere Videodateien enthä
 3. Navigieren Sie im Dateibrowser zu Ihren gespeicherten Videos und wählen Sie **den gesamten Ordner** aus, in dem die einzelnen Videos gespeichert sind.
 9. Wählen Sie im Auswahlmenü „Titel“ das erste zu komprimierende Video aus
 ![](https://i.imgur.com/WSvKP8K.jpg)
-
 10. Wählen Sie im Auswahlmenü „Voreinstellungen” unter der Kategorie „General” den Punkt „Very Fast 720p30”.
 ![](https://i.imgur.com/m9uaGaI.jpg)
-
 12. Klicken Sie in der Menüleiste auf den Button „Zur Warteschlage hinzufügen”
 ![](https://i.imgur.com/MV7m2gV.jpg)
-
 14. Wählen Sie am unteren Rand des Fensters einen Speicherort für das komprimierte Video.
 15. 🔄 Wiederholen Sie Punkt 4 bis 6 für *jedes* Video im ausgewählten Ordner bzw. in der Liste unter der Auswahl „Titel”.
 16. Klicken Sie auf den in der Menüleiste auf den Button „Warteschlange” um sich alle Videos in der Warteschlange anzeigen zu lassen.
@@ -105,5 +98,22 @@ Der Vorgang dauerte auf einem Notebook von 2015 etwa 3 Minuten.
 Wie Sie die Aufnahmen Ihren Studierenden bereitstellen, erfahren Sie in einer gesonderten Anleitung.
 
 ---
+## Infos & Kontakt
 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Diese Anleitung für die Erstellung von digitalem Lehrmaterial</span> des <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Zentrum für Mediales Lernen (ZML) am Karlsruher Instituts für Technologie (KIT)</span> ist lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung 4.0 International Lizenz</a>.<br />Über diese Lizenz hinausgehende Erlaubnisse können Sie unter <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.zml.kit.edu" rel="cc:morePermissions">http://www.zml.kit.edu</a> erhalten.
+### Lizenzhinweis
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Diese Anleitung für die Erstellung von digitalem Lehrmaterial</span> des <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Zentrum für Mediales Lernen (ZML) am Karlsruher Instituts für Technologie (KIT)</span> ist lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung 4.0 International Lizenz</a>.
+
+### Impressum
+
+**Herausgeber**
+Karlsruher Institut für Technologie (KIT)
+Kaiserstraße 12
+76131 Karlsruhe
+
+**Kontakt**
+Karl-Friedrich-Str. 17
+76133 Karlsruhe
+Deutschland
+Tel.: +49 721 608-48200
+Fax: +49 721 608-48210
+E-Mail: info@zml.kit.edu
