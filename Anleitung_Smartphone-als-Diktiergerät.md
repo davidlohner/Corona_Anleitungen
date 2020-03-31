@@ -106,7 +106,6 @@ Wir empfehlen den kostenfreien Audiorecorder [ASR kostenloser MP3 Recorder](http
 * Benennen Sie die Audiodateien auf Ihrem Computer nach einer einheitlichen Nomenklatur und organisieren Sie sie in einer durchdachten Ordnerstruktur. Das hilft Ihnen, die einzelnen Lerneinheiten später besser wiederzufinden und bereitzustellen.
 
 ## Nächste Schritte
-* Wie Sie die Aufnahmen für den Upload vorbereiten und dafür möglichst kleine Dateien bei gleichbleibender Qualität erzeugen, zeigt diese Anleitung: [Anleitung zu Videokomprimierung](https://s.kit.edu/tutorial-videokomprimierung).
 * Wie Sie die Aufnahmen Ihren Studierenden über ILIAS bereitstellen, erfahren Sie in einer gesonderten Anleitung.
 
 ---
