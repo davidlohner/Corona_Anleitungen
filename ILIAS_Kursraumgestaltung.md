@@ -5,7 +5,7 @@ tags: KIT_corona, Anleitung, ILIAS,
 
 # Ansprechende Kursraumgestaltung in ILIAS
 ```
-letzte Aktualisierung: 21.03.2020
+letzte Aktualisierung: 31.03.2020
 ```
 ILIAS-Kursräume sind die primäre Umgebung für die Organisation und Verwaltung Ihrer Lehrveranstaltung. Damit Studierende sich darin gut und leicht zurechtfinden, sollten Sie die jeweiligen Kursräume sauber strukturieren und optisch ansprechend und individuell gestalten. Auf diese Weise können die Studierenden mit nur einem kurzen Blick feststellen, in welchem virtuellen Raum sie sich gerade befinden.
 
@@ -32,8 +32,8 @@ Diese Anleitung verfolgt einen Dreischritt, der in Teilen von der Bedienung von 
 
 Für diese Anleitung wird ein exemplarischer Kurs erstellt, der einem klassischen Sitzungsverlauf folgt und einige Zusatzmaterialien über ILIAS bereitstellt.
 
-:::warning
-Alle in den Bildern gezeigten Objekte sind ausschließlich für Demonstrationszwecke hinzugefügt. Hinweise für die (medien-)didaktische Gestaltung von reinen Online-Lehrveranstaltungen werden am ZML erarbeitet.
+:::danger
+Alle in den Bildern gezeigten Objekte sind **ausschließlich für Demonstrationszwecke** hinzugefügt. Hinweise für die (medien-)didaktische Gestaltung von reinen Online-Lehrveranstaltungen werden am ZML erarbeitet.
 :::
 
 ## Schritt 1: Objekte hinzufügen
@@ -85,32 +85,20 @@ ILIAS optimiert die Darstellung für verschiedene Display-Größen (vom Smartpho
 
 ## Schritt 3: Arrangieren der Objekteblöcke
 1. Klicken Sie auf „Seite gestalten”
-
 ![](https://i.imgur.com/Vf8zJp0.jpg)
-
 2. Klicken Sie auf das Plus und wählen Sie „Spaltenlayout einfügen”.
 ![](https://i.imgur.com/DMW3lbw.jpg)
-
 4. Erstellen Sie nun ein Spaltenlayout, das für Ihre Inhalte sinnvoll ist
 ![](https://i.imgur.com/zf9p76G.jpg)
-
-
 5. Auf der Seite können Sie in die einzelnen Spalten Inhalte einfügen.
 ![](https://i.imgur.com/4dIPt5p.jpg)
-
 6. Fügen Sie unter dem Eintrag „Materiallisten” Ihre erstellten Objekteblöcke in die jeweilgen Spalten ein.
 ![](https://i.imgur.com/vSZTih6.jpg)
-
 * Sie können auch alle Objekte eines Typs (z.B. Sitzungen) als eine Materialliste einer Spalte hinzufügen.
     ![](https://i.imgur.com/9hapBoE.jpg)
-
-
 7. Fügen Sie an entsprechenden Stellen weitere Blöcke für Textbausteine (etwa Überschriften, kurze Absätze) ein. Wählen Sie dazu unter „Seite gestalten” - „Block einfügen” und wählen Sie aus den Absatzformaten z.B. „Hintergrund” um einen weißen Kasten um Ihre Textbausteine zu erhalten
-
 ![](https://i.imgur.com/OcWgGaB.jpg)
 ![](https://i.imgur.com/AN5maVy.jpg)
-
-
 8. Speichern Sie Textbausteine und Absätze regelmäßig über die Buttons „Speichern und ...” am oberen Rand des Editors.
 ![](https://i.imgur.com/avQuvRB.jpg)
 
@@ -138,16 +126,10 @@ In den Einstellungen Ihres Kurses können Sie unter „Darstellung” ein angepa
 ### Header-Bild (für einzelne Spalten)
 1. Fügen Sie unter „Seite gestalten” in einer Spalte Ihrer Wahl ein **Bild**/Audio/Video ein.
 ![](https://i.imgur.com/tJ4AlHc.jpg)
-
-
-
 2. Navigieren Sie zu den Einstellungen des hochgeladenen Bildes.
 ![](https://i.imgur.com/n6pOQfK.jpg)
-
 3. Wählen Sie im Reiter „Style” das Absatzformat „MediaContainerFull100”.
-
 ![](https://i.imgur.com/Iq7KhDx.jpg)
-
 ![](https://i.imgur.com/zhRrd7O.jpg)
 
 
@@ -155,10 +137,6 @@ In den Einstellungen Ihres Kurses können Sie unter „Darstellung” ein angepa
 # Einige Hinweise
 * Wichtige und für die Studierenden relevante Inhalte sollten möglichst prominent, also in der Hierarchie weit oben platziert werden.
 * Im Verlauf eines Semesters ändern sich die Prioritäten. Sollte Ihr Kurs mit einem „Herzlich Willkommen”-Textabsatz eröffnet werden, benötigen Sie diesen Abschnitt nach einigen Wochen im Semester ggf. nicht mehr. Dafür werden z.B. die Kriterien für Leistungsnachweise gefragter. **Passen Sie Ihren Kurs auch während des Semesters an die aktuellen Bedarfe Ihrer Studierenden an.**
-
-:::info
-Diese Anleitung wird laufend erweitert.
-:::
 
 ---
 ## Infos & Kontakt
