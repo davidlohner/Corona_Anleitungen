@@ -44,7 +44,6 @@ Wenn Sie Ihr Video **nur kürzen** wollen (vorne und oder hinten etwas abschneid
 ## Variante 2: iMovie
 ![](https://i.imgur.com/J3NozLc.jpg)
 
-
 Wenn Sie Ihr Video aufwändiger schneiden wollen, also Anfang und Ende kürzen, aber auch **in der Mitte Passagen herausschneiden** wollen, benötigen Sie ein Videoschnitt-Programm. Mit [iMovie](https://www.apple.com/de/imovie) steht unter macOS ein solches Programm kostenfrei zur Verfügung.
 
 1. Laden und installieren Sie (sofern noch nicht vorhanden) [iMovie aus dem Mac App Store](https://itunes.apple.com/de/app/imovie/id408981434?mt=12&ls=1&v0=www-us-mac-imovie-app-imovie).
@@ -101,3 +100,27 @@ Wie Sie die Videos für den Upload in die Systeme des KIT komprimieren, erfahren
 ![](https://i.imgur.com/4cddRzw.jpg)
 
 
+## Nächste Schritte
+Wie Sie die Aufnahmen Ihren Studierenden bereitstellen, erfahren Sie in einer gesonderten Anleitung.
+
+
+---
+## Infos & Kontakt
+
+### Lizenzhinweis
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Diese Anleitung für die Erstellung von digitalem Lehrmaterial</span> des <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Zentrum für Mediales Lernen (ZML) am Karlsruher Instituts für Technologie (KIT)</span> ist lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung 4.0 International Lizenz</a>.
+
+### Impressum
+
+**Herausgeber**
+Karlsruher Institut für Technologie (KIT)
+Kaiserstraße 12
+76131 Karlsruhe
+
+**Kontakt**
+Karl-Friedrich-Str. 17
+76133 Karlsruhe
+Deutschland
+Tel.: +49 721 608-48200
+Fax: +49 721 608-48210
+E-Mail: info@zml.kit.edu
