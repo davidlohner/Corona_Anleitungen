@@ -27,6 +27,7 @@ Zusatzinformationen sind blau gekennzeichnet.
 :::
 
 ---
+
 ## Tipps für die Aufzeichnung
 *  Legen Sie Ihr Smartphone vor sich auf eine glatte Unterlage.
 *  Verwenden Sie eine leicht gepolsterte Unterlage, um Erschütterungen zu vermeide
@@ -109,6 +110,7 @@ Wir empfehlen den kostenfreien Audiorecorder [ASR kostenloser MP3 Recorder](http
 * Wie Sie die Aufnahmen Ihren Studierenden über ILIAS bereitstellen, erfahren Sie in einer gesonderten Anleitung.
 
 ---
+
 ## Infos & Kontakt
 
 ### Lizenzhinweis
