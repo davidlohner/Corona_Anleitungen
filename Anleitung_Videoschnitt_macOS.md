@@ -99,10 +99,9 @@ Wie Sie die Videos für den Upload in die Systeme des KIT komprimieren, erfahren
 6. Wählen Sie einen geeigenten Speicherort für Ihr geschnittenes Video.
 ![](https://i.imgur.com/4cddRzw.jpg)
 
-
 ## Nächste Schritte
-Wie Sie die Aufnahmen Ihren Studierenden bereitstellen, erfahren Sie in einer gesonderten Anleitung.
-
+* Wie Sie die Aufnahmen für den Upload vorbereiten und dafür möglichst kleine Dateien bei gleichbleibender Qualität erzeugen, zeigt diese Anleitung: [Anleitung zu Videokomprimierung](https://s.kit.edu/tutorial-videokomprimierung).
+* Wie Sie die Aufnahmen Ihren Studierenden über ILIAS bereitstellen, erfahren Sie in einer gesonderten Anleitung.
 
 ---
 ## Infos & Kontakt
