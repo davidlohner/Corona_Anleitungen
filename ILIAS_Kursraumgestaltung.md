@@ -23,6 +23,7 @@ Zusatzinformationen sind blau gekennzeichnet.
 :::
 
 ---
+
 ## Konzept dieser Anleitung
 Diese Anleitung verfolgt einen Dreischritt, der in Teilen von der Bedienung von ILIAS als Lerning Management System (LMS) geschuldet ist. In aller Kürze lässt sich dieser Dreischritt wie folgt formulieren:
 
@@ -139,6 +140,7 @@ In den Einstellungen Ihres Kurses können Sie unter „Darstellung” ein angepa
 * Im Verlauf eines Semesters ändern sich die Prioritäten. Sollte Ihr Kurs mit einem „Herzlich Willkommen”-Textabsatz eröffnet werden, benötigen Sie diesen Abschnitt nach einigen Wochen im Semester ggf. nicht mehr. Dafür werden z.B. die Kriterien für Leistungsnachweise gefragter. **Passen Sie Ihren Kurs auch während des Semesters an die aktuellen Bedarfe Ihrer Studierenden an.**
 
 ---
+
 ## Infos & Kontakt
 
 ### Lizenzhinweis
