@@ -105,6 +105,10 @@ Wir empfehlen den kostenfreien Audiorecorder [ASR kostenloser MP3 Recorder](http
 * Sie sollten nach Möglichkeit **frei und nicht zu leise sprechen**. Stellen Sie sich vor die Studierenden säßen Ihnen gegenüber: Verwenden Sie eine direkte Ansprache und **vermeiden Sie lange und komplexe Sätze**.
 * Benennen Sie die Audiodateien auf Ihrem Computer nach einer einheitlichen Nomenklatur und organisieren Sie sie in einer durchdachten Ordnerstruktur. Das hilft Ihnen, die einzelnen Lerneinheiten später besser wiederzufinden und bereitzustellen.
 
+## Nächste Schritte
+* Wie Sie die Aufnahmen für den Upload vorbereiten und dafür möglichst kleine Dateien bei gleichbleibender Qualität erzeugen, zeigt diese Anleitung: [Anleitung zu Videokomprimierung](https://s.kit.edu/tutorial-videokomprimierung).
+* Wie Sie die Aufnahmen Ihren Studierenden über ILIAS bereitstellen, erfahren Sie in einer gesonderten Anleitung.
+
 ---
 ## Infos & Kontakt
 
