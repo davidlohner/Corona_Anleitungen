@@ -36,10 +36,7 @@ Dazu klicken Sie „öffnen“ im Menü „Datei”. Im neuen Fenster wählen Si
 ### Den Anfang abschneiden
 Um unerwünschte Seuquenzen zu Beginn des Videos zu entfernen, gehen Sie mit dem Regler auf der Timeline bis zu der Stelle, ab der das Video beginnen soll.
 Nun kann mit dem B-Button (B = before) der vordere Teil abgetrennt und mit der **Entfernentaste** gelöscht werden.
-
-:::danger
-Hier soll Screenshot1 - Siehe Nextcloud - hin. Pfeil auf den Reglerkopf und Oval um den B-Button
-:::
+![](https://i.imgur.com/rWfnpqj.jpg)
 
 :::warning
 Achtung: die Backspace-Taste funktioniert hier nicht, nur die Entfernen/Delete-Taste!
@@ -53,10 +50,8 @@ Tipp: Man kann auch die Pfeiltasten auf der Tastatur oder die Pfeil-Buttons unte
 ### Das Ende entfernen
 Um unerwünschte Sequenzen am Ende des Videos zu entfernen, positioniert man den Timeline-Regler dort, wo das Video aufhören soll.
 Drücken Sie nun den A-Button (A = after). Nun ist ab dort alles bis zum Ende markiert und kann mit der Entfernen-Taste gelöscht werden.
+![](https://i.imgur.com/1Vx7TYe.jpg)
 
-:::danger
-Hier soll Screenshot 2 hin - Oval um A-Button (roter Button)
-:::
 
 ### Eine Sequenz mitten im Video rausschneiden
 Um mitten im Video zu schneiden, muss der Regler zuerst auf den Beginn der zu entfernenden Sequenz gesetzt werden.
@@ -77,9 +72,7 @@ Am linken Rand befinden sich mehrere Möglichkeiten, um Voreinstellungen vorzune
 Um das Video als Mp4 zu speichern gehen Sie unter dem Menü „Datei” auf „Speichern”.
 Wählen Sie im neue Fenster einen Ort und benennen Sie das Video. Drücken Sie auf „OK”. Sie erhalten eine Benachrichtigung über den erfolgreichen Speichervorgang.
 
-:::danger
-Hier soll Screenshot 3 hin - Oval um das Auswahlfenster des Ausgabeformats
-:::
+![](https://i.imgur.com/Cx5iiXI.jpg)
 
 :::warning
 Sie können nur den Dateitypen speichern, den Sie zuvor im Programm als Ausgabeformat gewählt haben.
