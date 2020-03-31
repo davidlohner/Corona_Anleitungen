@@ -5,7 +5,7 @@ tags: KIT_corona, Anleitung
 
 # Bildschirmaufzeichnung mit iOS
 ```
-letzte Aktualisierung: 25.03.2020
+letzte Aktualisierung: 31.03.2020
 ```
 Wenn Sie ihre Lehrinhalte auf ihrem Apple iPad oder Apple iPhone vorliegen haben, können Sie diese Inhalte mit einfachen aufzeichnen. Diese Anleitung zeigt, welche Schritte unter iOS dafür nötig sind.
 :::warning
