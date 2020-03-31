@@ -125,8 +125,8 @@ Nach der Aufzeichnung übertragen Sie die Aufnahmen von Ihrem Smartphone auf Ihr
 
 
 ## Nächste Schritte
-Wie Sie die Aufnahmen für Ihre Studierenden bereitstellen, erfahren Sie in einer gesonderten Anleitung.
-
+* Wie Sie die Aufnahmen für den Upload vorbereiten und dafür möglichst kleine Dateien bei gleichbleibender Qualität erzeugen, zeigt diese Anleitung: [Anleitung zu Videokomprimierung](https://s.kit.edu/tutorial-videokomprimierung).
+* Wie Sie die Aufnahmen Ihren Studierenden über ILIAS bereitstellen, erfahren Sie in einer gesonderten Anleitung.
 ---
 ## Infos & Kontakt
 
