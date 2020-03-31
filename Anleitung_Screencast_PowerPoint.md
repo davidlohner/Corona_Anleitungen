@@ -70,18 +70,14 @@ Sollten Sie mit einem der Aspekte nicht zufrieden sein, korrigieren Sie die ents
 :::
 * Benennen Sie die Videodateien auf Ihrem Computer nach einer einheitlichen Nomenklatur und organisieren Sie sie in einer durchdachten Ordnerstruktur. Das hilft Ihnen, die einzelnen Lerneinheiten später besser wiederzufinden und bereitzustellen.
 
-
-## Nächste Schritte
-Wie Sie die Aufnahmen Ihren Studierenden bereitstellen, erfahren Sie in einer gesonderten Anleitung.
-
-
-
-
 ## MS PowerPoint-Hilfe
 Sollten Sie Probleme haben, in PowerPoint die Funktion für die Aufzeichnung Ihrer Präsentation zu finden, kann Ihnen die offizielle Support-Seite von Microsoft weiterhelfen:
 
 [Aufzeichnen einer Bildschirmpräsentation (Microsoft)](https://support.office.com/de-de/article/aufzeichnen-einer-bildschirmpräsentation-mit-kommentaren-und-folienanzeigedauern-0b9502c6-5f6c-40ae-b1e7-e47d8741161c#OfficeVersion=Office_365)
 
+## Nächste Schritte
+* Wie Sie die Aufnahmen für den Upload vorbereiten und dafür möglichst kleine Dateien bei gleichbleibender Qualität erzeugen, zeigt diese Anleitung: [Anleitung zu Videokomprimierung](https://s.kit.edu/tutorial-videokomprimierung).
+* Wie Sie die Aufnahmen Ihren Studierenden über ILIAS bereitstellen, erfahren Sie in einer gesonderten Anleitung.
 
 ---
 ## Infos & Kontakt
