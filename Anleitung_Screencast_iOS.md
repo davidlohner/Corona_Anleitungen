@@ -62,6 +62,10 @@ Sollten Sie Probleme haben, die Funktion für die Aufzeichnung auf Ihrem Gerät 
 
 [Aufzeichnen des Bildschirminhalts unter iOS (Apple)](https://support.apple.com/de-de/HT207935)
 
+## Nächste Schritte
+* Wie Sie die Aufnahmen für den Upload vorbereiten und dafür möglichst kleine Dateien bei gleichbleibender Qualität erzeugen, zeigt diese Anleitung: [Anleitung zu Videokomprimierung](https://s.kit.edu/tutorial-videokomprimierung).
+* Wie Sie die Aufnahmen Ihren Studierenden über ILIAS bereitstellen, erfahren Sie in einer gesonderten Anleitung.
+
 
 ---
 ## Infos & Kontakt
