@@ -89,9 +89,6 @@ Benutzten Sie das Format MP4v2, denn es ist mit den meisten Playern kompatibel.
 :::
 
 
-## Nächste Schritte
-Wie Sie die Aufnahmen Ihren Studierenden bereitstellen, erfahren Sie in einer gesonderten Anleitung.
-
 
 ## Amerkungen
 Avidemux ist ein einfaches Programm, um Sequenzen aus Videos herauszuschneiden oder Anfang und Ende zu kürzen. Man kann die Sequenzen nicht verschieben, die Reihenfolge tauschen oder gar einen Videoclip in das Video einfügen.
@@ -104,6 +101,10 @@ Es gibt viele weitere, allerdings komplexere Programme, mit denen Videos geschni
 * Corel **VideoStudio X10**: Dieses Programm steht Mitarbeiter:innen des KIT zur Verfügung. [Eine Anleitung finden Sie hier](https://learn.corel.com/video-tutorials/videostudio-pro-tutorials/videostudio-x10-tutorials/)
 * Für Linux-User (und auch unter Windows) können Videos mit dem Programm **ShotCut** gekürzt, geschnitten, eingefügt, neu positioniert und beschriftet werden.
 
+
+## Nächste Schritte
+* Wie Sie die Aufnahmen für den Upload vorbereiten und dafür möglichst kleine Dateien bei gleichbleibender Qualität erzeugen, zeigt diese Anleitung: [Anleitung zu Videokomprimierung](https://s.kit.edu/tutorial-videokomprimierung).
+* Wie Sie die Aufnahmen Ihren Studierenden über ILIAS bereitstellen, erfahren Sie in einer gesonderten Anleitung.
 ---
 ## Infos & Kontakt
 
