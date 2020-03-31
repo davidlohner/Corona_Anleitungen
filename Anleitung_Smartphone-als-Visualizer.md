@@ -6,14 +6,14 @@ tags: KIT_corona, Anleitung
 # Das Smartphone als Visualizer
 
 ```
-letzte Aktualisierung: 25.03.2020
+letzte Aktualisierung: 31.03.2020
 ```
 
 Zahlreiche Lehrveranstaltungen finden im Format einer Vorlesung statt. Dabei schreiben Dozierende an die Tafel oder nutzen einen Visualizer.
 
 Diese Anleitung zeigt, wie Sie im Homeoffice
 1. mit alltäglichen Gegenständen und Ihrem Smartphone einen Visualizer „bauen”,
-2.  wie Sie mit diesem Aufbau Videos aufzeichnen um Ihre Vorlesung selbst aufzuzeichnen
+2. wie Sie mit diesem Aufbau Videos aufzeichnen um Ihre Vorlesung selbst aufzuzeichnen
 
 Sie erhalten darüberhinaus einige Tipps, die Sie für die Aufnahme beachten sollten.
 
@@ -128,5 +128,22 @@ Nach der Aufzeichnung übertragen Sie die Aufnahmen von Ihrem Smartphone auf Ihr
 Wie Sie die Aufnahmen für Ihre Studierenden bereitstellen, erfahren Sie in einer gesonderten Anleitung.
 
 ---
+## Infos & Kontakt
 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Diese Anleitung für die Erstellung von digitalem Lehrmaterial</span> des <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Zentrum für Mediales Lernen (ZML) am Karlsruher Instituts für Technologie (KIT)</span> ist lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung 4.0 International Lizenz</a>.<br />Über diese Lizenz hinausgehende Erlaubnisse können Sie unter <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.zml.kit.edu" rel="cc:morePermissions">http://www.zml.kit.edu</a> erhalten.
+### Lizenzhinweis
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Diese Anleitung für die Erstellung von digitalem Lehrmaterial</span> des <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Zentrum für Mediales Lernen (ZML) am Karlsruher Instituts für Technologie (KIT)</span> ist lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung 4.0 International Lizenz</a>.
+
+### Impressum
+
+**Herausgeber**
+Karlsruher Institut für Technologie (KIT)
+Kaiserstraße 12
+76131 Karlsruhe
+
+**Kontakt**
+Karl-Friedrich-Str. 17
+76133 Karlsruhe
+Deutschland
+Tel.: +49 721 608-48200
+Fax: +49 721 608-48210
+E-Mail: info@zml.kit.edu
