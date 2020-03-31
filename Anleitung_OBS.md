@@ -5,7 +5,7 @@ tags: KIT_corona, Anleitung
 
 # Videos mit Open Broardcaster Software aufnehmen 
 ```
-letzte Aktualisierung: 25.03.2020
+letzte Aktualisierung: 31.03.2020
 ```
 Wenn Sie ihre Lehrinhalte in digitaler Form auf Ihrem Computer vorliegen haben, können Sie einen Vortrag und diesen digitalen Inhalten mit einer speziellen Broardcaster Software aufzeichnen. Diese Anleitung zeigt, welche Schritte in Open Broardcaster Software (OBS) dafür nötig sind.
 
@@ -43,16 +43,12 @@ OBS ist eine Open Source Software, die es für alle gängigen Betriebssysteme gi
 
 1.	Führen Sie den Autokonfigurationsassistenten durch, den OBS nach dem ersten Starten anbietet.
 ![](https://i.imgur.com/XbxBcDl.jpg)
-
 3.	Wählen Sie aus, dass sie vornehmlich **aufzeichnen** wollen.
 ![](https://i.imgur.com/PH7F3ho.jpg)
-
 4.	Geben Sie für die Basis-(Leinwand)-Auflösung bitte 1280x720 an. Für die FPS (Frames per Second) 30. 
 ![](https://i.imgur.com/mjukTGW.jpg)
-
 * **Je nach Betriebssystem** testet OBS anschließend ihr System und prüft dabei, ob die gewählten Einstellungen mit der Leistung Ihres Computers funktionieren:
 ![](https://i.imgur.com/86Q0k8S.jpg)
-
 4. Wenden Sie die Einstellungen an.
 ![](https://i.imgur.com/NS1RhCC.jpg)
 
@@ -64,7 +60,6 @@ Sollten Sie an dieser Stelle eine Fehlermeldung erhalten, kontaktieren Sie bitte
 ## Schritt 3: Aufnahme einrichten
 1. Wählen Sie unter „Quellen” mit einem Klick auf das Plus-Symbol „Bildschirmaufnahme”
 ![](https://i.imgur.com/4C9vjZp.jpg)
-
 2. Wählen Sie den Monitor, dessen Bildschirminhalt Sie aufzeichnen möchten. Wenn Sie nur einen Monitor haben, wird in der Auswahlliste nur eine Quelle angezeigt.
 ![](https://i.imgur.com/9SFSYgO.jpg)
 
@@ -91,38 +86,30 @@ Sie müssen der Software OBS über die Systemeinstellungen erlauben, Bildschirma
 
 ![](https://i.imgur.com/ypjgZOE.jpg)
 
-
 5.	Öffnen Sie die **Einstellungen** 
 ![](https://i.imgur.com/VxDH7Pb.jpg)
-
 6. Wählen Sie unter dem Reiter „Ausgabe”:
     * den Ausgabepfad, wo Sie die Aufnahmen abspeichern wollen. OBS nimmt Datum und Uhrzeit automatisch als Dateinamen.
     * die Aufnahmequalität **Hohe Qualität, mittelgroße Dateien**
     * das Ausgabeformat **mp4**
 ![](https://i.imgur.com/0jVMp1E.jpg)
-
 6. Speichern Sie die Einstellungen mit einem Klick auf den Button **Okay**
-
 7.	Im Audio-Mixer sollte Ihr Mikrofon / Headset zu sehen sein. Deaktivieren Sie ggfs. alle anderen Signalquellen, es sei denn Sie möchten ein Video mit Ton in Ihrer Präsentation abspielen (dann muss Desktop-Audio aktiviert werden).
 ![](https://i.imgur.com/jQW5Tjo.jpg)
-
 8.	Testen Sie eine kurze Aufnahme ob alles nach Ihrer Vorstellung funktioniert
 ![](https://i.imgur.com/DJiQKua.jpg)
 
 ## Schritt 4: Weitere Aufnahmequellen hinzufügen
 Sie können weitere Bildquellen für Ihre Aufnahme hinzufügen, z.B. eine Webcam oder einen zweiten Bildschirm. Beachten Sie dabei, dass Ihnen nur eine Leinwand zur Verfügung steht, auf denen Ihre Inhalte dargestellt werden. Sollte Schrift gut lesbar sein, stellen Sie bitte sicher, dass die Schriftgröße entsprechend gewählt ist.
 
-**Für das Beispiel einer zusätzlichen Webcam: 
+**Für das Beispiel einer zusätzlichen Webcam**: 
 1. Fügen Sie unter „Quellen” eine Weitere Quelle hinzu.
 2. Wählen Sie „Videoaufnahmegerät”.
 ![](https://i.imgur.com/Du6MoN9.jpg)
-
 3. Benennen Sie die Quelle für Ihr Aufnahmesetting. Diese Benennung dient ausschließlich dazu, die Quellen in OBS zu organisieren.
 ![](https://i.imgur.com/9TaDr9Z.jpg)
-
 4. Wählen Sie im Auswahlfeld „Gerät” Ihre Webcam aus.
 ![](https://i.imgur.com/imQJ6HT.jpg)
-
 5. Skalieren und positionieren Sie das Bild der Webcam auf Ihrer Leinwand wie Sie es bereits mit Ihrem Bildschirminhalt getan haben.
 ![](https://i.imgur.com/mK1FJGW.jpg)
 
@@ -140,6 +127,24 @@ Sie können weitere Bildquellen für Ihre Aufnahme hinzufügen, z.B. eine Webcam
 Wie Sie die Aufnahmen Ihren Studierenden bereitstellen, erfahren Sie in einer gesonderten Anleitung.
 
 
----
 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Diese Anleitung für die Erstellung von digitalem Lehrmaterial</span> des <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Zentrum für Mediales Lernen (ZML) am Karlsruher Instituts für Technologie (KIT)</span> ist lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung 4.0 International Lizenz</a>.<br />Über diese Lizenz hinausgehende Erlaubnisse können Sie unter <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.zml.kit.edu" rel="cc:morePermissions">http://www.zml.kit.edu</a> erhalten.
+---
+## Infos & Kontakt
+
+### Lizenzhinweis
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Diese Anleitung für die Erstellung von digitalem Lehrmaterial</span> des <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Zentrum für Mediales Lernen (ZML) am Karlsruher Instituts für Technologie (KIT)</span> ist lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung 4.0 International Lizenz</a>.
+
+### Impressum
+
+**Herausgeber**
+Karlsruher Institut für Technologie (KIT)
+Kaiserstraße 12
+76131 Karlsruhe
+
+**Kontakt**
+Karl-Friedrich-Str. 17
+76133 Karlsruhe
+Deutschland
+Tel.: +49 721 608-48200
+Fax: +49 721 608-48210
+E-Mail: info@zml.kit.edu
