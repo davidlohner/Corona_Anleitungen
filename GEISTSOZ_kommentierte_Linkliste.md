@@ -88,6 +88,8 @@ Für verpflichtende Abgaben in Textform (etwa Reflexionen, Standpunktvertretunge
 2. **Blogs** ermöglichen es, dass die Studierenden einen eigenen Kanal haben, ihre Beiträge an einem Ort zu bündeln. Alle anderen Lernenden können Blogbeiträge kommentieren und Stellung beziehen. Bei größeren Gruppen kann dieses Format unübersichtlich werden.
 3. **Übungen** können so eingerichtet werden, dass reine Textabgaben mit Mindest- und Höchstzeichenzahl eingefordert werden. Zusätzlich kann ein „Peer-Review” eingsetellt weden, sodass die Studierenden sich gegenseitig Feedback zu Ihren Beiträgen geben. Übungen können auch direkt im LMS mit Fristen versehen werden.
 
+## Bereitstellen von Video- und Audiodateien
+
 ---
 
 ## Allgemeine Empfehlungen zur Gestaltung von Online-Lehre
