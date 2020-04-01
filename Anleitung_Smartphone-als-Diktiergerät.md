@@ -6,7 +6,7 @@ tags: KIT_corona, Anleitung
 # Audio aufzeichnen mit dem Smartphone
 
 ```
-letzte Aktualisierung: 31.03.2020
+letzte Aktualisierung: 01.04.2020
 ```
 Es gibt Vorträge und Lehrinhalte, die zunächst keiner weiteren Annotationen bedürfen. Für diese Inhalte können Sie Ihren Studierenden ein einfaches PDF  (oder die PowerPonint-Datei) Ihrer **Folien und zusätzlich eine Audiodatei** zukommen lassen.
 
@@ -34,8 +34,16 @@ Zusatzinformationen sind blau gekennzeichnet.
 *  Vermeiden Sie, Gegenstände in der Nähe des Mikrofons Ihres Smartphones zu bewegen, diese Geräusche sind auf der Aufnahme sehr laut und störend zu hören.
 *  Machen Sie zunächst eine Testaufnahme, bevor Sie mit Ihren eigentlichen Inhalten starten.
 
+
 ## Audio aufzeichnen mit iOS-Gerät
-1. Starten Sie die App „Sprachmemos”
+Zunächst müssen Sie sicherstellen, dass ihr iOS-Gerät die Sprachnotizen im korrekten Audio-Format abspeichert. Das reduziert den Speicherverbrauch und beschleunigt damit den Upload in die Systeme des KIT (z.B. ILIAS).
+
+1. Öffnen Sie die Systemeinstellungen unter iOS.
+2. Suchen Sie nach den Einstellungen der App „Sprachmemos“
+![](https://i.imgur.com/RTY6qwU.jpg =350x)
+4. Wählen Sie unter „Audioqualität” die Einstellung „Komprimiert”.
+![](https://i.imgur.com/geod67R.jpg =350x)
+6. Starten Sie die App „Sprachmemos”
 ![](https://i.imgur.com/I7N1edk.jpg =350x)
 4. Drücken Sie auf den roten Button unten in der Mitte.
 ![](https://i.imgur.com/3lRPVg8.jpg =350x)
@@ -52,7 +60,6 @@ Tippen Sie dazu auf den Titel des Sprachmemos (ist nicht direkt als „klickbar�
 9. „Teilen” Sie die Aufnahme über den Button mit den drei Punkten und übertragen Sie die Aufnahme so auf Ihrem Computer.
 ![](https://i.imgur.com/eFvGz3Z.jpg =350x)
 ![](https://i.imgur.com/i77483g.jpg =350x)
-
 
 
 ## Audio aufzeichnen mit Android-Gerät
