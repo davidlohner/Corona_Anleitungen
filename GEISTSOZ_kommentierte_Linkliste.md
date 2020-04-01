@@ -9,7 +9,6 @@ letzte Aktualisierung: 01.04.2020
 ```
 [TOC]
 
-## Einleitung
 Alle online angebotenen Lehrveranstaltungen sollen im zentralen Learning Management System ILIAS eingetragen werden. Somit liegen die wesentlichen Informationen in einem System vor. Es ist uns klar, dass das ILIAS-System damit eine noch größere Beanspruchung als bislang erfährt. Ziel ist es einen zentralen Informationspunkt für die Studierenden zu schaffen. Der Verweis auf andere System kann aus ILIAS heraus erfolgen.
 ILIAS bietet Ihnen nach der initialen Kurseinrichtung die notwendigen Funktionen um die Kursteilnehmer zu verwalten, Lehrmaterialien weiterzugeben, mit den Studierenden zu kommunizieren, Arbeitsaufträge zu verteilen sowie Ergebnisse einzusammeln und bei Bedarf virtuelle Gruppenarbeitsräume einzurichten. ([Informationsseite des ZML](http://www.zml.kit.edu/corona-ilias-nutzung.php))
 
@@ -49,6 +48,7 @@ Im genannten Hilfebreich gibt es ein **Wiki, in dem jeder Objekt-Typ beschrieben
 Weiter gibt es ein Forum, auf das alle Dozierenden des KIT Zugriff haben um sich unabhängig von einzelnen Wiki-Seiten auszutauschen.
 ➡️ **[Link zum Austausch-Forum in ILIAS](https://ilias.studium.kit.edu/ilias.php?ref_id=1099877&cmd=showThreads&cmdClass=ilrepositorygui&cmdNode=uf&baseClass=ilrepositorygui)**
 
+
 ## Spielwiese zum Ausprobieren und Testen
 Auf der oben genannten Pilot-Instanz gibt es die Möglichkeit, alle Funktionen auszuprobieren. Loggen Sie sich dazu dort ein und erstellen Sie im Workshop-Bereich des ZML einen neuen Kurs. Diese Kurse werden im jährlichen Turnus wieder von der Plattform entfernt. Die „Spielwiese” auf dem Produktivsystem soll nicht länger unterstützt und betrieben werden.
 ➡️ **[Link zur Pilot-Instanz](https://scc-ilias-plugins.scc.kit.edu/goto.php?target=cat_5468&client_id=pilot)**
@@ -72,16 +72,25 @@ Hier finden Sie Schritt-für-Schritt-Anleitungen zu folgenden Aspekten:
 9. [Übungen in ILIAS anlegen](https://s.kit.edu/ilias-uebungen)
 10. [Rechteverwaltung in ILIAS](https://s.kit.edu/ilias-rechteverwaltung)
 
+## Support für ILIAS
+Neben dem [Support des SCC](ilias@studium.kit.edu) für technische Fragen und dem [Support des ZML](elearning@studium.kit.edu) für didaktische und anwendungsbezogene Fragen zu ILIAS finden Sie auch in den sehr umfangreichen [Support-Dokumenten der ILIAS-Community](https://docu.ilias.de/goto_docu_lm_6022.html) weitere Informationen.
+
+---
+# Spezifika für GeistSoz
+Für Lehrformate, wie sie insbesondere an der KIT-Fakulät für Geistes- und Sozialwissenschaften gebraucht werden hier noch einige Zusätze zur ILIAS-Nutzung:
+
+## Diskussionen und Kommunikationswege
+Für Diskussionen und Debatten sollte sorgfältig abgewägt werden, ob ein ILIAS-Forum oder besser Microsoft Teams eingesetzt wird. Beide Systeme haben Vor- und Nachteile. Insbesondere in kleineren Gruppen, die doch zeitgleich an einer Diskussion teilnehmen ist MS Teams vorzuziehen, da hier auch unkompliziert Konferenzschaltungen möglich sind (auch ohne Video nur Ton), die mit einem Chat begleitet werden. ILIAS-Foren hingegen sind im LMS integriert und sind bei einer Vielzahl gleichzeitiger aber thematisch unterschiedlicher Diskussionen (Threads/Themen) übersichtlicher.
+
+## Verpflichtende Abgaben in Textform
+Für verpflichtende Abgaben in Textform (etwa Reflexionen, Standpunktvertretungen oder Zusammenfassungen) können in ILIAS unterschiedliche Abgabeformate verwendet werden:
+1. **Foren** können hierzu genutzt werden. Sind die Studierenden diszipliniert genug, dass die Teilnehmenden eines Seminars jeweils nur *einen* Beitrag formulieren kann über die Gesamtzahl der Antworten beurteilt werden, ob alle Teilnehmer:innen sich beteiligt haben.
+2. **Blogs** ermöglichen es, dass die Studierenden einen eigenen Kanal haben, ihre Beiträge an einem Ort zu bündeln. Alle anderen Lernenden können Blogbeiträge kommentieren und Stellung beziehen. Bei größeren Gruppen kann dieses Format unübersichtlich werden.
+3. **Übungen** können so eingerichtet werden, dass reine Textabgaben mit Mindest- und Höchstzeichenzahl eingefordert werden. Zusätzlich kann ein „Peer-Review” eingsetellt weden, sodass die Studierenden sich gegenseitig Feedback zu Ihren Beiträgen geben. Übungen können auch direkt im LMS mit Fristen versehen werden.
+
 ---
 
 ## Allgemeine Empfehlungen zur Gestaltung von Online-Lehre
-Das Zentrum für Mediales Lernen (ZML) [erarbeitet derzeit didaktische Empfehlungen für die Umsetzung von Lehrangeboten](http://www.zml.kit.edu/corona-online-lehre.php) im digitalen Raum, die für das gesamte KIT formuliert werden. An anderer Stelle finden sich online bereits einige Hinweise zu diesem Thema:
-
-* Umfangreiche Sammlung von Lehrszenarien mit digitaler Unterstützung bei [e-teaching.org](https://www.e-teaching.org/lehrszenarien)
-* Das [Hochschulforum Digitalisierung beschreibt drei Lehrszenarien](https://hochschulforumdigitalisierung.de/de/blog/3-lehrszenarien) und wie sie digital umgesetzt werden können (Vorlesung, Seminar, Selbstlerneinheit)
-    * Es gibt dazu auch eine [übersichtliche Infografik](https://hochschulforumdigitalisierung.de/sites/default/files/downloads/Virtuelle%20Lehrszenarien.pdf)
-* Einen Überblick mit Überlegungen zur generellen Situation, in der sich viele Lehrende jetzt befinden, beschreibt [Christian Friedrich in seinem Blog](https://blog.christianfriedrich.org/deutsch/den-einstieg-in-online-lehre-finden-geduld-improvisation-netzwerke-suchen/)
-
 
 ---
 ## Infos & Kontakt
