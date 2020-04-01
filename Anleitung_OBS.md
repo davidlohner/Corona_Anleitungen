@@ -3,11 +3,11 @@ tags: KIT_corona, Anleitung
 ---
 ![](https://i.imgur.com/eAg9Fgb.png)
 
-# Videos mit Open Broardcaster Software aufnehmen 
+# Videos mit Open Broadcaster Software aufnehmen 
 ```
 letzte Aktualisierung: 31.03.2020
 ```
-Wenn Sie ihre Lehrinhalte in digitaler Form auf Ihrem Computer vorliegen haben, können Sie einen Vortrag und diesen digitalen Inhalten mit einer speziellen Broardcaster Software aufzeichnen. Diese Anleitung zeigt, welche Schritte in Open Broardcaster Software (OBS) dafür nötig sind.
+Wenn Sie ihre Lehrinhalte in digitaler Form auf Ihrem Computer vorliegen haben, können Sie einen Vortrag und diesen digitalen Inhalten mit einer speziellen Broadcaster Software aufzeichnen. Diese Anleitung zeigt, welche Schritte in Open Broadcaster Software (OBS) dafür nötig sind.
 
 #### Übersicht
 [TOC]
@@ -114,7 +114,7 @@ Sie können weitere Bildquellen für Ihre Aufnahme hinzufügen, z.B. eine Webcam
 ![](https://i.imgur.com/mK1FJGW.jpg)
 
 :::danger
-* Sollten Sie mehrere Bildquellen aufzeichnen, postitionieren Sie sie so, dass keine Inhalte der jeweils anderen Quelle verdeckt werden!
+* Sollten Sie mehrere Bildquellen aufzeichnen, positionieren Sie sie so, dass keine Inhalte der jeweils anderen Quelle verdeckt werden!
 :::
 
 ## Einige Tipps
