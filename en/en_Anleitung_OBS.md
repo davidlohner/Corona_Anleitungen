@@ -3,129 +3,129 @@ tags: KIT_corona, Anleitung
 ---
 ![](https://i.imgur.com/eAg9Fgb.png)
 
-# TestVideos mit Open Broadcaster Software aufnehmen 
+# Record videos with Open Broadcaster software 
 ```
-letzte Aktualisierung: 31.03.2020
+last updating: 31.03.2020
 ```
-Wenn Sie ihre Lehrinhalte in digitaler Form auf Ihrem Computer vorliegen haben, können Sie einen Vortrag und diesen digitalen Inhalten mit einer speziellen Broadcaster Software aufzeichnen. Diese Anleitung zeigt, welche Schritte in Open Broadcaster Software (OBS) dafür nötig sind.
+If you have your teaching content in digital form on your computer, you can record a lecture and this digital content with a special broadcaster software. This tutorial describes which steps in Open Broadcaster Software (OBS) are necessary for this.
 
-#### Übersicht
+#### Overview
 [TOC]
 
 ---
 
 :::warning
-Wichtige Hinweise sind gelb gekennzeichnet.
+Important notes are marked yellow.
 :::
 
 :::info
-Zusatzinformationen sind blau gekennzeichnet.
+Additional information is marked in blue.
 :::
 
 ---
 
-### Benötigte Ausstattung
-* PC oder Mac mit:
-    * Mikrofon (am besten ein Headset) 
-    * optional: (integrierte) Webcam
+### Required equipment
+* PC or Mac with:
+    * Microphone (preferably a headset) 
+    * optional: (integrated) webcam
 * Open Broadcaster Software (OBS)
-* Ihre Lehrinhalte in digitaler Form
+* Your teaching content in digital form
 
-## Schritt 1: OBS installieren
-1. Bitte laden Sie sich OBS von der offiziellen Webseite: [OBS herunterladen](https://obsproject.com)
+## Step 1: Install OBS
+1. Please download OBS from the official website [Download OBS](https://obsproject.com)
 :::info
-OBS ist eine Open Source Software, die es für alle gängigen Betriebssysteme gibt: Windows, macOS und Linux.
+OBS is an open source software that is available for all common operating systems: Windows, macOS and Linux.
 :::
-2. Installieren Sie OBS auf Ihrem Computer. Ggf. müssen Sie hierzu Ihren ITB bzw. Administrator um Hilfe bitten, sofern Ihr eigener Benutzeraccount nicht über die dafür notwendigen Rechte verfügt.
-    * Sie brauchen keine zusätzlichen Plugins installieren.
+2. Install OBS on your computer. You may have to ask your ITB or administrator for help if your own user account does not have the necessary rights.
+    * You do not need to install any additional plugins.
 
-## Schritt 2: OBS konfigurieren
+## Step 2: Configure OBS
 
-1.	Führen Sie den Autokonfigurationsassistenten durch, den OBS nach dem ersten Starten anbietet.
+1. Run the auto-configuration wizard that OBS offers after the first startup
 ![](https://i.imgur.com/XbxBcDl.jpg)
-3.	Wählen Sie aus, dass sie vornehmlich **aufzeichnen** wollen.
+2. Select that you mainly want to **record**.
 ![](https://i.imgur.com/PH7F3ho.jpg)
-4.	Geben Sie für die Basis-(Leinwand)-Auflösung bitte 1280x720 an. Für die FPS (Frames per Second) 30. 
+3. Please specify 1280x720 for the basic (screen) resolution. For the FPS (Frames per Second) 30. 
 ![](https://i.imgur.com/mjukTGW.jpg)
-* **Je nach Betriebssystem** testet OBS anschließend ihr System und prüft dabei, ob die gewählten Einstellungen mit der Leistung Ihres Computers funktionieren:
+* **Every operating system** OBS then tests your system and checks if the selected settings work with the performance of your computer:
 ![](https://i.imgur.com/86Q0k8S.jpg)
-4. Wenden Sie die Einstellungen an.
+4. Apply the settings.
 ![](https://i.imgur.com/NS1RhCC.jpg)
 
 :::danger
-Sollten Sie an dieser Stelle eine Fehlermeldung erhalten, kontaktieren Sie bitte das ZML.
+If you receive an error message at this point, please contact the ZML.
 :::
 
 
-## Schritt 3: Aufnahme einrichten
-1. Wählen Sie unter „Quellen” mit einem Klick auf das Plus-Symbol „Bildschirmaufnahme”
+## Step 3: Set up recording
+1. Under "Sources", select "Screen recording" by clicking on the plus symbol
 ![](https://i.imgur.com/4C9vjZp.jpg)
-2. Wählen Sie den Monitor, dessen Bildschirminhalt Sie aufzeichnen möchten. Wenn Sie nur einen Monitor haben, wird in der Auswahlliste nur eine Quelle angezeigt.
+2. Select the monitor whose screen content you want to record. If you have only one monitor, only one source is displayed in the drop-down list.
 ![](https://i.imgur.com/9SFSYgO.jpg)
 
 :::warning
-### Zusätzliche Einstellungen unter macOS:
+### Additional settings under macOS:
 
-Sie müssen der Software OBS über die Systemeinstellungen erlauben, Bildschirmaufnahmen anzufertigen. Die Einstellung finden Sie unter
+You must allow the OBS software to take screen shots via the system settings. You can find the setting under
 
-**Systemeinstellungen - Sicherheit - Datenschutz.**
+**System settings - Security - Privacy.
 
 ![](https://i.imgur.com/SsiuQ2y.jpg)
 
 ![](https://i.imgur.com/1E9HPvM.jpg)
 :::
 
-4.	Wenn Ihr Bildschirm eine höhere Auflösung hat als die Basis-Leinwand, müssen Sie den Bildschirm (virtuell) verkleinern, indem Sie an den roten Rahmen um das Bild skalieren, bis es in die Leinwand passt.
+3. If your screen has a higher resolution than the base canvas, you need to (virtually) reduce the screen by scaling to the red frame around the image until it fits into the canvas.
 ![](https://i.imgur.com/b3XdPZa.jpg)
 
-* Fassen Sie dazu die roten Kontrollpunkte an, das Seitenverhältnis des Bildes wird dabei nicht verändert.
+* Touch the red control points, the aspect ratio of the image is not changed.
 :::warning
-* Sollten Sie nur den oberen linken Punkt sehen, können Sie diesen in die Mitte der Leinwand ziehen und danach mit einem Klick mitten in das Videobild den Bildschirminhalt neu positionieren. Wiederholen Sie dieses Vorgehen solange, bis Sie alle Kontrollpunkte sehen und den Bildschirminhalt korrekt in die Leinwand eingepasst haben!
-* Die Leinwand hat ein Seitenverhältnis von 16:9. Einige Notebooks haben eine Monitor-Seitenverhältnis von 16:10 – Sie müssen dann also etwas vom oberen/unteren Ende „abschneiden”. 
+* If you only see the upper left point, you can drag it to the middle of the screen and then reposition the screen content by clicking in the middle of the video image. Repeat this procedure until you see all control points and the screen content is correctly fitted into the canvas!
+* The screen has a 16:9 aspect ratio and some notebooks have a 16:10 monitor aspect ratio - so you will need to "cut off" something from the top/bottom end. 
 :::
 
 ![](https://i.imgur.com/ypjgZOE.jpg)
 
-5.	Öffnen Sie die **Einstellungen** 
+4. Open the **settings**
 ![](https://i.imgur.com/VxDH7Pb.jpg)
-6. Wählen Sie unter dem Reiter „Ausgabe”:
-    * den Ausgabepfad, wo Sie die Aufnahmen abspeichern wollen. OBS nimmt Datum und Uhrzeit automatisch als Dateinamen.
-    * die Aufnahmequalität **Hohe Qualität, mittelgroße Dateien**
-    * das Ausgabeformat **mp4**
+5. Select "Output" under the tab
+    * select the output path where you want to save the recordings. OBS automatically takes the date and time as file name.
+    * the recording quality **High quality, medium size files**
+    * the output format **mp4**
 ![](https://i.imgur.com/0jVMp1E.jpg)
-6. Speichern Sie die Einstellungen mit einem Klick auf den Button **Okay**
-7.	Im Audio-Mixer sollte Ihr Mikrofon / Headset zu sehen sein. Deaktivieren Sie ggfs. alle anderen Signalquellen, es sei denn Sie möchten ein Video mit Ton in Ihrer Präsentation abspielen (dann muss Desktop-Audio aktiviert werden).
+6. save the settings with a click on the button **Okay**
+7. Your microphone/headset should be visible in the audio mixer. If necessary, deactivate all other signal sources, unless you want to play a video with sound in your presentation (then desktop audio must be activated).
 ![](https://i.imgur.com/jQW5Tjo.jpg)
-8.	Testen Sie eine kurze Aufnahme ob alles nach Ihrer Vorstellung funktioniert
+8. Test a short recording if everything works according to your imagination
 ![](https://i.imgur.com/DJiQKua.jpg)
 
-## Schritt 4: Weitere Aufnahmequellen hinzufügen
-Sie können weitere Bildquellen für Ihre Aufnahme hinzufügen, z.B. eine Webcam oder einen zweiten Bildschirm. Beachten Sie dabei, dass Ihnen nur eine Leinwand zur Verfügung steht, auf denen Ihre Inhalte dargestellt werden. Sollte Schrift gut lesbar sein, stellen Sie bitte sicher, dass die Schriftgröße entsprechend gewählt ist.
+## Step 4: Add more recording sources
+You can add other image sources for your recording, such as a webcam or a second screen. Please note that you will only have one screen on which to display your content. If the font is easy to read, please make sure that the font size is selected accordingly.
 
-**Für das Beispiel einer zusätzlichen Webcam**: 
-1. Fügen Sie unter „Quellen” eine Weitere Quelle hinzu.
-2. Wählen Sie „Videoaufnahmegerät”.
+**For the example of an additional webcam**: 
+1. Add another source under "Sources".
+2. Select "Video capture device".
 ![](https://i.imgur.com/Du6MoN9.jpg)
-3. Benennen Sie die Quelle für Ihr Aufnahmesetting. Diese Benennung dient ausschließlich dazu, die Quellen in OBS zu organisieren.
+3. Name the source for your recording setting. This naming is only used to organize the sources in OBS.
 ![](https://i.imgur.com/9TaDr9Z.jpg)
-4. Wählen Sie im Auswahlfeld „Gerät” Ihre Webcam aus.
+4. Select your webcam in the "Device" selection box
 ![](https://i.imgur.com/imQJ6HT.jpg)
-5. Skalieren und positionieren Sie das Bild der Webcam auf Ihrer Leinwand wie Sie es bereits mit Ihrem Bildschirminhalt getan haben.
+5. Scale and position the image of the webcam on your screen as you have already done with your screen content
 ![](https://i.imgur.com/mK1FJGW.jpg)
 
 :::danger
-* Sollten Sie mehrere Bildquellen aufzeichnen, positionieren Sie sie so, dass keine Inhalte der jeweils anderen Quelle verdeckt werden!
+* If you are recording several image sources, position them so that no content from the other source is obscured!
 :::
 
-## Einige Tipps
-* Nehmen Sie keine 90 Minuten Vorlesung am Stück auf! Unterteilen Sie die Aufnahmen in **kleinere Abschnitte von etwa 10-20 Minuten**. So können Sie sich jedes Mal neu sammeln, Pausen einlegen und müssen bei Fehlern nicht alles neu aufzeichnen.
-* Sie sollten nach Möglichkeit **frei und nicht zu leise sprechen**. Stellen Sie sich vor die Studierenden säßen Ihnen gegenüber: Verwenden Sie eine direkte Ansprache und **vermeiden Sie lange und komplexe Sätze**.
-* OBS speichert Dateien mit Datum und Uhrzeit als Dateinamen. Benennen Sie die Videodateien auf Ihrem Computer nach einer einheitlichen Nomenklatur um und organisieren Sie sie in einer durchdachten Ordnerstruktur. Das hilft Ihnen, die einzelnen Lerneinheiten später besser wiederzufinden und bereitzustellen. 
+## Some tips
+* Don't record a 90-minute lecture all at once! Divide the recordings into **smaller sections of about 10-20 minutes**. This way you can reassemble each time, take breaks and don't have to re-record everything if you make mistakes.
+* You should speak **free and not too softly if possible**. Imagine that the students are sitting opposite you: Use a direct approach and avoid long and complex sentences.
+* OBS saves files with date and time as file names. Rename the video files on your computer using a common nomenclature and organize them in a well thought-out folder structure. This will help you to find and access the individual learning units later. 
 
 
-## Nächste Schritte
-* Wie Sie die Aufnahmen für den Upload vorbereiten und dafür möglichst kleine Dateien bei gleichbleibender Qualität erzeugen, zeigt diese Anleitung: [Anleitung zu Videokomprimierung](https://s.kit.edu/tutorial-videokomprimierung).
-* Wie Sie die Aufnahmen Ihren Studierenden über ILIAS bereitstellen, erfahren Sie in einer gesonderten Anleitung.
+## Next steps
+* This guide shows how to prepare the recordings for upload and create the smallest possible files with the same quality: [Video Compression Guide].(https://s.kit.edu/tutorial-videokomprimierung).
+* How to make the recordings available to your students via ILIAS is explained in a separate manual.
 
 
 
@@ -133,19 +133,20 @@ Sie können weitere Bildquellen für Ihre Aufnahme hinzufügen, z.B. eine Webcam
 ## Infos & Kontakt
 
 ### Lizenzhinweis
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Diese Anleitung für die Erstellung von digitalem Lehrmaterial</span> des <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Zentrum für Mediales Lernen (ZML) am Karlsruher Instituts für Technologie (KIT)</span> ist lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung 4.0 International Lizenz</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">These tutorials for the creation of digital teaching material</span> of <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">the center for Technology-Enhanced Learning (ZML) at the Karlsruhe Institute of Technology (KIT)</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">a Creative Commons Attribution 4.0 International License</a>.
 
-### Impressum
+### Imprint
 
-**Herausgeber**
+**Publisher**
 Karlsruher Institut für Technologie (KIT)
 Kaiserstraße 12
 76131 Karlsruhe
 
-**Kontakt**
+**Contact**
 Karl-Friedrich-Str. 17
 76133 Karlsruhe
-Deutschland
+Germany
 Tel.: +49 721 608-48200
 Fax: +49 721 608-48210
 E-Mail: info@zml.kit.edu
+
