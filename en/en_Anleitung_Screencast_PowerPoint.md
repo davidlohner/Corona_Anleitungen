@@ -13,7 +13,7 @@ Additions for older versions of PowerPoint are planned for the next update.
 
 If you have your teaching content in PowerPoint slides, you can record your lecture with simple means. This guide shows which steps in PowerPoint are necessary for this.
 
-#### Übersicht
+#### Overview
 [TOC]
 
 ---
@@ -42,20 +42,20 @@ If you have a **Office 365 subscription**, this guide should also work in the la
 :::
 
 
-## Kurzanleitung 
+## Quick guide 
 
-1. Starten Sie PowerPoint.
-2. Öffnen Sie Ihre Folien.
-3. Wechseln Sie in die Registerkarte „Bildschirmpräsentation“
-4. Klicken Sie auf „Präsentation aufzeichnen”
-    * unter Windows steht Ihnen die Möglichkeit zur Verfügung, auch die Webcam für eine Aufzeichnung einzuschalten. Diese Option kann auch abgeschaltet werden.
-6. Halten Sie wie gewohnt Ihren Vortrag. Die Aufzeichnung wird mit Beenden der Präsentation ebenfalls beendet.
-7. Sichern Sie die Aufzeichnung der Präsentation unter „Datei” - „Sichern unter” oder „Exportieren” als Video im **.mp4**-Format.
-7. Prüfen Sie das aufgezeichnete Video:
-    * Ist Ihre Stimme gut zu hören und zu verstehen?
-    * Sind alle Folien besprochen und keine längeren Lücken vorhanden?
+1. Launch PowerPoint.
+2. Open your slides.
+3. Switch to the "Slide Show" tab
+4. Click on "Record presentation"
+    * under Windows you have the possibility to switch on the webcam for a recording as well. This option can also be switched off.
+5. Give your lecture as usual. The recording will also end when you end the presentation.
+6. Save the recording of the presentation under "File" - "Save as" or "Export" as video in **.mp4** format.
+7. Check the recorded video:
+    * Is your voice good to hear and to understand?
+    * Are all slides discussed and are there no long gaps?
 
-Sollten Sie mit einem der Aspekte nicht zufrieden sein, korrigieren Sie die entsprechenden Stellen und führen eine neue Testaufnahme durch. Ggf. müssen Sie hierzu Ihren ITB bzw. Administrator um Hilfe bitten um Ihr Setup (z.B. die Einstellungen des Mikrofons) zu optimieren.
+If you are not satisfied with one of the aspects, correct the corresponding spots and perform a new test recording. You may have to ask your ITB or administrator for help to optimize your setup (e.g. the microphone settings).
 
 
 ## Einige Tipps
