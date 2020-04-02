@@ -58,44 +58,44 @@ If you have a **Office 365 subscription**, this guide should also work in the la
 If you are not satisfied with one of the aspects, correct the corresponding spots and perform a new test recording. You may have to ask your ITB or administrator for help to optimize your setup (e.g. the microphone settings).
 
 
-## Einige Tipps
-* Nehmen Sie keine 90 Minuten Vorlesung am Stück auf! Unterteilen Sie die Aufnahmen in **kleinere Abschnitte von etwa 10-20 Minuten**. So können Sie sich jedes Mal neu sammeln, Pausen einlegen und müssen bei Fehlern nicht alles neu aufzeichnen.
-* Sie sollten nach Möglichkeit **frei und nicht zu leise sprechen**. Stellen Sie sich vor die Studierenden säßen Ihnen gegenüber: Verwenden Sie eine direkte Ansprache und **vermeiden Sie lange und komplexe Sätze**.
+## Some tips
+* Don’t record a 90-minute lecture all at once! Divide the recordings into **smaller sections of about 10-20 minutes**. This way you can reassemble each time, take breaks and don't have to re-record everything if you make mistakes.
+* If possible you should speak **free and not too quietly**. Imagine that the students are sitting opposite you: Use a direct speech and avoid long and complex sentences.
 :::danger
-* Während Folienübergängen, die eine gewisse Dauer zugewiesen haben, wird **kein Ton** aufgezeichnet.
-* Während einer Präsentationsaufzeichnung in den Folien **zurück**springen funktioniert **nicht**.
+* During slide transitions that have a certain duration assigned, **no sound** is recorded.
+* During a presentation recording in the slides, **jumping back does not work**.
 :::
 :::success
-* Sie können nach der Aufnahme einzelne Folien neu aufzeichnen und so kleinere Fehler korrigieren. Eine Anleitung hierzu finden Sie in den offiziellen Support-Dokumenten von Microsoft (siehe unten).
+* After recording, you can re-record individual slides to correct minor errors. For instructions, please refer to the official Microsoft support documents (see below).
 :::
-* Benennen Sie die Videodateien auf Ihrem Computer nach einer einheitlichen Nomenklatur und organisieren Sie sie in einer durchdachten Ordnerstruktur. Das hilft Ihnen, die einzelnen Lerneinheiten später besser wiederzufinden und bereitzustellen.
+* Name the video files on your computer according to a uniform nomenclature and organize them in a well thought-out folder structure. This will help you to find and provide the individual learning units more easily later.
 
-## MS PowerPoint-Hilfe
-Sollten Sie Probleme haben, in PowerPoint die Funktion für die Aufzeichnung Ihrer Präsentation zu finden, kann Ihnen die offizielle Support-Seite von Microsoft weiterhelfen:
+## MS PowerPoint Help
+If you have problems finding the function for recording your presentation in PowerPoint, the official support site of Microsoft can help you:
 
-[Aufzeichnen einer Bildschirmpräsentation (Microsoft)](https://support.office.com/de-de/article/aufzeichnen-einer-bildschirmpräsentation-mit-kommentaren-und-folienanzeigedauern-0b9502c6-5f6c-40ae-b1e7-e47d8741161c#OfficeVersion=Office_365)
+[Recording a slide show (Microsoft)](https://support.office.com/de-de/article/aufzeichnen-einer-bildschirmpräsentation-mit-kommentaren-und-folienanzeigedauern-0b9502c6-5f6c-40ae-b1e7-e47d8741161c#OfficeVersion=Office_365)
 
-## Nächste Schritte
-* Wie Sie die Aufnahmen für den Upload vorbereiten und dafür möglichst kleine Dateien bei gleichbleibender Qualität erzeugen, zeigt diese Anleitung: [Anleitung zu Videokomprimierung](https://s.kit.edu/tutorial-videokomprimierung).
-* Wie Sie die Aufnahmen Ihren Studierenden über ILIAS bereitstellen, erfahren Sie in einer gesonderten Anleitung.
+## Next steps
+* How to prepare the recordings for upload and create the smallest possible files with the same quality, this guide shows: [Video Compression Guide].(https://s.kit.edu/tutorial-videokomprimierung).
+* How to make the recordings available to your students via ILIAS is explained in a separate manual.
 
 ---
 ## Infos & Kontakt
 
 ### Lizenzhinweis
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Diese Anleitung für die Erstellung von digitalem Lehrmaterial</span> des <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Zentrum für Mediales Lernen (ZML) am Karlsruher Instituts für Technologie (KIT)</span> ist lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung 4.0 International Lizenz</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">These tutorials for the creation of digital teaching material</span> of <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">the center for Technology-Enhanced Learning (ZML) at the Karlsruhe Institute of Technology (KIT) </span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License.</a>.
 
-### Impressum
+### Imprint
 
-**Herausgeber**
+**Publisher**
 Karlsruher Institut für Technologie (KIT)
 Kaiserstraße 12
 76131 Karlsruhe
 
-**Kontakt**
+**Contact**
 Karl-Friedrich-Str. 17
 76133 Karlsruhe
-Deutschland
+Germany
 Tel.: +49 721 608-48200
 Fax: +49 721 608-48210
 E-Mail: info@zml.kit.edu
