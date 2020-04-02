@@ -55,7 +55,7 @@ Sollten Sie über ein **Office 365 Abo** verfügen, sollte diese Anleitung in de
     * Ist Ihre Stimme gut zu hören und zu verstehen?
     * Sind alle Folien besprochen und keine längeren Lücken vorhanden?
 
-Sollten Sie mit einem der Aspekte nicht zufrieden sein, korrigieren Sie die entsprechenden Stellen und führen eine neue Testaufnahme durch. Ggf. müssen Sie hierzu Ihren ITB bzw. Administrator um Hilfe bitten um Ihr Setup (z.B. die Einstellungen des Mikrofons) zu optimieren.
+Sollten Sie mit einem der Aspekte nicht zufrieden sein, korrigieren Sie die entsprechenden Stellen und führen eine neue Testaufnahme durch. Ggf. müssen Sie hierzu Ihren ITB bzw. Administrator um Hilfe bitten, um Ihr Setup (z.B. die Einstellungen des Mikrofons) zu optimieren.
 
 
 ## Einige Tipps
