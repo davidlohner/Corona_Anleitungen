@@ -3,15 +3,15 @@ tags: KIT_corona, Anleitung, Phase1
 ---
 ![](https://i.imgur.com/eAg9Fgb.png)
 
-# Videos mit PowerPoint aufzeichnen
+# Recording videos with PowerPoint
 ```
-letzte Aktualisierung: 31.03.2020
+last update: 31.03.2020
 ```
 :::success
-Für das nächste Update sind Ergänzungen für ältere Versionen von PowerPoint vorgesehen.
+Additions for older versions of PowerPoint are planned for the next update.
 :::
 
-Wenn Sie ihre Lehrinhalte in PowerPoint-Folien vorliegen haben, können Sie Ihren Vortrag mit einfachen Mitteln aufzeichnen. Diese Anleitung zeigt, welche Schritte in PowerPoint dafür nötig sind.
+If you have your teaching content in PowerPoint slides, you can record your lecture with simple means. This guide shows which steps in PowerPoint are necessary for this.
 
 #### Übersicht
 [TOC]
@@ -19,26 +19,26 @@ Wenn Sie ihre Lehrinhalte in PowerPoint-Folien vorliegen haben, können Sie Ihre
 ---
 
 :::warning
-Wichtige Hinweise sind gelb gekennzeichnet.
+Important notes are marked yellow.
 :::
 
 :::info
-Zusatzinformationen sind blau gekennzeichnet.
+Additional information is marked in blue.
 :::
 
 ---
 
-### Benötigte Ausstattung
-* PC oder Mac mit:
-    * Mikrofon (am besten ein Headset) 
-    * optional: (integrierte) Webcam
-* PowerPoint (Version 2016 oder neuer)
-* Ihre Lehrinhalte auf PowerPoint-Folien
+### Required equipment
+* PC or Mac with:
+    * microphone (preferably a headset) 
+    * optional: (integrated) webcam
+* PowerPoint (version 2016 or later)
+* Your teaching content on PowerPoint slides
 
 :::warning
-Bitte aktualisieren Sie Ihre PowerPoint-Installation auf Version 2016. Nur so kann sichergestellt sein, dass einzelne Schritte diese Anleitung auch auf Ihr System zutreffen. Ggf. müssen Sie hierzu Ihren ITB bzw. Administrator um Hilfe bitten. PowerPoint 2016 kann über den [Software Shop des KIT](https://rzunika.asknet.de) für dienstliche Zwecke bezogen werden.
+Please update your PowerPoint installation to version 2016 to ensure that individual steps of this manual apply to your system. You may have to ask your ITB or administrator for help. PowerPoint 2016 can be optained from the [KIT Software Shop](https://rzunika.asknet.de) for business purposes.
 :::info
-Sollten Sie über ein **Office 365 Abo** verfügen, sollte diese Anleitung in den jeweils neuesten Versionen von PowerPoint ebenfalls funktionieren.
+If you have a **Office 365 subscription**, this guide should also work in the latest versions of PowerPoint.
 :::
 
 
