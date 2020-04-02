@@ -3,7 +3,7 @@ tags: KIT_corona, Anleitung
 ---
 ![](https://i.imgur.com/eAg9Fgb.png)
 
-# Videos mit Open Broadcaster Software aufnehmen 
+# TestVideos mit Open Broadcaster Software aufnehmen 
 ```
 letzte Aktualisierung: 31.03.2020
 ```
