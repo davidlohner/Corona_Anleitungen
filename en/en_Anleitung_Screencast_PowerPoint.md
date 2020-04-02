@@ -76,7 +76,7 @@ If you have problems finding the function for recording your presentation in Pow
 [Recording a slide show (Microsoft)](https://support.office.com/de-de/article/aufzeichnen-einer-bildschirmpräsentation-mit-kommentaren-und-folienanzeigedauern-0b9502c6-5f6c-40ae-b1e7-e47d8741161c#OfficeVersion=Office_365)
 
 ## Next steps
-* How to prepare the recordings for upload and create the smallest possible files with the same quality, this guide shows: [Video Compression Guide].(https://s.kit.edu/tutorial-videokomprimierung).
+* How to prepare the recordings for upload and create the smallest possible files with the same quality, this guide shows: [Video Compression Guide](https://s.kit.edu/tutorial-videokomprimierung).
 * How to make the recordings available to your students via ILIAS is explained in a separate manual.
 
 ---
