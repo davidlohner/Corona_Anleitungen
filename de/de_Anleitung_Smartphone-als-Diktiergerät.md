@@ -56,15 +56,15 @@ Tippen Sie dazu auf den Titel des Sprachmemos (ist nicht direkt als „klickbar�
 :::
 ![](https://i.imgur.com/iQF0Pn1.jpg =350x)
 9. Prüfen Sie die aufgezeichnete Audioaufnahme:
-    * Ist Ihre Stimme gut zu hören und zu verstehen?
-9. „Teilen” Sie die Aufnahme über den Button mit den drei Punkten und übertragen Sie die Aufnahme so auf Ihrem Computer.
+* 	Ist Ihre Stimme gut zu hören und zu verstehen?
+10. „Teilen” Sie die Aufnahme über den Button mit den drei Punkten und übertragen Sie die Aufnahme so auf Ihrem Computer.
 ![](https://i.imgur.com/eFvGz3Z.jpg =350x)
 ![](https://i.imgur.com/i77483g.jpg =350x)
 
 
 ## Audio aufzeichnen mit Android-Gerät
 ### Vorbereitung
-Wir empfehlen den kostenfreien Audiorecorder [ASR kostenloser MP3 Recorder](https://play.google.com/store/apps/details?id=com.nll.asr) empfehlen, für den diese Anleitung erstellt wurde.
+Wir empfehlen den kostenfreien Audiorecorder [ASR kostenloser MP3 Recorder](https://play.google.com/store/apps/details?id=com.nll.asr), für den diese Anleitung erstellt wurde.
 1. Installieren Sie die App auf Ihrem Smartphone.
 2. Starten Sie die App.
 ![](https://i.imgur.com/K1TzEeG.jpg =350x)
@@ -73,7 +73,7 @@ Wir empfehlen den kostenfreien Audiorecorder [ASR kostenloser MP3 Recorder](http
 |![](https://i.imgur.com/B9Q5qwJ.jpg =350x)|![](https://i.imgur.com/nNJab4q.jpg =350x)|
 |----|----|
 
-5. Die App ist jetzt einsatzbereit. Sie können allerdings noch weitere Einstellungen wie Geräuschunterdrückung, Anrufunterbrechung etc. vornehmen. Bitte prüfen Sie mit einer Testaufnahme, ob sich die Einstellungen postitiv auf die Aufnahmequalität auswirken.
+4. Die App ist jetzt einsatzbereit. Sie können allerdings noch weitere Einstellungen wie Geräuschunterdrückung, Anrufunterbrechung etc. vornehmen. Bitte prüfen Sie mit einer Testaufnahme, ob sich die Einstellungen postitiv auf die Aufnahmequalität auswirken.
 ![](https://i.imgur.com/bodsZKs.jpg)
 
 
@@ -108,7 +108,7 @@ Wir empfehlen den kostenfreien Audiorecorder [ASR kostenloser MP3 Recorder](http
 
 
 ## Einige Tipps
-* Da Ihre Studierenden die Folien nicht sehen, sollten Sie bei jedem Folienwechsel jeweils den **Titel und die Foliennummer nennen**, über die Sie gerade referieren
+* Da Ihre Studierenden die Folien nicht sehen, sollten Sie bei jedem Folienwechsel jeweils den **Titel und die Foliennummer nennen**, über die Sie gerade referieren.
 * Nehmen Sie keine 90 Minuten Vorlesung am Stück auf! Unterteilen Sie die Aufnahmen in **kleinere Abschnitte von etwa 10-20 Minuten**. So können Sie sich jedes Mal neu sammeln, Pausen einlegen und müssen bei Fehlern nicht alles neu aufzeichnen.
 * Sie sollten nach Möglichkeit **frei und nicht zu leise sprechen**. Stellen Sie sich vor die Studierenden säßen Ihnen gegenüber: Verwenden Sie eine direkte Ansprache und **vermeiden Sie lange und komplexe Sätze**.
 * Benennen Sie die Audiodateien auf Ihrem Computer nach einer einheitlichen Nomenklatur und organisieren Sie sie in einer durchdachten Ordnerstruktur. Das hilft Ihnen, die einzelnen Lerneinheiten später besser wiederzufinden und bereitzustellen.
