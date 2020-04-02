@@ -30,12 +30,11 @@ Zusatzinformationen sind blau gekennzeichnet.
 
 ## Anleitung
 ### Ein Video öffnen
-Um ein Video bearbeiten zu können, muss es natürlich erst einmal in das Programm importiert werden.
-Dazu klicken Sie „öffnen“ im Menü „Datei”. Im neuen Fenster wählen Sie das gewünschte Video von Ihrer Festplatte aus.
+Um ein Video bearbeiten zu können, muss es  erst einmal in das Programm Avidemux importiert werden. Dazu klicken Sie im Menü „Datei” auf „öffnen“. Im neuen Fenster wählen Sie das gewünschte Video von Ihrer Festplatte aus.
 
 ### Den Anfang abschneiden
-Um unerwünschte Seuquenzen zu Beginn des Videos zu entfernen, gehen Sie mit dem Regler auf der Timeline bis zu der Stelle, ab der das Video beginnen soll.
-Nun kann mit dem B-Button (B = before) der vordere Teil abgetrennt und mit der **Entfernentaste** gelöscht werden.
+* Um unerwünschte Seuquenzen zu Beginn des Videos zu entfernen, gehen Sie mit dem Regler auf der Timeline bis zu der Stelle, ab der das Video beginnen soll.
+* Nun kann mit dem B-Button (B = before) der vordere Teil abgetrennt und mit der **Entfernentaste** gelöscht werden.
 ![](https://i.imgur.com/rWfnpqj.jpg)
 
 :::warning
@@ -48,17 +47,17 @@ Tipp: Man kann auch die Pfeiltasten auf der Tastatur oder die Pfeil-Buttons unte
 
 
 ### Das Ende entfernen
-Um unerwünschte Sequenzen am Ende des Videos zu entfernen, positioniert man den Timeline-Regler dort, wo das Video aufhören soll.
-Drücken Sie nun den A-Button (A = after). Nun ist ab dort alles bis zum Ende markiert und kann mit der Entfernen-Taste gelöscht werden.
+* Um unerwünschte Sequenzen am Ende des Videos zu entfernen, positioniert man den Timeline-Regler dort, wo das Video aufhören soll.
+* Drücken Sie nun den A-Button (A = after). Nun ist ab dort alles bis zum Ende markiert und kann mit der Entfernen-Taste gelöscht werden.
 ![](https://i.imgur.com/1Vx7TYe.jpg)
 
 
 ### Eine Sequenz mitten im Video rausschneiden
-Um mitten im Video zu schneiden, muss der Regler zuerst auf den Beginn der zu entfernenden Sequenz gesetzt werden.
-Dann drücken Sie den A-Button.
-Bewegen Sie nun den Regler an die Stelle, **bis** zu der alles entfernt werden soll.
-Dann drücken Sie den B-Button.
-Der Bereich dazwischen ist nun automatisch markiert und kann mit **Entfernen** gelöscht werden.
+* Um mitten im Video zu schneiden, muss der Regler zuerst auf den Beginn der zu entfernenden Sequenz gesetzt werden.
+* Dann drücken Sie den A-Button.
+* Bewegen Sie nun den Regler an die Stelle, **bis** zu der alles entfernt werden soll.
+* Dann drücken Sie den B-Button.
+* Der Bereich dazwischen ist nun automatisch markiert und kann mit **Entfernen** gelöscht werden.
 
 ::: info 
 Eselsbrücke: 
@@ -68,9 +67,11 @@ oder: von A nach B
 :::
 
 ### Das Video speichern
-Am linken Rand befinden sich mehrere Möglichkeiten, um Voreinstellungen vorzunehmen. Wählen Sie beim Ausgabeformat  MP4 oder MP4v2 (Muxer) aus.
-Um das Video als Mp4 zu speichern gehen Sie unter dem Menü „Datei” auf „Speichern”.
-Wählen Sie im neue Fenster einen Ort und benennen Sie das Video. Drücken Sie auf „OK”. Sie erhalten eine Benachrichtigung über den erfolgreichen Speichervorgang.
+Am linken Rand befinden sich mehrere Möglichkeiten, um Voreinstellungen vorzunehmen.
+* Wählen Sie beim Ausgabeformat  MP4 oder MP4v2 (Muxer) aus. 
+* Um das Video als MP4-Datei zu speichern, gehen Sie unter dem Menü „Datei” auf „Speichern”.
+* Wählen Sie im neue Fenster einen Ort und benennen Sie das Video. 
+* Drücken Sie auf „OK”. Sie erhalten eine Benachrichtigung über den erfolgreichen Speichervorgang.
 
 ![](https://i.imgur.com/Cx5iiXI.jpg)
 
@@ -85,13 +86,14 @@ Benutzten Sie das Format MP4v2, denn es ist mit den meisten Playern kompatibel.
 
 ## Amerkungen
 Avidemux ist ein einfaches Programm, um Sequenzen aus Videos herauszuschneiden oder Anfang und Ende zu kürzen. Man kann die Sequenzen nicht verschieben, die Reihenfolge tauschen oder gar einen Videoclip in das Video einfügen.
-Falls Sie das tun möchten, beachten Sie die Weiterführenden Links.
+Falls Sie das tun möchten, beachten Sie die weiterführenden Links.
 
 ## Weiterführende Links
 Es gibt viele weitere, allerdings komplexere Programme, mit denen Videos geschnitten und editiert werden können.
-* Mit dem unter Windows 10 vorinstallierten **Video Editor**, bzw. mit dem Foto-Programm von Windows können Fotos und Videoclips zu _einem_ Video zusammengefügt werden. [Eine Anleitung finden Sie hier](https://www.youtube.com/watch?v=XEyn2NYVZqw&feature=youtu.be)
-    * [Oder hier beim offiziellen Microsoft Support]( https://support.microsoft.com/en-us/help/22877/windows-10-photos)
-* Corel **VideoStudio X10**: Dieses Programm steht Mitarbeiter:innen des KIT zur Verfügung. [Eine Anleitung finden Sie hier](https://learn.corel.com/video-tutorials/videostudio-pro-tutorials/videostudio-x10-tutorials/)
+* Mit dem unter Windows 10 vorinstallierten **Video Editor** bzw. mit dem Foto-Programm von Windows können Fotos und Videoclips zu _einem_ Video zusammengefügt werden. 
+    * [Eine Anleitung finden Sie hier](https://www.youtube.com/watch?v=XEyn2NYVZqw&feature=youtu.be)
+    * [oder hier beim offiziellen Microsoft Support]( https://support.microsoft.com/en-us/help/22877/windows-10-photos).
+* Corel **VideoStudio X10**: Dieses Programm steht Mitarbeiter*innen des KIT zur Verfügung. [Eine Anleitung finden Sie hier](https://learn.corel.com/video-tutorials/videostudio-pro-tutorials/videostudio-x10-tutorials/).
 * Für Linux-User (und auch unter Windows) können Videos mit dem Programm **ShotCut** gekürzt, geschnitten, eingefügt, neu positioniert und beschriftet werden.
 
 
