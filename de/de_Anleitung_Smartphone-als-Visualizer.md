@@ -12,10 +12,10 @@ letzte Aktualisierung: 31.03.2020
 Zahlreiche Lehrveranstaltungen finden im Format einer Vorlesung statt. Dabei schreiben Dozierende an die Tafel oder nutzen einen Visualizer.
 
 Diese Anleitung zeigt, wie Sie im Homeoffice
-1. mit alltäglichen Gegenständen und Ihrem Smartphone einen Visualizer „bauen”,
-2. wie Sie mit diesem Aufbau Videos aufzeichnen um Ihre Vorlesung selbst aufzuzeichnen
+1. mit alltäglichen Gegenständen und Ihrem Smartphone einen Visualizer „bauen”.
+2. mit diesem Aufbau Videos aufzeichnen, um Ihre Vorlesung selbst aufzuzeichnen.
 
-Sie erhalten darüberhinaus einige Tipps, die Sie für die Aufnahme beachten sollten.
+Sie erhalten darüber hinaus einige Tipps, die Sie für die Aufnahme beachten sollten.
 
 #### Übersicht
 [TOC]
@@ -40,7 +40,7 @@ Ziel ist es, ihr Smartphone in horizontaler Lage und in entsprechendem Abstand a
 ### Benötigte Ausstattung
 * Smartphone
 * Bücher, Spielekartons, LEGO(r)-Steine oder andere Gegenstände, mit denen Sie zwei „Türme” bauen können
-* lange (ca 50 cm), flache Gegenstände (z.B. stabiler Karton, Lineale, schmale Holzlatten)
+* lange (ca. 50 cm), flache Gegenstände (z.B. stabiler Karton, Lineale, schmale Holzlatten)
 * ggf. Klebestreifen (Tesafilm)
 
 
@@ -73,7 +73,7 @@ Hier einige Beispiele, wie Ihre Konstruktion aussehen kann (der individuellen Kr
 
 
 
-## Schritt 2: Aufnahme Einrichten
+## Schritt 2: Aufnahme einrichten
 
 
 ### Benötigte Gegenstände
@@ -87,7 +87,7 @@ Hier einige Beispiele, wie Ihre Konstruktion aussehen kann (der individuellen Kr
 2. Stellen Sie sicher, dass Ihr Smartphone das Video im **Querformat** aufzeichnet; die horizontale Ausrichtung bringt den Beschleunigungssensor der Geräte manchmal durcheinander.
 3. Stellen Sie nach Möglichkeit die Videoauflösung auf 1280x720 Bildpunkte (720p) ein. Bei höheren Auflösungen wie z.B. FullHD (1080p) entstehen zu große Videodateien. 
 4. Stellen Sie sicher, dass auf dem Gerät genügend Speicherplatz frei ist. Eine solche Aufnahme hat etwa 1GB für 20 Minuten. Für den Upload ins KIT kann die Dateigröße später noch reduziert werden.
-6. Starten Sie eine Filmaufnahme in ihrem eben aufgebauten Heim-Studio.
+6. Starten Sie eine Filmaufnahme in Ihrem eben aufgebauten Heim-Studio.
 
 :::warning
 Sollte das Videobild zu dunkel sein, richten Sie eine Lampe vom oberen Ende des Blattes auf das Blatt. So wirft Ihre Hand beim Schreiben keinen Schatten, der im Bild zu sehen ist.
@@ -111,9 +111,9 @@ Sollten Sie mit einem der Aspekte nicht zufrieden sein, korrigieren Sie Ihren Au
 
 ## Schritt 3: Aufnahme! 
 
-Technisch sind Sie startklar, sammeln Sie Ihre Inhalte und legen Sie los!
+Technisch sind Sie startklar. Sammeln Sie Ihre Inhalte und legen Sie los!
 
-Nach der Aufzeichnung übertragen Sie die Aufnahmen von Ihrem Smartphone auf Ihren Computer. Dort können Sie die Datei vor dem Upload komprimieren um den zu beschleunigen. Hierzu gibt es eine gesonderte Anleitung.
+Nach der Aufzeichnung übertragen Sie die Aufnahmen von Ihrem Smartphone auf Ihren Computer. Dort können Sie die Datei vor dem Upload komprimieren, um diesen zu beschleunigen. Hierzu gibt es eine gesonderte Anleitung.
 
 
 ### Einige Tipps
