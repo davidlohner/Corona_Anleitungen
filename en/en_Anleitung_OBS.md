@@ -68,7 +68,7 @@ If you receive an error message at this point, please contact the ZML.
 
 You must allow the OBS software to take screen shots via the system settings. You can find the setting under
 
-**System settings - Security - Privacy.
+**System settings - Security - Privacy**.
 
 ![](https://i.imgur.com/SsiuQ2y.jpg)
 
