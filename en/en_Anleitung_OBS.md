@@ -5,7 +5,7 @@ tags: KIT_corona, Anleitung
 
 # Record videos with Open Broadcaster software 
 ```
-last updating: 31.03.2020
+last update: 31.03.2020
 ```
 If you have your teaching content in digital form on your computer, you can record a lecture and this digital content with a special broadcaster software. This tutorial describes which steps in Open Broadcaster Software (OBS) are necessary for this.
 
@@ -124,7 +124,7 @@ You can add other image sources for your recording, such as a webcam or a second
 
 
 ## Next steps
-* This guide shows how to prepare the recordings for upload and create the smallest possible files with the same quality: [Video Compression Guide].(https://s.kit.edu/tutorial-videokomprimierung).
+* This guide shows how to prepare the recordings for upload and create the smallest possible files with the same quality: [Video Compression Guide](https://s.kit.edu/tutorial-videokomprimierung).
 * How to make the recordings available to your students via ILIAS is explained in a separate manual.
 
 
@@ -133,7 +133,7 @@ You can add other image sources for your recording, such as a webcam or a second
 ## Infos & Kontakt
 
 ### Lizenzhinweis
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">These tutorials for the creation of digital teaching material</span> of <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">the center for Technology-Enhanced Learning (ZML) at the Karlsruhe Institute of Technology (KIT)</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">a Creative Commons Attribution 4.0 International License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">These tutorials for the creation of digital teaching material</span> of <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">the center for Technology-Enhanced Learning (ZML) at the Karlsruhe Institute of Technology (KIT)</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
 ### Imprint
 
