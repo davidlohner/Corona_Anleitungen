@@ -14,11 +14,11 @@ If you have your teaching content in digital form on your computer, you can reco
 
 ---
 
-:::warning
+::: warning
 Important notes are marked yellow.
 :::
 
-:::info
+::: info
 Additional information is marked in blue.
 :::
 
