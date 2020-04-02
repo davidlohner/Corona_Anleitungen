@@ -3,137 +3,137 @@ tags: KIT_corona, Anleitung
 ---
 ![](https://i.imgur.com/eAg9Fgb.png)
 
-# Audio aufzeichnen mit dem Smartphone
+# Record audio with your smartphone
 
 ```
-letzte Aktualisierung: 01.04.2020
+last update: 01.04.2020
 ```
-Es gibt Vorträge und Lehrinhalte, die zunächst keiner weiteren Annotationen bedürfen. Für diese Inhalte können Sie Ihren Studierenden ein einfaches PDF  (oder die PowerPoint-Datei) Ihrer **Folien und zusätzlich eine Audiodatei** zukommen lassen.
+There are lectures and teaching contents that do not require any further annotations at first. For these contents you can send your students a simple PDF (or the PowerPoint file) of your ** slides and additionally an audio file**.
 
-Diese Anleitung zeigt Ihnen, wie Sie diese Audiodatei für den Upload in ILIAS mit Ihrem Smartphone erstellen. 
+This tutorial shows you how to create this audio file for upload to ILIAS with your smartphone. 
 
-#### Übersicht
+#### Overview
 [TOC]
 
 
 ---
 
 :::warning
-Wichtige Hinweise sind gelb gekennzeichnet.
+Important notes are marked yellow.
 :::
 
 :::info
-Zusatzinformationen sind blau gekennzeichnet.
+Additional information is marked in blue.
 :::
 
 ---
 
-## Tipps für die Aufzeichnung
-*  Legen Sie Ihr Smartphone vor sich auf eine glatte Unterlage.
-*  Verwenden Sie eine leicht gepolsterte Unterlage, um Erschütterungen zu vermeiden.
-*  Vermeiden Sie, Gegenstände in der Nähe des Mikrofons Ihres Smartphones zu bewegen, diese Geräusche sind auf der Aufnahme sehr laut und störend zu hören.
-*  Machen Sie zunächst eine Testaufnahme, bevor Sie mit Ihren eigentlichen Inhalten starten.
+## Tips for recording
+* Place your smartphone in front of you on a smooth surface.
+* Use a lightly padded surface to avoid shocks.
+* Avoid moving objects near the microphone of your smartphone, these noises are very loud and disturbing to hear on the recording.
+* First make a test recording before you start with your actual content.
 
 
-## Audio aufzeichnen mit iOS-Gerät
-Zunächst müssen Sie sicherstellen, dass ihr iOS-Gerät die Sprachnotizen im korrekten Audio-Format abspeichert. Das reduziert den Speicherverbrauch und beschleunigt damit den Upload in die Systeme des KIT (z.B. ILIAS).
+## Record audio with iOS device
+First, you must make sure that your iOS device saves the voice notes in the correct audio format. This reduces memory consumption and thus accelerates the upload to the KIT systems (e.g. ILIAS).
 
-1. Öffnen Sie die Systemeinstellungen unter iOS.
-2. Suchen Sie nach den Einstellungen der App „Sprachmemos“
+1. Open the system settings under iOS
+2. Search for the settings of the "Voice Memos" app
 ![](https://i.imgur.com/RTY6qwU.jpg =350x)
-4. Wählen Sie unter „Audioqualität” die Einstellung „Komprimiert”.
+3. Under "Audio Quality", select "Compressed".. Wählen Sie unter „Audioqualität” die Einstellung „Komprimiert”.
 ![](https://i.imgur.com/geod67R.jpg =350x)
-6. Starten Sie die App „Sprachmemos”
+4. Start the "Voice Memos" app
 ![](https://i.imgur.com/I7N1edk.jpg =350x)
-4. Drücken Sie auf den roten Button unten in der Mitte.
+5. Press the red button in the bottom center
 ![](https://i.imgur.com/3lRPVg8.jpg =350x)
-5. Sprechen Sie Ihre Inhalte in Ihr Smartphone.
-6. Beenden Sie die Aufnahme durch erneutes Drücken des roten Buttons.
+6. Speak your content into your smartphone
+7. End the recording by pressing the red button again
 ![](https://i.imgur.com/nsuuccU.jpg =350x)
-7. Bennenen Sie die Sprachaufnahme mit einem sinnvollen Titel, damit Sie sie später besser zuordnen können.
+8. Name the voice recording with a meaningful title so that you can better assign it later.
 :::warning
-Tippen Sie dazu auf den Titel des Sprachmemos (ist nicht direkt als „klickbar” zu erkennen)
+To do this, tap on the title of the voice memo (not directly recognizable as "clickable")
 :::
 ![](https://i.imgur.com/iQF0Pn1.jpg =350x)
-9. Prüfen Sie die aufgezeichnete Audioaufnahme:
-    * Ist Ihre Stimme gut zu hören und zu verstehen?
-9. „Teilen” Sie die Aufnahme über den Button mit den drei Punkten und übertragen Sie die Aufnahme so auf Ihrem Computer.
+9. Check the recorded audio
+    * Is your voice easy to hear and understand?
+10. "Split" the recording using the button with the three dots and transfer the recording to your computer.
 ![](https://i.imgur.com/eFvGz3Z.jpg =350x)
 ![](https://i.imgur.com/i77483g.jpg =350x)
 
 
-## Audio aufzeichnen mit Android-Gerät
-### Vorbereitung
-Wir empfehlen den kostenfreien Audiorecorder [ASR kostenloser MP3 Recorder](https://play.google.com/store/apps/details?id=com.nll.asr) empfehlen, für den diese Anleitung erstellt wurde.
-1. Installieren Sie die App auf Ihrem Smartphone.
-2. Starten Sie die App.
+## Record audio with Android device
+### Preparation
+We recommend the free audio recorder [ASR free MP3 recorder](https://play.google.com/store/apps/details?id=com.nll.asr) , for which this manual was created.
+1. Install the app on your smartphone
+2. Launch the app.
 ![](https://i.imgur.com/K1TzEeG.jpg =350x)
-4. Nach der Installation öffnen Sie die App. Beim ersten Start müssen Sie zunächst die Privatsphäre-Richtlinien akzeptieren und danach der App den Zugriff auf Dateien, Medien und Fotos erlauben.
+3. After installation, open the app. The first time you start it, you must first accept the privacy policy and then allow the app to access files, media and photos.
 
 |![](https://i.imgur.com/B9Q5qwJ.jpg =350x)|![](https://i.imgur.com/nNJab4q.jpg =350x)|
 |----|----|
 
-5. Die App ist jetzt einsatzbereit. Sie können allerdings noch weitere Einstellungen wie Geräuschunterdrückung, Anrufunterbrechung etc. vornehmen. Bitte prüfen Sie mit einer Testaufnahme, ob sich die Einstellungen postitiv auf die Aufnahmequalität auswirken.
+4. The app is now ready for use. However, you can make further settings such as noise reduction, call interruption, etc. Please use a test recording to check whether the settings have a positive effect on the recording quality.
 ![](https://i.imgur.com/bodsZKs.jpg)
 
 
-### Aufnahme
-1.	Drücken Sie auf den roten Button um die Aufnahme zu starten. Sie sehen im oberen Bereich die Waveform ihrer aktuellen Aufnahme durchlaufen. Sprechen Sie nun in Ihr Smartphone.
+### Recording
+1. Press the red button to start recording. You will see the waveform of your current recording in the upper part. Now speak into your Smartphone.
 ![](https://i.imgur.com/RSYwF76.jpg =350x)
-2.	Drücken Sie erneut den Button um die Aufnahme zu beenden. Hören Sie die Aufnahme ab, indem Sie den kleinen Button mit den drei Punkten und Strichen drücken.
+2. Press the button again to stop recording. Listen to the recording by pressing the small button with the three dots and dashes.
 ![](https://i.imgur.com/s184GqN.jpg =350x)
 
 
-
-### Folgende Probleme können auftreten:
-1.	Die Aufnahme ist übersteuert, zu laut oder klingt „blechern“:
-    * Drücken Sie den kleinen Button mit den 5 senkrechten Strichen
+### The following problems may occur:
+1. The recording is overmodulated, too loud or sounds "tinny":
+    * Press the small button with the 5 vertical bars
     ![](https://i.imgur.com/jd6Iz75.jpg =350x)
-    * 	Reduzieren Sie den „Gain“ bspw. um 5-10dB
-    * 	Machen Sie erneut eine Testaufnahme.
-9.	Es sind viele Hintergrundgeräusche zu hören:
-    * Öffnen Sie die Einstellungen und klicken Sie auf „Aufnahme“. 
-    * Aktivieren Sie die Geräuschunterdrückung
-    * Machen Sie erneut eine Testaufnahme
+    * Reduce the "Gain" e.g. by 5-10dB
+    * Take another test shot
+2. There's a lot of background noise:
+    * Open the settings and click "Record"
+    * Activate the noise reduction
+    * Take another test shot
 
 
-### Aufnahmen auf den Computer übertragen
-1.	Wenn sich ihr Smartphone im WLAN befindet, öffnen Sie die Einstellungen und tippen auf „Wi-Fi Zugriff“.
-2.	Es wird Ihnen eine URL für den Browser angegeben. Wenn Sie mit dem Computer und Ihrem Smartphone im selben WLAN sind, können Sie diese URL in die Adresszeile Ihres Browsers eingeben. 
+### Transfer recordings to the computer
+1. If your phone is on Wi-Fi, open Settings and tap Wi-Fi Access
+2. You will be given an URL for the browser. If your computer and phone are on the same Wi-Fi, you can enter this URL in the address bar of your browser. 
 ![](https://i.imgur.com/MS7edwh.jpg =350x)
-3.	Sie sehen die Liste aller Dateien angezeigt, die Sie aufgenommen haben.
+3. You will see the list of all the files you have recorded.
 ![](https://i.imgur.com/KEFSrPH.jpg)
 
-4.	Sie können die Dateinamen anklicken und die Aufnahme mit einem Rechtsklick auf Ihrem Computer abspeichern.
+4. You can click on the file names and save the recording on your computer with a right click.
 
 
-## Einige Tipps
-* Da Ihre Studierenden die Folien nicht sehen, sollten Sie bei jedem Folienwechsel jeweils den **Titel und die Foliennummer nennen**, über die Sie gerade referieren
-* Nehmen Sie keine 90 Minuten Vorlesung am Stück auf! Unterteilen Sie die Aufnahmen in **kleinere Abschnitte von etwa 10-20 Minuten**. So können Sie sich jedes Mal neu sammeln, Pausen einlegen und müssen bei Fehlern nicht alles neu aufzeichnen.
-* Sie sollten nach Möglichkeit **frei und nicht zu leise sprechen**. Stellen Sie sich vor die Studierenden säßen Ihnen gegenüber: Verwenden Sie eine direkte Ansprache und **vermeiden Sie lange und komplexe Sätze**.
-* Benennen Sie die Audiodateien auf Ihrem Computer nach einer einheitlichen Nomenklatur und organisieren Sie sie in einer durchdachten Ordnerstruktur. Das hilft Ihnen, die einzelnen Lerneinheiten später besser wiederzufinden und bereitzustellen.
+## Some tips
+* Since your students will not see the slides, you should always mention the **title and slide number** you are currently lecturing on each slide change
+* Don't record a 90-minute lecture all at once! Divide the recordings into **smaller sections of about 10-20 minutes**. This way you can reassemble each time, take breaks and don't have to re-record everything if you make mistakes.
+* You should speak **free and not too softly** if possible. Imagine that the students are sitting opposite you: Use a direct approach and **avoid long and complex sentences**.
+* Name the audio files on your computer according to a uniform nomenclature and organize them in a well thought-out folder structure. This will help you to find and provide the individual learning units more easily later.
 
-## Nächste Schritte
-* Wie Sie die Aufnahmen Ihren Studierenden über ILIAS bereitstellen, erfahren Sie in einer gesonderten Anleitung.
+## Next steps
+* A separate tutorial will tell you how to make the recordings available to your students via ILIAS.
 
 ---
 
-## Infos & Kontakt
+## Info & Contact
 
-### Lizenzhinweis
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Diese Anleitung für die Erstellung von digitalem Lehrmaterial</span> des <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Zentrum für Mediales Lernen (ZML) am Karlsruher Instituts für Technologie (KIT)</span> ist lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung 4.0 International Lizenz</a>.
+### License notice
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">These tutorials for the creation of digital teaching material</span> of <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">the center for Technology-Enhanced Learning (ZML) at the Karlsruhe Institute of Technology (KIT)</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
-### Impressum
 
-**Herausgeber**
+### Imprint
+
+**Publisher**
 Karlsruher Institut für Technologie (KIT)
 Kaiserstraße 12
 76131 Karlsruhe
 
-**Kontakt**
+**Contact**
 Karl-Friedrich-Str. 17
 76133 Karlsruhe
-Deutschland
+Germany
 Tel.: +49 721 608-48200
 Fax: +49 721 608-48210
 E-Mail: info@zml.kit.edu
