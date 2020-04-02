@@ -8,7 +8,7 @@ tags: KIT_corona, Anleitung
 letzte Aktualisierung: 31.03.2020
 ```
 Um die Datenmengen, die beim Produzieren von Videos entstehen für das Hochladen möglichst gering zu halten, sollten Sie die Videos vor dem Upload **komprimieren**. Das bedeutet, dass Sie die Dateigröße reduzieren, ohne die Qualität des Videos maßgeblich zu verringern.
-So können beschleunigen Sie den Upload und minimieren gleichzeitig die Serverlast der Ressourcen des KIT. Wie Sie das erreichen, zeigt diese Anleitung.
+So können Sie den Upload beschleunigen und minimieren gleichzeitig die Serverlast der Ressourcen des KIT. Wie Sie das erreichen, zeigt diese Anleitung.
 
 #### Übersicht
 [TOC]
@@ -52,31 +52,31 @@ Sie können auch einen ganzen Ordner auswählen, der mehrere Videodateien enthä
 ![](https://i.imgur.com/B5VyHFf.jpg)
 4. Wählen Sie im Auswahlmenü „Voreinstellungen” unter der Kategorie „General” den Punkt „Very Fast 720p30”:
 ![](https://i.imgur.com/m9uaGaI.jpg)
-6. Wählen Sie am unteren Rand des Fensters einen Speicherort für das komprimierte Video:
+5. Wählen Sie am unteren Rand des Fensters einen Speicherort für das komprimierte Video:
 ![](https://i.imgur.com/JKNKcEN.jpg)
-8. Klicken Sie auf den grünen „Start”-Button in der Menüleiste.
+6. Klicken Sie auf den grünen „Start”-Button in der Menüleiste.
 ![](https://i.imgur.com/PKDFM8w.jpg)
-11. Springen Sie zu Punkt 16.
+7. Springen Sie zu Punkt 15.
 
 
 
-### Die folgenden Schritte sind für die Komprimierung _mehrerer_ Videos gleichzeitig
+#### Die folgenden Schritte sind für die Komprimierung _mehrerer_ Videos gleichzeitig
 
-3. Navigieren Sie im Dateibrowser zu Ihren gespeicherten Videos und wählen Sie **den gesamten Ordner** aus, in dem die einzelnen Videos gespeichert sind.
-9. Wählen Sie im Auswahlmenü „Titel“ das erste zu komprimierende Video aus
+8. Navigieren Sie im Dateibrowser zu Ihren gespeicherten Videos und wählen Sie **den gesamten Ordner** aus, in dem die einzelnen Videos gespeichert sind.
+9. Wählen Sie im Auswahlmenü „Titel“ das erste zu komprimierende Video aus.
 ![](https://i.imgur.com/WSvKP8K.jpg)
 10. Wählen Sie im Auswahlmenü „Voreinstellungen” unter der Kategorie „General” den Punkt „Very Fast 720p30”.
 ![](https://i.imgur.com/m9uaGaI.jpg)
-12. Klicken Sie in der Menüleiste auf den Button „Zur Warteschlage hinzufügen”
+11. Klicken Sie in der Menüleiste auf den Button „Zur Warteschlage hinzufügen”.
 ![](https://i.imgur.com/MV7m2gV.jpg)
-14. Wählen Sie am unteren Rand des Fensters einen Speicherort für das komprimierte Video.
-15. 🔄 Wiederholen Sie Punkt 4 bis 6 für *jedes* Video im ausgewählten Ordner bzw. in der Liste unter der Auswahl „Titel”.
-16. Klicken Sie auf den in der Menüleiste auf den Button „Warteschlange” um sich alle Videos in der Warteschlange anzeigen zu lassen.
+12. Wählen Sie am unteren Rand des Fensters einen Speicherort für das komprimierte Video.
+13. 🔄 Wiederholen Sie Punkt 9 bis 12 für *jedes* Video im ausgewählten Ordner bzw. in der Liste unter der Auswahl „Titel”.
+14. Klicken Sie in der Menüleiste auf den Button „Warteschlange”, um sich alle Videos in der Warteschlange anzeigen zu lassen.
 ![](https://i.imgur.com/2V9ZwTj.jpg)
 
 ### :arrow_forward: Steigen Sie hier wieder ein, egal ob Sie nur eines oder mehrere Videos komprimieren.
-16. Klicken Sie in der Menüleiste auf den grünen Button „Start”. 
-17. Warten Sie, bis alle Kompressionsvorgänge beendet sind.
+15. Klicken Sie in der Menüleiste auf den grünen Button „Start”. 
+16. Warten Sie, bis alle Kompressionsvorgänge beendet sind.
 ![](https://i.imgur.com/g9rVi3N.jpg)
 
 :::danger
