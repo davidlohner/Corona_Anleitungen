@@ -8,7 +8,7 @@ tags: KIT_corona, Anleitung
 ```
 letzte Aktualisierung: 01.04.2020
 ```
-Es gibt Vorträge und Lehrinhalte, die zunächst keiner weiteren Annotationen bedürfen. Für diese Inhalte können Sie Ihren Studierenden ein einfaches PDF  (oder die PowerPonint-Datei) Ihrer **Folien und zusätzlich eine Audiodatei** zukommen lassen.
+Es gibt Vorträge und Lehrinhalte, die zunächst keiner weiteren Annotationen bedürfen. Für diese Inhalte können Sie Ihren Studierenden ein einfaches PDF  (oder die PowerPoint-Datei) Ihrer **Folien und zusätzlich eine Audiodatei** zukommen lassen.
 
 Diese Anleitung zeigt Ihnen, wie Sie diese Audiodatei für den Upload in ILIAS mit Ihrem Smartphone erstellen. 
 
@@ -30,7 +30,7 @@ Zusatzinformationen sind blau gekennzeichnet.
 
 ## Tipps für die Aufzeichnung
 *  Legen Sie Ihr Smartphone vor sich auf eine glatte Unterlage.
-*  Verwenden Sie eine leicht gepolsterte Unterlage, um Erschütterungen zu vermeide
+*  Verwenden Sie eine leicht gepolsterte Unterlage, um Erschütterungen zu vermeiden.
 *  Vermeiden Sie, Gegenstände in der Nähe des Mikrofons Ihres Smartphones zu bewegen, diese Geräusche sind auf der Aufnahme sehr laut und störend zu hören.
 *  Machen Sie zunächst eine Testaufnahme, bevor Sie mit Ihren eigentlichen Inhalten starten.
 
@@ -80,7 +80,7 @@ Wir empfehlen den kostenfreien Audiorecorder [ASR kostenloser MP3 Recorder](http
 ### Aufnahme
 1.	Drücken Sie auf den roten Button um die Aufnahme zu starten. Sie sehen im oberen Bereich die Waveform ihrer aktuellen Aufnahme durchlaufen. Sprechen Sie nun in Ihr Smartphone.
 ![](https://i.imgur.com/RSYwF76.jpg =350x)
-2.	Drücken Sie erneut den Button um die Aufnahme zu beenden. Hören Sie die Aufnahme ab, in dem Sie den kleinen Button mit den  drei Punkten und Strichen drücken.
+2.	Drücken Sie erneut den Button um die Aufnahme zu beenden. Hören Sie die Aufnahme ab, indem Sie den kleinen Button mit den drei Punkten und Strichen drücken.
 ![](https://i.imgur.com/s184GqN.jpg =350x)
 
 
@@ -101,7 +101,7 @@ Wir empfehlen den kostenfreien Audiorecorder [ASR kostenloser MP3 Recorder](http
 1.	Wenn sich ihr Smartphone im WLAN befindet, öffnen Sie die Einstellungen und tippen auf „Wi-Fi Zugriff“.
 2.	Es wird Ihnen eine URL für den Browser angegeben. Wenn Sie mit dem Computer und Ihrem Smartphone im selben WLAN sind, können Sie diese URL in die Adresszeile Ihres Browsers eingeben. 
 ![](https://i.imgur.com/MS7edwh.jpg =350x)
-3.	Sie sehen die Liste aller Dateien, die Sie aufgenommen haben, angezeigt.
+3.	Sie sehen die Liste aller Dateien angezeigt, die Sie aufgenommen haben.
 ![](https://i.imgur.com/KEFSrPH.jpg)
 
 4.	Sie können die Dateinamen anklicken und die Aufnahme mit einem Rechtsklick auf Ihrem Computer abspeichern.
