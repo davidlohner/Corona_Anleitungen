@@ -84,16 +84,32 @@ Sie können auch einen ganzen Ordner auswählen, der mehrere Videodateien enthä
 :::info
 Wir empfehlen daher, Ihren Arbeitsablauf so zu gestalten, dass die Komprimierung läuft, solange Sie selbst _nicht_ am Computer arbeiten.
 :::
+:::success
+Für ein Beispiel-Video eines iPhone 11 von 6 Minuten Länge konnte die Dateigröße mit diesem Vorgang von 533 MB auf knapp 30 MB reduziert werden, bei nahezu gleichbleibender Qualität!
+Der Vorgang dauerte auf einem Notebook von 2015 etwa 3 Minuten.
+:::
 
 
 ## Schritt 3: Fertigstellung
 
 **Herzlichen Glückwunsch, Sie haben Ihr Video erfolgreich komprimiert.**
 
-:::success
-Für ein Beispiel-Video eines iPhone 11 von 6 Minuten Länge konnte die Dateigröße mit diesem Vorgang von 533 MB auf knapp 30 MB reduziert werden, bei nahezu gleichbleibender Qualität!
-Der Vorgang dauerte auf einem Notebook von 2015 etwa 3 Minuten.
+Videodateien zu komprimieren um den Upload zu beschleunigen ist enorm wichtig. Wie lange ein Upload im Schnitt für bestimmte Dateigrößen dauert, zeigen diese Tabellen:
+:::warning
+Diese Werte sind theoretische Werte, die tatsächlichen Werte hängen von zahlreichen weiteren Parametern ab!
 :::
+
+### Dauer des Uploads für 100 MB Video
+Unter berücksichtigung der üblichen gebotenen Download- und Uploadgeschwindigkeiten.
+|Anbindung/Tarif| Downstream | Upstream| Dauer des Uploads|
+|---|---|---|---|
+|DSL 16   | 16 MBit/s | 1 MBit/s| 13m 1s|
+|VDSL 50  | 50 MBit/s |10 MBit/s|1m 20s|
+|VDSL 100 |100 MBit/s |40 MBit/s|20s|
+|Kabel 60 | 60 MBit/s | 6 MBit/s|2m 13s|
+|Kabel 120|120 MBit/s | 6 MBit/s|2m 13s|
+
+---
 
 Wie Sie die Aufnahmen Ihren Studierenden bereitstellen, erfahren Sie in einer gesonderten Anleitung.
 
