@@ -5,7 +5,7 @@ tags: KIT_corona, Anleitung
 
 # Videos für den Upload vorbereiten
 ```
-letzte Aktualisierung: 31.03.2020
+letzte Aktualisierung: 03.04.2020
 ```
 Um die Datenmengen, die beim Produzieren von Videos entstehen für das Hochladen möglichst gering zu halten, sollten Sie die Videos vor dem Upload **komprimieren**. Das bedeutet, dass Sie die Dateigröße reduzieren, ohne die Qualität des Videos maßgeblich zu verringern.
 So können Sie den Upload beschleunigen und minimieren gleichzeitig die Serverlast der Ressourcen des KIT. Wie Sie das erreichen, zeigt diese Anleitung.
