@@ -1,11 +1,11 @@
-Alle online angebotenen Lehrveranstaltungen sollen im zentralen Learning Management System ILIAS eingetragen werden. Somit liegen die wesentlichen Informationen in einem System vor. Es ist uns klar, dass das ILIAS-System damit eine noch größere Beanspruchung als bislang erfährt. Ziel ist es einen zentralen Informationspunkt für die Studierenden zu schaffen. Der Verweis auf andere System kann aus ILIAS heraus erfolgen.
+Alle online angebotenen Lehrveranstaltungen sollen im zentralen Learning Management System ILIAS eingetragen werden. Somit liegen die wesentlichen Informationen in einem System vor. Es ist uns klar, dass das ILIAS-System damit eine noch größere Beanspruchung als bislang erfährt. Ziel ist es einen zentralen Informationspunkt für die Studierenden zu schaffen. Der Verweis auf andere Systeme kann aus ILIAS heraus erfolgen.
 
 ILIAS bietet Ihnen nach der initialen Kurseinrichtung die notwendigen Funktionen um die Kursteilnehmer zu verwalten, Lehrmaterialien weiterzugeben, mit den Studierenden zu kommunizieren, Arbeitsaufträge zu verteilen sowie Ergebnisse einzusammeln und bei Bedarf virtuelle Gruppenarbeitsräume einzurichten.
 
 Auf dieser Seite sind zahlreiche Links zu Anleitungen, Hilfe-Seiten und Support für ILIAS am KIT aufgezählt. 
 
 ## ILIAS Best Practice
-ILIAS kann weit mehr als nur als Dateiablage für Vorlesungsfolien und PDFs sein. Auf der Pilot-Instanz des KIT (einer Testinstanz für neue Features) hat das ZML drei Kurse zur Ansicht bereitgestellt, die verschiedene Szenarien von Lherveranstaltungen abbilden:
+ILIAS kann weit mehr als nur als Dateiablage für Vorlesungsfolien und PDFs sein. Auf der Pilot-Instanz des KIT (einer Testinstanz für neue Features) hat das ZML drei Kurse zur Ansicht bereitgestellt, die verschiedene Szenarien von Lehrveranstaltungen abbilden:
 
 
 ### Seminar mit Fokus auf Gruppenarbeiten
@@ -17,20 +17,20 @@ Wenn Sie an einem wöchentlichen Turnus Ihrer Lehrveranstaltung festhalten möch
 ➡️ **[Link zum Demo-Kurs](https://scc-ilias-plugins.scc.kit.edu/goto.php?target=crs_3183&client_id=pilot)**
 
 ### Vorlesung mit kontextbasiertem Aufbau
-Sollten Sie Ihre Lehrveranstaltung bereits komplett geplant haben und den Studierenden ermöglichen, sich die Inhalte selbst über den Verlauf des Semesters einzueteilen, können Sie Inhalte auch kontextbasiert gruppieren.
+Sollten Sie Ihre Lehrveranstaltung bereits komplett geplant haben und den Studierenden ermöglichen, sich die Inhalte selbst über den Verlauf des Semesters einzuteilen, können Sie Inhalte auch kontextbasiert gruppieren.
 ➡️ **[Link zum Demo-Kurs](https://scc-ilias-plugins.scc.kit.edu/goto.php?target=crs_4254&client_id=pilot)**
 
 *Ein gesamtes Semester im Selbststudium zu absolvieren verlangt von den Studierenden ein enormes Maß an Selbstregulation. Wir empfehlen, dass Sie Ihren Studierenden einige „Meilensteine” für derartige Selbstlerneinheiten vorschlagen.*
 
 ## ILIAS-Hilfsangebot für Dozierende
-Das ZML hat in ILIAS einen umfangreichen Hilfe-Bereich für Dozierende des KIT für den Umgang mit ILIAS erstellt. Sie finden den Kurs im ILIAS-Magazin auf der obsersten Ebene.
+Das ZML hat in ILIAS einen umfangreichen Hilfe-Bereich für Dozierende des KIT für den Umgang mit ILIAS erstellt. Sie finden den Kurs im ILIAS-Magazin auf der obersten Ebene.
 ![](https://i.imgur.com/ec8kFTr.png)
 
 Auch für die Studierenden gibt es dort Hilfsangebote, letztlich müssen auch alle Lernenden ihr Studium digital organisieren. Sie dürfen diese Information sehr gerne an Ihre Kursteilnehmer:innen weiterleiten.
 
 ### Objekte in ILIAS
 Allgemein werden in ILIAS alle Elemente, wie z.B. Ordner, Dateien aber auch Foren oder Lernmodule, als „Objekte” bezeichnet. D.h. ein ILIAS-Kursraum wird, je nach gewünschter Aufgabenstellung, aus entsprechenden Objekten zusammengestellt.
-Im genannten Hilfebreich gibt es ein **Wiki, in dem jeder Objekt-Typ beschrieben ist**. Alle Wiki-Seiten können kommentiert werden, um Erfahrungen über die jeweilige
+Im genannten Hilfebereich gibt es ein **Wiki, in dem jeder Objekt-Typ beschrieben ist**. Alle Wiki-Seiten können kommentiert werden, um Erfahrungen über die jeweilige
 ➡️ **[Objekt-Wiki in ILIAS](https://ilias.studium.kit.edu/goto.php?target=wiki_1026904_Übersicht)**
 
 ### Austausch über ILIAS 
