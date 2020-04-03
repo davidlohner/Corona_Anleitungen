@@ -21,7 +21,7 @@ Für verpflichtende Abgaben in Textform (etwa Reflexionen, Standpunktvertretunge
 3. **Übungen** können so eingerichtet werden, dass reine Textabgaben mit Mindest- und Höchstzeichenzahl eingefordert werden. Zusätzlich kann ein „Peer-Review” eingestellt werden, sodass die Studierenden sich gegenseitig Feedback zu Ihren Beiträgen geben. Übungen können auch direkt im LMS mit Fristen versehen werden.
 
 ## Bereitstellen von Video- und Audiodateien
-**Audiodateien** können mit dem Objekt „Mediacast” freigegeben werden. Man kann wahlweise nur Audios hochladen (So zeichnen Sie Audio-Dateien mit Ihrem Smartphone auf) oder auch Bilder hochladen, die von einer Audiospur begleitet werden.
+**Audiodateien** können mit dem Objekt „Mediacast” freigegeben werden. Man kann wahlweise nur Audios hochladen ([So zeichnen Sie Audio-Dateien mit Ihrem Smartphone auf](https://s.kit.edu/tutorial-smartphone-diktiergert)) oder auch Bilder hochladen, die von einer Audiospur begleitet werden.
 Zu sicheren Bereitstellung von **Videodateien** direkt im jeweiligen ILIAS-Kurs über eine KIT eigene Infrastruktur werden gerade die Systeme der Bibliothek und des SCC ertüchtigt. Ziel ist es, dies gegenüber dem bisherigen Vorgehen noch vor Beginn des Sommersemesters zu vereinfachen. **Bitte sehen Sie bis dahin davon ab, die Videos direkt in ILIAS hochzuladen**, damit die Systeme nicht überlastet werden. Das Sharing-Portal wird voraussichtlich ab dem 13.04. zur Verfügung stehen. [Siehe Infoseite des ZML.](http://www.zml.kit.edu/corona-screenrecording.php)
 
 ## Übersichtliche Kursseiten trotz viel Inhalt
