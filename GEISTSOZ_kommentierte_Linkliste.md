@@ -18,7 +18,7 @@ Für Diskussionen und Debatten sollte sorgfältig abgewägt werden, ob ein ILIAS
 Für verpflichtende Abgaben in Textform (etwa Reflexionen, Standpunktvertretungen oder Zusammenfassungen) können in ILIAS unterschiedliche Abgabeformate verwendet werden:
 1. **Foren** können hierzu genutzt werden. Sind die Studierenden diszipliniert genug, dass die Teilnehmenden eines Seminars jeweils nur *einen* Beitrag formulieren kann über die Gesamtzahl der Antworten beurteilt werden, ob alle Teilnehmer:innen sich beteiligt haben.
 2. **Blogs** ermöglichen es, dass die Studierenden einen eigenen Kanal haben, ihre Beiträge an einem Ort zu bündeln. Alle anderen Lernenden können Blogbeiträge kommentieren und Stellung beziehen. Bei größeren Gruppen kann dieses Format unübersichtlich werden.
-3. **Übungen** können so eingerichtet werden, dass reine Textabgaben mit Mindest- und Höchstzeichenzahl eingefordert werden. Zusätzlich kann ein „Peer-Review” eingsetellt weden, sodass die Studierenden sich gegenseitig Feedback zu Ihren Beiträgen geben. Übungen können auch direkt im LMS mit Fristen versehen werden.
+3. **Übungen** können so eingerichtet werden, dass reine Textabgaben mit Mindest- und Höchstzeichenzahl eingefordert werden. Zusätzlich kann ein „Peer-Review” eingestellt werden, sodass die Studierenden sich gegenseitig Feedback zu Ihren Beiträgen geben. Übungen können auch direkt im LMS mit Fristen versehen werden.
 
 ## Bereitstellen von Video- und Audiodateien
 **Audiodateien** können mit dem Objekt „Mediacast” freigegeben werden. Man kann wahlweise nur Audios hochladen (So zeichnen Sie Audio-Dateien mit Ihrem Smartphone auf) oder auch Bilder hochladen, die von einer Audiospur begleitet werden.
@@ -29,7 +29,7 @@ ILIAS bietet verschiedene Möglichkeiten, lange Listen oder Textabschnitte nur b
 * **Objekteblöcke** können so konfiguriert werden, dass sie ein- und ausklappbar sind.
 ![](https://i.imgur.com/qCH35Yw.png)
 * Sie können **Materiallisten und Textabschnitte in Akkordeonen** organisieren, die sich ein- und ausklappen lassen.
-* In der Ansicht „Seite gestalten” lassen sich **Blöcke mit einem Datum** versehen, sodass sie nicht immer, sondern nur so definiten Zeiten sichtbar sind. So können Sie Hinweise vorbereiten, die dann automatisch angezeigt oder ausgeblendet werden können. Diese funktion eignet sich z.B. für wöchentliche Updates oder andere Ankündigungen.
+* In der Ansicht „Seite gestalten” lassen sich **Blöcke mit einem Datum** versehen, sodass sie nicht immer, sondern nur so definiten Zeiten sichtbar sind. So können Sie Hinweise vorbereiten, die dann automatisch angezeigt oder ausgeblendet werden können. Diese Funktion eignet sich z.B. für wöchentliche Updates oder andere Ankündigungen.
 * Alle Blöcke des Typs **Vertiefungswissen** können von Lernenden individuell durch einen Button „Zusatzwissen verbergen/anzeigen” alle diese Blöcke an- und abschalten.
 ![](https://i.imgur.com/th6clfc.png)
 
@@ -37,7 +37,7 @@ ILIAS bietet verschiedene Möglichkeiten, lange Listen oder Textabschnitte nur b
 Sie können Inhalte zwischen unterschiedlichen Kursräumen miteinander kopieren und sogar verknüpfen.
 
 * In der Ansicht „Seite gestalten” können Sie jeden **Block  kopieren** – der Block wird in ihrer Zwischenablage gespeichert. So in jedem anderen Kurs in der selben Ansicht wieder **aus der Zwischenablage einfügen**. 
-    * Diese Funktion ist besonders hilfreich für Bausteine, die Sie recht häufig verwenden – beiespielsweise leere Spaltenlayouts. Auf diese Weise müssen Sie ein Layout nur *einmal* erstellen und können es überall hinkopieren, wo Sie es benötigen.
+    * Diese Funktion ist besonders hilfreich für Bausteine, die Sie recht häufig verwenden – beispielsweise leere Spaltenlayouts. Auf diese Weise müssen Sie ein Layout nur *einmal* erstellen und können es überall hin kopieren, wo Sie es benötigen.
 
 ## Inhalte erstellen, ohne dass Studierende sie zu Gesicht bekommen
 Sie können alle Inhalte für Ihren Kurs zunächst innerhalb eines Objekts des Typs Ordner oder Inhaltsseite entwerfen und dieses **Objekt für Studierende unsichtbar schalten**.
