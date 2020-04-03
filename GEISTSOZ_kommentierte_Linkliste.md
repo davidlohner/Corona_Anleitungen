@@ -93,10 +93,35 @@ Für verpflichtende Abgaben in Textform (etwa Reflexionen, Standpunktvertretunge
 **Audiodateien** können mit dem Objekt „Mediacast” freigegeben werden. Man kann wahlweise nur Audios hochladen (So zeichnen Sie Audio-Dateien mit Ihrem Smartphone auf) oder auch Bilder hochladen, die von einer Audiospur begleitet werden.
 Zu sicheren Bereitstellung von **Videodateien** direkt im jeweiligen ILIAS-Kurs über eine KIT eigene Infrastruktur werden gerade die Systeme der Bibliothek und des SCC ertüchtigt. Ziel ist es, dies gegenüber dem bisherigen Vorgehen noch vor Beginn des Sommersemesters zu vereinfachen. **Bitte sehen Sie bis dahin davon ab, die Videos direkt in ILIAS hochzuladen**, damit die Systeme nicht überlastet werden. Das Sharing-Portal wird voraussichtlich ab dem 13.04. zur Verfügung stehen. [Siehe Infoseite des ZML.](http://www.zml.kit.edu/corona-screenrecording.php)
 
+## Übersichtliche Kursseiten trotz viel Inhalt
+ILIAS bietet verschiedene Möglichkeiten, lange Listen oder Textabschnitte nur bei Bedarf einzublenden:
+* **Objekteblöcke** können so konfiguriert werden, dass sie ein- und ausklappbar sind.
+![](https://i.imgur.com/qCH35Yw.png)
+* Sie können **Materiallisten und Textabschnitte in Akkordeonen** organisieren, die sich ein- und ausklappen lassen.
+* In der Ansicht „Seite gestalten” lassen sich **Blöcke mit einem Datum** versehen, sodass sie nicht immer, sondern nur so definiten Zeiten sichtbar sind. So können Sie Hinweise vorbereiten, die dann automatisch angezeigt oder ausgeblendet werden können. Diese funktion eignet sich z.B. für wöchentliche Updates oder andere Ankündigungen.
+* Alle Blöcke des Typs **Vertiefungswissen** können von Lernenden individuell durch einen Button „Zusatzwissen verbergen/anzeigen” alle diese Blöcke an- und abschalten.
+![](https://i.imgur.com/th6clfc.png)
+
+## Gleicher Inhalt in vielen Kursen?
+Sie können Inhalte zwischen unterschiedlichen Kursräumen miteinander kopieren und sogar verknüpfen.
+
+* In der Ansicht „Seite gestalten” können Sie jeden **Block  kopieren** – der Block wird in ihrer Zwischenablage gespeichert. So in jedem anderen Kurs in der selben Ansicht wieder **aus der Zwischenablage einfügen**. 
+    * Diese Funktion ist besonders hilfreich für Bausteine, die Sie recht häufig verwenden – beiespielsweise leere Spaltenlayouts. Auf diese Weise müssen Sie ein Layout nur *einmal* erstellen und können es überall hinkopieren, wo Sie es benötigen.
+
+## Inhalte erstellen, ohne dass Studierende sie zu Gesicht bekommen
+Sie können alle Inhalte für Ihren Kurs zunächst innerhalb eines Objekts des Typs Ordner oder Inhaltsseite entwerfen und dieses **Objekt für Studierende unsichtbar schalten**.
+Hierzu müssen Sie in der **Rechteverwaltung** des Objekts den Haken bei „Anzeige” für die Rolle „Kursmitglied” entfernen.
+So sind alle Inhalte des Objekts für Studierende zwar nutzbar, aber das Elternobjekt nicht sichtbar.
+
 ---
 
 ## Allgemeine Empfehlungen zur Gestaltung von Online-Lehre
+Das Zentrum für Mediales Lernen (ZML) [erarbeitet derzeit didaktische Empfehlungen für die Umsetzung von Lehrangeboten](http://www.zml.kit.edu/corona-online-lehre.php) im digitalen Raum, die für das gesamte KIT formuliert werden. An anderer Stelle finden sich online bereits einige Hinweise zu diesem Thema:
 
+* Umfangreiche Sammlung von Lehrszenarien mit digitaler Unterstützung bei [e-teaching.org](https://www.e-teaching.org/lehrszenarien)
+* Das [Hochschulforum Digitalisierung beschreibt drei Lehrszenarien](https://hochschulforumdigitalisierung.de/de/blog/3-lehrszenarien) und wie sie digital umgesetzt werden können (Vorlesung, Seminar, Selbstlerneinheit)
+    * Es gibt dazu auch eine [übersichtliche Infografik](https://hochschulforumdigitalisierung.de/sites/default/files/downloads/Virtuelle%20Lehrszenarien.pdf)
+* Einen Überblick mit Überlegungen zur generellen Situation, in der sich viele Lehrende jetzt befinden, beschreibt [Christian Friedrich in seinem Blog](https://blog.christianfriedrich.org/deutsch/den-einstieg-in-online-lehre-finden-geduld-improvisation-netzwerke-suchen/)
 ---
 ## Infos & Kontakt
 
