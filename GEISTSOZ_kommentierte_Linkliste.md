@@ -2,7 +2,7 @@
 tags: KIT_corona, Anleitung, GEISTSOZ
 ---
 
-# Hinweise für die Nutzung von ILIAS
+# Tipps für die Nutzung von ILIAS
 ```
 letzte Aktualisierung: 02.04.2020
 ```
@@ -10,9 +10,6 @@ letzte Aktualisierung: 02.04.2020
 
 Alle online angebotenen Lehrveranstaltungen sollen im zentralen Learning Management System ILIAS eingetragen werden. Somit liegen die wesentlichen Informationen in einem System vor. Es ist uns klar, dass das ILIAS-System damit eine noch größere Beanspruchung als bislang erfährt. Ziel ist es einen zentralen Informationspunkt für die Studierenden zu schaffen. Der Verweis auf andere System kann aus ILIAS heraus erfolgen.
 ILIAS bietet Ihnen nach der initialen Kurseinrichtung die notwendigen Funktionen um die Kursteilnehmer zu verwalten, Lehrmaterialien weiterzugeben, mit den Studierenden zu kommunizieren, Arbeitsaufträge zu verteilen sowie Ergebnisse einzusammeln und bei Bedarf virtuelle Gruppenarbeitsräume einzurichten. ([Informationsseite des ZML](http://www.zml.kit.edu/corona-ilias-nutzung.php))
-
-# Spezifika für GeistSoz
-Für Lehrformate, wie sie insbesondere an der KIT-Fakulät für Geistes- und Sozialwissenschaften gebraucht werden hier noch einige Zusätze zur ILIAS-Nutzung:
 
 ## Diskussionen und Kommunikationswege
 Für Diskussionen und Debatten sollte sorgfältig abgewägt werden, ob ein ILIAS-Forum oder besser Microsoft Teams eingesetzt wird. Beide Systeme haben Vor- und Nachteile. Insbesondere in kleineren Gruppen, die doch zeitgleich an einer Diskussion teilnehmen ist MS Teams vorzuziehen, da hier auch unkompliziert Konferenzschaltungen möglich sind (auch ohne Video nur Ton), die mit einem Chat begleitet werden. ILIAS-Foren hingegen sind im LMS integriert und sind bei einer Vielzahl gleichzeitiger aber thematisch unterschiedlicher Diskussionen (Threads/Themen) übersichtlicher.
