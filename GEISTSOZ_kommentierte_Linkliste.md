@@ -1,7 +1,6 @@
 ---
 tags: KIT_corona, Anleitung, GEISTSOZ
 ---
-![](https://i.imgur.com/eAg9Fgb.png)
 
 # Hinweise für die Nutzung von ILIAS
 ```
