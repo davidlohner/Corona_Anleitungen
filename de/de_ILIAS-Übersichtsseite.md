@@ -1,5 +1,6 @@
 Alle online angebotenen Lehrveranstaltungen sollen im zentralen Learning Management System ILIAS eingetragen werden. Somit liegen die wesentlichen Informationen in einem System vor. Es ist uns klar, dass das ILIAS-System damit eine noch größere Beanspruchung als bislang erfährt. Ziel ist es einen zentralen Informationspunkt für die Studierenden zu schaffen. Der Verweis auf andere System kann aus ILIAS heraus erfolgen.
-ILIAS bietet Ihnen nach der initialen Kurseinrichtung die notwendigen Funktionen um die Kursteilnehmer zu verwalten, Lehrmaterialien weiterzugeben, mit den Studierenden zu kommunizieren, Arbeitsaufträge zu verteilen sowie Ergebnisse einzusammeln und bei Bedarf virtuelle Gruppenarbeitsräume einzurichten. ([Informationsseite des ZML](http://www.zml.kit.edu/corona-ilias-nutzung.php))
+
+ILIAS bietet Ihnen nach der initialen Kurseinrichtung die notwendigen Funktionen um die Kursteilnehmer zu verwalten, Lehrmaterialien weiterzugeben, mit den Studierenden zu kommunizieren, Arbeitsaufträge zu verteilen sowie Ergebnisse einzusammeln und bei Bedarf virtuelle Gruppenarbeitsräume einzurichten.
 
 Auf dieser Seite sind zahlreiche Links zu Anleitungen, Hilfe-Seiten und Support für ILIAS am KIT aufgezählt. 
 
@@ -18,9 +19,8 @@ Wenn Sie an einem wöchentlichen Turnus Ihrer Lehrveranstaltung festhalten möch
 ### Vorlesung mit kontextbasiertem Aufbau
 Sollten Sie Ihre Lehrveranstaltung bereits komplett geplant haben und den Studierenden ermöglichen, sich die Inhalte selbst über den Verlauf des Semesters einzueteilen, können Sie Inhalte auch kontextbasiert gruppieren.
 ➡️ **[Link zum Demo-Kurs](https://scc-ilias-plugins.scc.kit.edu/goto.php?target=crs_4254&client_id=pilot)**
-:::warning
-Ein gesamtes Semester im Selbststudium zu absolvieren verlangt von den Studierenden ein enormes Maß an Selbstregulation. Wir empfehlen, dass Sie Ihren Studierenden einige „Meilensteine” für derartige Selbstlerneinheiten vorschlagen.
-:::
+
+*Ein gesamtes Semester im Selbststudium zu absolvieren verlangt von den Studierenden ein enormes Maß an Selbstregulation. Wir empfehlen, dass Sie Ihren Studierenden einige „Meilensteine” für derartige Selbstlerneinheiten vorschlagen.*
 
 ## ILIAS-Hilfsangebot für Dozierende
 Das ZML hat in ILIAS einen umfangreichen Hilfe-Bereich für Dozierende des KIT für den Umgang mit ILIAS erstellt. Sie finden den Kurs im ILIAS-Magazin auf der obsersten Ebene.
@@ -50,16 +50,26 @@ Das ZML stellt zahlreiche Handreichungen bereit, um Sie dabei zu unterstützen, 
 
 Hier finden Sie Schritt-für-Schritt-Anleitungen zu folgenden Aspekten:
 
-1. [Vom Vorlesungsverzeichnis zum ILIAS-Kurs](https://s.kit.edu/ilias-veranstaltungsmanagement)
-2. [Einen ILIAS-Kurs erstellen](https://s.kit.edu/ilias-kurserstellung)
-3. [Kurseinstellungen eines ILIAS-Kurses konfigurieren](https://s.kit.edu/ilias-kurseinstellungen)
-4. [Material in ILIAS hochladen](https://s.kit.edu/ilias-materialien-hochladen)
-5. [Kursräume in ILIAS gestalten](https://s.kit.edu/ilias-kursraumgestaltung)
-6. [Informationen über ILIAS an Studierende verteilen](https://s.kit.edu/ilias-informationsdistribution)
-7. [Anlegen von Buchungspools in ILIAS](https://s.kit.edu/ilias-buchungspools)
-8. [Arbeitsgruppen in ILIAS verwalten](https://s.kit.edu/ilias-gruppen-verwalten)
-9. [Übungen in ILIAS anlegen](https://s.kit.edu/ilias-uebungen)
-10. [Rechteverwaltung in ILIAS](https://s.kit.edu/ilias-rechteverwaltung)
+1. [**Vom Vorlesungsverzeichnis zum ILIAS-Kurs**](https://s.kit.edu/ilias-veranstaltungsmanagement)
+In diesem Tutorial wird erläutert, wie die Verbindung von Campus-Managementsystem und ILIAS und wer für das Anlegen von Veranstaltungen zuständig ist.
+2. [**Einen ILIAS-Kurs erstellen**](https://s.kit.edu/ilias-kurserstellung)
+Beschreibung, wie ILIAS-Kursräume angelegt werden.
+3. [**Kurseinstellungen eines ILIAS-Kurses konfigurieren**](https://s.kit.edu/ilias-kurseinstellungen)
+Das Tutorial beschreibt die unterschiedlichen Kurseinstellungs-Optionen und deren funktionalen Bedeutungen.
+4. [**Material in ILIAS hochladen**](https://s.kit.edu/ilias-materialien-hochladen)
+Das Tutorial beschreibt, wie man eine einfache Kursstruktur generiert und die zugehörigen Materialien einstellt.
+5. [**Kursräume in ILIAS gestalten**](https://s.kit.edu/ilias-kursraumgestaltung)
+Optische und strukturelle Aufbereitung von Kursen .
+6. [**Informationen über ILIAS an Studierende verteilen**](https://s.kit.edu/ilias-informationsdistribution)
+Beschrieben werden die Möglichkeiten der Informationsbereitstellung in ILIAS-Kursräumen .
+7. [**Anlegen von Buchungspools in ILIAS**](https://s.kit.edu/ilias-buchungspools)
+In diesem Tutorial werden Buchungspools als Möglichkeit automatisierter Termin oder Themenvergabe beschrieben.
+8. [**Arbeitsgruppen in ILIAS verwalten**](https://s.kit.edu/ilias-gruppen-verwalten)
+Verwaltung und Steuerung von Gruppen für kollaboratives Arbeiten.
+9. [**Übungen in ILIAS anlegen**](https://s.kit.edu/ilias-uebungen)
+Das Tutorial beschreibt die Möglichkeiten automatisierter Übungsszenarien.
+10. [**Rechteverwaltung in ILIAS**](https://s.kit.edu/ilias-rechteverwaltung)
+Das Tutorial beschreibt das Rollenkonzept von ILIAS und welche Einstellungsmöglichkeiten bestehen.
 
 ## Support für ILIAS
 Neben dem [Support des SCC](ilias@studium.kit.edu) für technische Fragen und dem [Support des ZML](elearning@studium.kit.edu) für didaktische und anwendungsbezogene Fragen zu ILIAS finden Sie auch in den sehr umfangreichen [Support-Dokumenten der ILIAS-Community](https://docu.ilias.de/goto_docu_lm_6022.html) weitere Informationen.
