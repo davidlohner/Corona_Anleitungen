@@ -5,7 +5,7 @@ tags: KIT_corona, Anleitung
 
 # Record videos with Open Broadcaster software 
 ```
-last update: 31.03.2020
+last update: 07.04.2020
 ```
 If you have your teaching content in digital form on your computer, you can record a lecture and this digital content with a special broadcaster software. This tutorial describes which steps in Open Broadcaster Software (OBS) are necessary for that.
 
