@@ -3,123 +3,123 @@ tags: KIT_corona, Anleitung, Videoschnitt
 ---
 ![](https://i.imgur.com/eAg9Fgb.png)
 
-# Videos schneiden und kürzen unter macOS
+# Cutting and trimming videos under macOS
 ```
-letzte Aktualisierung: 31.03.2020
+last update: 31.03.2020
 ```
-Möglicherweise wollen Sie Ihre in Videoform aufgezeichneten Lehrinhalte bearbeiten, schneiden oder kürzen, da Sie z.B. zu Beginn noch Material herrichten mussten, unterbrochen wurden oder die Aufnahme noch etwas länger lief, obwohl Sie bereits fertig waren. Diese Anleitung zeigt, wie Sie unter macOS die gänigsten Operationen im Videoschnitt durchführen.
+You may want to edit, cut or shorten your video-recorded teaching content because, for example, you had to prepare material at the beginning, were interrupted or the recording ran a little longer, even though you had already finished. This manual shows how to perform the most common operations in video editing under macOS.
 
-#### Übersicht
+#### Overview
 [TOC]
 
 ---
 
 :::warning
-Wichtige Hinweise sind gelb gekennzeichnet.
+Important notes are marked yellow.
 :::
 
 :::info
-Zusatzinformationen sind blau gekennzeichnet.
+Additional information is marked in blue.
 :::
 
 ---
 
-## Variante 1: QuickTime Player
+## Variant 1: QuickTime Player
 ![](https://i.imgur.com/0Df6tpV.jpg)
 
 
-Wenn Sie Ihr Video **nur kürzen** wollen (vorne und oder hinten etwas abschneiden), können Sie diese Operation mit dem im System integrierten QuickTime Player durchführen:
+If you **only want to shorten** your video (cut off a little at the front and or back), you can do this operation with the QuickTime Player integrated in the system:
 
-1. Öffnen Sie das zu trimmende Video im Quicktime Player.
-2. Wählen Sie aus dem Menü „Bearbeiten” den Eintrag „Kürzen”
-(Tastenkürzel: `CMD + T`; T für „Trimmen”)
+1. Open the video to be trimmed in the Quicktime Player
+2. Select "Trim" from the "Edit" menu
+(Shortcut keys: 'CMD + T'; T for "Trim")
 ![](https://i.imgur.com/STWCJub.jpg)
-3. Ziehen Sie die gelben Randmarkierungen so von Anfang und Ende Richtung Mitte, dass der Bereich _dazwischen_ Ihr fertiges Video darstellt.
+3. Drag the yellow border markers from the beginning and end towards the middle so that the area _between_ represents your finished video.
 ![](https://i.imgur.com/lnUBp5o.jpg)
-4. Bestätigen Sie Ihre Auswahl mit einem Klick auf die Schaltfläche „Kürzen”.
-5. Sichern Sie das gekürzte Video mit dem Befehl „Sichern...” im Menü „Datei”, bzw. mit dem Tastenkürzel `CMD + S`.
-6. Wählen Sie einen Speicherort und einen Dateinamen für das gekürzte Video
+4. Confirm your selection by clicking on the "Shorten" button
+5. Save the shortened video with the command "Save...". in the "File" menu, or with the shortcut key 'CMD + S'.
+6. Choose a location and file name for the shortened video
 ![](https://i.imgur.com/JwFrrv5.jpg)
 
-## Variante 2: iMovie
+## Variant 2: iMovie
 ![](https://i.imgur.com/J3NozLc.jpg)
 
-Wenn Sie Ihr Video aufwändiger schneiden wollen, also Anfang und Ende kürzen, aber auch **in der Mitte Passagen herausschneiden** wollen, benötigen Sie ein Videoschnitt-Programm. Mit [iMovie](https://www.apple.com/de/imovie) steht unter macOS ein solches Programm kostenfrei zur Verfügung.
+If you want to cut your video more elaborately, i.e. shorten the beginning and end, but also **cut out passages in the middle**, you will need a video editing program. With [iMovie](https://www.apple.com/de/imovie) such a program is available free of charge under macOS.
 
-1. Laden und installieren Sie (sofern noch nicht vorhanden) [iMovie aus dem Mac App Store](https://itunes.apple.com/de/app/imovie/id408981434?mt=12&ls=1&v0=www-us-mac-imovie-app-imovie).
-2. Öffnen Sie iMovie.
-3. Wählen Sie den Reiter „Projekte”.
-4. Erstellen Sie ein neues Projekt der Kategorie „Film”.
+1. Sownload and install [iMovie from the Mac App Store](https://itunes.apple.com/de/app/imovie/id408981434?mt=12&ls=1&v0=www-us-mac-imovie-app-imovie) if you don't already have it.
+2. Open iMovie.
+3. Select the "Projects" tab.
+4. Create a new project in the Movie category.
 ![](https://i.imgur.com/8VNvJY5.jpg)
-6. Importieren Sie über die Schaltfläche „Importieren” die Videodatei, die Sie schneiden möchten.
+5. Import the video file that you want to trim using the Import button.
 ![](https://i.imgur.com/gUvWIJB.jpg)
-8. Navigieren Sie zum Speicherort der Datei und wählen Sie sie aus und bestätigen Sie den Import über die Schaltfläche „Auswahl importieren”.
+6. Navigate to the location where the file is stored and select it and confirm the import by clicking the "Import selection" button
 ![](https://i.imgur.com/lArAaaz.jpg)
-9. Ziehen Sie den Videoclip mit der Maus aus dem linken oberen Bereich (Dem so genannten „Browser”) in den unteren Bereich der Applikation (die so genannte „Timeline”).
-    * Alternativ können Sie den Clip auswählen und mit der Taste `E` der Timline hinzufügen.
+7. Use the mouse to drag the video clip from the upper left area (the so-called "browser") to the lower area of the application (the so-called "timeline").
+    * Alternatively, you can select the clip and add it to the timeline using the 'E' key.
 ![](https://i.imgur.com/UjYdajl.jpg)
 
-### Kürzen des Videos
-1. Bewegen Sie den Mauscursor an eines der beiden Enden des Videoclips in der Timeline.
+### Shorten the video
+1. Move the mouse cursor to either end of the video clip in the Timeline.
 :::info
-Der Mauscursor verändert sein Erscheinungsbild um anzuzeigen, dass die Ränder des Clips „bewegt” werden können.
+The mouse cursor changes its appearance to indicate that the edges of the clip can be "moved".
 :::
 ![](https://i.imgur.com/h9SbU9S.jpg)
-3. Ziehen Sie die jeweilige Randmarkierung in Richtung Mitte des Videoclips.
+2. Drag the respective edge marker towards the center of the video clip.
 
-### Herausschneiden von Passagen aus dem Video
-Um eine Passage aus einem Videoclip _herauszuschneiden_ muss ein Videoclip zwei Mal geschnitten werden: Am Anfang und am Ende der zu entfernenden Passage.
+### Cutting passages out of the video
+To _cut_ a passage out of a video clip, a video clip must be cut twice: At the beginning and the end of the passage to be removed.
 
-1. Navigieren Sie in der Timeline zur entsprechenden Stelle im Clip, die Sie schneiden möchten.
-2. Platzieren Sie den Wiedergabemarker (den so genannte „Playhead”) an der Stelle, an der Sie den ersten Schnitt machen wollen.
+1. Navigate in the Timeline to the appropriate place in the clip you want to cut.
+2. Place the playback marker (called the "playhead") at the point where you want to make the first cut
 ![](https://i.imgur.com/NQb8IwO.jpg)
-4. Bestätigen Sie den Schnitt mit dem Eintrag „Clip Teilen„ im Menü „Ändern” oder mit dem Tastenkürzel `CMD + B` (B = Blade = Klinge/Schneide).
+3. Confirm the cut with the entry "Split clip" in the "Modify" menu or with the shortcut key 'CMD + B' (B = Blade)
 ![](https://i.imgur.com/gkHMd2h.jpg)
-5. Platzieren Sie den Playhead an der Stelle, an der Sie den zweiten Schnitt setzen wollen.
-6. Bestätigen Sie den Schnitt wieder mit der Tastenkombination `CMD + B`.
-Sie haben Ihren Clip in der Timeline nun in drei Teile geschnitten.
-6. Wählen Sie das mittlere Teil aus.
+4. Place the playhead at the position where you want to set the second cut
+5. Confirm the cut again with the key combination 'CMD + B'. You have now cut your clip in the timeline into three parts.
+6. Select the middle part.
 ![](https://i.imgur.com/gacGPaz.jpg
-7. Löschen Sie die Auswahl mit dem Eintrag „Löschen” im Menü „Bearbeiten” oder mit der Taste `Backspace`
+7. Delete the selection with the 'Delete' entry in the 'Edit' menu or with the 'Backspace' key
 
-iMovie „schließt” die entstandene Lücke automatisch, indem der rechte Clip direkt an den linken angehängt wird. So entsteht trotz Schnitt keine Pause im Video.
+iMovie automatically "fills" the gap by attaching the right clip directly to the left. This means there's no pause in the video despite the editing.
 ![](https://i.imgur.com/dpyc3Ht.jpg)
 
-### Sichern des bearbeiteten Videos
-Wenn Sie Ihr Video fertig geschnitten haben, müssen Sie Ihren Film erneut speichern.
+### Save the edited video
+When you have finished editing your video, you will need to save your movie again.
 
-1. Klicken Sie auf den „Teilen”-Button am Oberen rechten Rand der Applikation.
-2. Wählen Sie „Datei”.
+1. Click on the "Share" button at the top right of the application
+2. Select "File".
 ![](https://i.imgur.com/ISgQIDT.jpg)
-3. Ändern Sie **keine** der Einstellungsmöglichkeiten
+3. Do not change **any** of the setting options
 :::info
-Wie Sie die Videos für den Upload in die Systeme des KIT komprimieren, erfahren Sie in einer gesonderten Anleitung.
+How to compress the videos for upload to the KIT systems is explained in a separate manual.
 :::
-5. Klicken Sie auf „Weiter”.
-6. Wählen Sie einen geeigenten Speicherort für Ihr geschnittenes Video.
+4. Click on "Next".
+5. Choose a suitable storage location for your edited video.
 ![](https://i.imgur.com/4cddRzw.jpg)
 
-## Nächste Schritte
-* Wie Sie die Aufnahmen für den Upload vorbereiten und dafür möglichst kleine Dateien bei gleichbleibender Qualität erzeugen, zeigt diese Anleitung: [Anleitung zu Videokomprimierung](https://s.kit.edu/tutorial-videokomprimierung).
-* Wie Sie die Aufnahmen Ihren Studierenden über ILIAS bereitstellen, erfahren Sie in einer gesonderten Anleitung.
+## Next steps
+* How to prepare the recordings for upload and create the smallest possible files with the same quality is shown in this guide: [Video Compression Guide](https://s.kit.edu/tutorial-videokomprimierung).
+* A separate guide will show you how to make the recordings available to your students via ILIAS.
 
 ---
-## Infos & Kontakt
+## Info & Contact
 
-### Lizenzhinweis
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Diese Anleitung für die Erstellung von digitalem Lehrmaterial</span> des <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Zentrum für Mediales Lernen (ZML) am Karlsruher Instituts für Technologie (KIT)</span> ist lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung 4.0 International Lizenz</a>.
+### License notice
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">These tutorials for the creation of digital teaching material</span> of <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">the center for Technology-Enhanced Learning (ZML) at the Karlsruhe Institute of Technology (KIT)</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
-### Impressum
+### Imprint
 
-**Herausgeber**
+**Publisher**
 Karlsruher Institut für Technologie (KIT)
 Kaiserstraße 12
 76131 Karlsruhe
 
-**Kontakt**
+**Contact**
 Karl-Friedrich-Str. 17
 76133 Karlsruhe
-Deutschland
+Germany
 Tel.: +49 721 608-48200
 Fax: +49 721 608-48210
 E-Mail: info@zml.kit.edu
+
