@@ -3,160 +3,161 @@ tags: KIT_corona, Anleitung, ILIAS,
 ---
 ![](https://i.imgur.com/eAg9Fgb.png)
 
-# Ansprechende Kursraumgestaltung in ILIAS
+# Attractive course room design in ILIAS
 ```
-letzte Aktualisierung: 31.03.2020
+last update: 31.03.2020
 ```
-ILIAS-Kursräume sind die primäre Umgebung für die Organisation und Verwaltung Ihrer Lehrveranstaltung. Damit Studierende sich darin gut und leicht zurechtfinden, sollten Sie die jeweiligen Kursräume sauber strukturieren und optisch ansprechend und individuell gestalten. Auf diese Weise können die Studierenden mit nur einem kurzen Blick feststellen, in welchem virtuellen Raum sie sich gerade befinden.
+ILIAS course rooms are the primary environment for the organisation and administration of your course. In order for students to find their way around easily, the course rooms should be neatly structured, visually appealing and individually designed. In this way, students can determine at a glance which virtual room they are currently in.
 
-#### Übersicht
+#### Overview
 [TOC]
 
 ---
 
 :::warning
-Wichtige Hinweise sind gelb gekennzeichnet.
+Important notes are marked yellow.
 :::
 
 :::info
-Zusatzinformationen sind blau gekennzeichnet.
+Additional information is marked in blue.
 :::
 
 ---
 
-## Konzept dieser Anleitung
-Diese Anleitung verfolgt einen Dreischritt, der in Teilen von der Bedienung von ILIAS als Lerning Management System (LMS) geschuldet ist. In aller Kürze lässt sich dieser Dreischritt wie folgt formulieren:
+## Concept of this manual
+This manual follows a three-step approach, which is partly due to the operation of ILIAS as a Learning Management System (LMS). In a nutshell this three-step can be formulated as follows:
 
-**1. Hinzufügen aller Onjekte und Materialien
-2. Gruppieren der Objekte
-3. Arrangieren der Inhalte innerhalb des Kurses**
+**1. Add all projects and materials
+2. Grouping the objects
+3. Arranging the contents within the course**
 
-Für diese Anleitung wird ein exemplarischer Kurs erstellt, der einem klassischen Sitzungsverlauf folgt und einige Zusatzmaterialien über ILIAS bereitstellt.
+An exemplary course is created for this tutorial, which follows a classical session flow and provides some additional material about ILIAS.
 
 :::danger
-Alle in den Bildern gezeigten Objekte sind **ausschließlich für Demonstrationszwecke** hinzugefügt. Hinweise für die (medien-)didaktische Gestaltung von reinen Online-Lehrveranstaltungen werden am ZML erarbeitet.
+All objects shown in the pictures are **added exclusively for demonstration purposes**. Instructions for the (media) didactic design of purely online courses are being developed at the ZML.
 :::
 
-## Schritt 1: Objekte hinzufügen
-1. Fügen Sie neue Objekte auf der obersten Ebene des ILIAS-Kurses hinzu.
+## Step 1: Add objects
+1. Add new objects on the top level of the ILIAS course
 ![](https://i.imgur.com/njEVqKe.jpg)
 
 :::warning
-ILIAS fügt alle Materialien einer langen Liste in Ihrem Kurs hinzu und ordenet die Objekte automatisch nach Typ.
+ILIAS adds all materials to a long list in your course and automatically orders the objects by type.
 :::
 ![](https://i.imgur.com/22X1cQ3.jpg)
 
-2. Ordnen Sie alle Materialien entsprechnden Sitzungen oder Ordnern zu.
+2. Assign all materials to corresponding sessions or folders.
 ![](https://i.imgur.com/dFxD2tL.jpg)
 ![](https://i.imgur.com/aQL3p2J.jpg)
 
 
 
-## Schritt 2: Gruppieren der Objekte
-Objekte unterschiedlicher Objekttypen können in Materiallisten, sogenannten „Objekteblöcken” gruppiert werden. 
-1. Erstellen Sie einen neuen Objekteblock und geben Sie ihm einen aussagekräftigen Namen.
+## Step 2: Group the objects
+Objects of different object types can be grouped in material lists, so-called "object blocks". 
+1. Create a new object block and give it a meaningful name.
 ![](https://i.imgur.com/VpAiw7c.jpg)
 
-2. Fügen Sie inhaltlich oder organisatorische zusammenhängende Objekte in den Objekteblock ein. Wählen Sie dazu aus der Liste die jeweils zutreffenden Objekte per Ausawahl an.
-![](https://i.imgur.com/VZ66jaJ.jpg)
+2. Insert objects related to content or organization in the object block. To do this, select the relevant objects from the list.
+[](https://i.imgur.com/VZ66jaJ.jpg)
 
-ILIAS zeigt Ihnen nun eine Liste Ihrer Materialien geordnet nach Objekteblöcken an. 
+ILIAS now shows you a list of your materials sorted by object blocks. 
 ![](https://i.imgur.com/DGit48f.jpg)
 
 :::info
-Objeckteblöcke sind dann besonders sinnvoll, wenn Sie unterschiedliche Objekttypen gruppieren wollen. In einem späteren Schritt können Sie unter den „Materiallisten” neben Objekteblöcken auch alle Objekte eines Typs (z.B. Sitzungen) gruppieren.
+Object blocks are particularly useful if you want to group different object types. In a later step, you can group all objects of a type (e.g. sessions) under "Material lists", in addition to object blocks.
 :::
 
-## Gestaltung der Kursseite
+## Design of the course page
 
-Damit Ihre Studierenden sich schnell und einfach in Ihrem ILIAS-Kurs zurechtfinden, sollten Sie die erstellen Objecktblöcke auf der Seite Ihres Kurses arrangieren.
+In order for your students to find their way around your ILIAS course quickly and easily, you should arrange the object blocks you have created on the page of your course.
 
-### Vorbemerkung
-Im Grunde genommen gestalten Sie hierbei eine Webseite, auf der Ihre Kursinhalte gespeichert sind. Daher ist es hilfreich, sich Anleihen aus dem Webdesign für die Gestaltung zu nehmen.
+### Preliminary remark
+Basically, you design a website on which your course content is stored. Therefore it is helpful to take borrowings from web design for the design.
 
-### Spaltenlayout
-Ein wichtiges Merkmal guter Gestaltung ist ein zugrunde liegendes Raster. In ILIAS können Sie ein Spaltenlayout verwenden, dass die Inhalte Ihres Kurses in **zwölf gleichgroße Spalten** unterteilt. ILIAS bietet Ihnen die Möglichkeit, Inhalte auf eine definierte Breite dieses Grundrasters zu skalieren und gibt diese Schritte in Zwöflteln an:
+### Column layout
+An important feature of good design is an underlying grid. In ILIAS you can use a column layout that divides the contents of your course into **twelve equal-sized columns**. ILIAS offers you the possibility to scale contents to a defined width of this basic grid and indicates these steps in twelfths:
 ![](https://i.imgur.com/1hhsu1B.jpg)
 
 
-Die Spalten werden dabei stets von links nach rechts durchgezählt: Die erste Spalte ist ganz links, die letzte Spalte ganz rechts.
+The columns are always counted from left to right: The first column is on the far left, the last column on the far right.
 
-### Layout für Mobilgeräte
-ILIAS optimiert die Darstellung für verschiedene Display-Größen (vom Smartphone im Hochformat bis zum großen Desktop). Im Spaltenlayout können Sie selbst festlegen, wie breit jede Spalte auf den jeweiligen Endgeräten angezeigt wird. Mehrere Spalten nebeneinander werden auf schmalen Geräten untereinander angezeigt.
+### Layout for mobile devices
+ILIAS optimizes the display for different display sizes (from smartphone in portrait format to large desktop). In the column layout you can determine how wide each column is displayed on the respective mobile devices. Several columns next to each other are displayed below each other on narrow devices.
 
-## Schritt 3: Arrangieren der Objekteblöcke
-1. Klicken Sie auf „Seite gestalten”
+## Step 3: Arranging the object blocks
+1. Click on "Design page".
 ![](https://i.imgur.com/Vf8zJp0.jpg)
-2. Klicken Sie auf das Plus und wählen Sie „Spaltenlayout einfügen”.
+2. Click on the plus and select "Insert column layout".
 ![](https://i.imgur.com/DMW3lbw.jpg)
-4. Erstellen Sie nun ein Spaltenlayout, das für Ihre Inhalte sinnvoll ist
+3. Now create a column layout that makes sense for your content.
 ![](https://i.imgur.com/zf9p76G.jpg)
-5. Auf der Seite können Sie in die einzelnen Spalten Inhalte einfügen.
+4. On the page you can insert content into the individual columns.
 ![](https://i.imgur.com/4dIPt5p.jpg)
-6. Fügen Sie unter dem Eintrag „Materiallisten” Ihre erstellten Objekteblöcke in die jeweilgen Spalten ein.
+5. Insert your created object blocks into the respective columns under the entry "Material lists".
 ![](https://i.imgur.com/vSZTih6.jpg)
-* Sie können auch alle Objekte eines Typs (z.B. Sitzungen) als eine Materialliste einer Spalte hinzufügen.
+* You can also add all objects of one type (e.g. sessions) as one material list to a column.
     ![](https://i.imgur.com/9hapBoE.jpg)
-7. Fügen Sie an entsprechenden Stellen weitere Blöcke für Textbausteine (etwa Überschriften, kurze Absätze) ein. Wählen Sie dazu unter „Seite gestalten” - „Block einfügen” und wählen Sie aus den Absatzformaten z.B. „Hintergrund” um einen weißen Kasten um Ihre Textbausteine zu erhalten
+6. Insert further blocks for text modules (e.g. headings, short paragraphs) at the appropriate places. To do this, select "Page design" - "Insert block" and choose from the paragraph formats e.g. "Background" to get a white box around your text blocks.
 ![](https://i.imgur.com/OcWgGaB.jpg)
 ![](https://i.imgur.com/AN5maVy.jpg)
-8. Speichern Sie Textbausteine und Absätze regelmäßig über die Buttons „Speichern und ...” am oberen Rand des Editors.
+7. Save text blocks and paragraphs regularly using the "Save and ..." buttons at the top of the editor.
 ![](https://i.imgur.com/avQuvRB.jpg)
 
 
 :::info
-**Tipps**
-Blöcke können Zusatzfunktionen haben:
-* Der Block „Vertiefungswissen” kann z.B. von den Studierenden auf Ihrer Kursseite mit einem einzigen Klick bei Bedarf aus- und wieder eingeblendet werden.
-* Sie können Blöcke bereits anlegen, aber „deaktivieren” und erst bei Bedarf sichtbar machen (aktivieren).
-* Blöcke können mit Daten versehen werden um automatisch zu vorab definierten Zeitpunkten oder -räumen sichtbar zu sein (z.B. für Ankündigungen o.Ä.).
+**tips**
+Blocks can have additional functions:
+* For example, the block "Advanced Knowledge" can be hidden and shown again by students on your course page with a single click.
+* You can already create blocks but "deactivate" them and only make them visible (activate) when needed.
+* Blocks can be provided with dates to be automatically visible at pre-defined times or periods (e.g. for announcements or similar).
 :::
 
-Ihre ILIAS-Seite hat nun eine klare Strutkur.
+Your ILIAS page now has a clear structure.
 ![](https://i.imgur.com/sbO53DL.jpg)
 
-## Bonus: Eye Candy und weitere Individualisierungen
-Damit Studiernde Ihren Kurs leicht von anderen der Lernplattformen unterscheiden können, können Sie einige optische Elemente verwenden, um Ihren Kurs individuell zu gestalten.
+## [ Continues ] Bonus: Eye Candy and further individualizations
+To help students easily distinguish your course from other learning platforms, you can use some visual elements to customize your course.
 
-### Eigenes Kurs-Icon
-In den Einstellungen Ihres Kurses können Sie unter „Darstellung” ein angepasstes Icon auswählen. Das Bildformat muss eine „scalable vector graphic” mit der Endung .**svg** sein.
+### Own course icon
+In the settings of your course you can select an adapted icon under "Display". The image format must be a "scalable vector graphic" with the extension .**svg**.
 ![](https://i.imgur.com/crsARwZ.jpg)
 ![](https://i.imgur.com/KQ6d1vQ.jpg)
 
 
-### Header-Bild (für einzelne Spalten)
-1. Fügen Sie unter „Seite gestalten” in einer Spalte Ihrer Wahl ein **Bild**/Audio/Video ein.
+### Header image (for individual columns)
+1. Add a **image**/audio/video in a column of your choice under "Design page".
 ![](https://i.imgur.com/tJ4AlHc.jpg)
-2. Navigieren Sie zu den Einstellungen des hochgeladenen Bildes.
+2. Navigate to the settings of the uploaded image
 ![](https://i.imgur.com/n6pOQfK.jpg)
-3. Wählen Sie im Reiter „Style” das Absatzformat „MediaContainerFull100”.
+3. Select the paragraph format "MediaContainerFull100" in the "Style" tab
 ![](https://i.imgur.com/Iq7KhDx.jpg)
 ![](https://i.imgur.com/zhRrd7O.jpg)
 
 
 
-# Einige Hinweise
-* Wichtige und für die Studierenden relevante Inhalte sollten möglichst prominent, also in der Hierarchie weit oben platziert werden.
-* Im Verlauf eines Semesters ändern sich die Prioritäten. Sollte Ihr Kurs mit einem „Herzlich Willkommen”-Textabsatz eröffnet werden, benötigen Sie diesen Abschnitt nach einigen Wochen im Semester ggf. nicht mehr. Dafür werden z.B. die Kriterien für Leistungsnachweise gefragter. **Passen Sie Ihren Kurs auch während des Semesters an die aktuellen Bedarfe Ihrer Studierenden an.**
+# Some notes
+* Important and relevant content for the students should be placed as prominently as possible, i.e. high up in the hierarchy.
+* Priorities change in the course of a semester. If your course opens with a "Welcome" text paragraph, you may no longer need this section after a few weeks in the semester. For this purpose, e.g. the criteria for credits are more in demand. **Adapt your course to the current needs of your students also during the semester.**
 
 ---
 
-## Infos & Kontakt
+## Info & Contact
 
-### Lizenzhinweis
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Diese Anleitung für die Erstellung von digitalem Lehrmaterial</span> des <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Zentrum für Mediales Lernen (ZML) am Karlsruher Instituts für Technologie (KIT)</span> ist lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung 4.0 International Lizenz</a>.<br />Über diese Lizenz hinausgehende Erlaubnisse können Sie unter <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.zml.kit.edu" rel="cc:morePermissions">http://www.zml.kit.edu</a> erhalten.
+### License notice
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">These tutorials for the creation of digital teaching material</span> of <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">the center for Technology-Enhanced Learning (ZML) at the Karlsruhe Institute of Technology (KIT)</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
-### Impressum
+### Imprint
 
-**Herausgeber**
+**Publisher**
 Karlsruher Institut für Technologie (KIT)
 Kaiserstraße 12
 76131 Karlsruhe
 
-**Kontakt**
+**Contact**
 Karl-Friedrich-Str. 17
 76133 Karlsruhe
-Deutschland
+Germany
 Tel.: +49 721 608-48200
 Fax: +49 721 608-48210
 E-Mail: info@zml.kit.edu
+
