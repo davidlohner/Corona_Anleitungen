@@ -27,7 +27,7 @@ Zusatzinformationen sind blau gekennzeichnet.
 ## Konzept dieser Anleitung
 Diese Anleitung verfolgt einen Dreischritt, der in Teilen von der Bedienung von ILIAS als Lerning Management System (LMS) geschuldet ist. In aller Kürze lässt sich dieser Dreischritt wie folgt formulieren:
 
-**1. Hinzufügen aller Onjekte und Materialien
+**1. Hinzufügen aller Objekte und Materialien
 2. Gruppieren der Objekte
 3. Arrangieren der Inhalte innerhalb des Kurses**
 
