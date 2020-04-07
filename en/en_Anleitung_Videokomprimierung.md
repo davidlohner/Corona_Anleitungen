@@ -3,117 +3,115 @@ tags: KIT_corona, Anleitung
 ---
 ![](https://i.imgur.com/eAg9Fgb.png)
 
-# Videos für den Upload vorbereiten
+# Prepare videos for upload
 ```
-letzte Aktualisierung: 31.03.2020
+last update: 31.03.2020
 ```
-Um die Datenmengen, die beim Produzieren von Videos entstehen für das Hochladen möglichst gering zu halten, sollten Sie die Videos vor dem Upload **komprimieren**. Das bedeutet, dass Sie die Dateigröße reduzieren, ohne die Qualität des Videos maßgeblich zu verringern.
-So können beschleunigen Sie den Upload und minimieren gleichzeitig die Serverlast der Ressourcen des KIT. Wie Sie das erreichen, zeigt diese Anleitung.
+In order to keep the amount of data that is generated when producing videos for uploading as small as possible, you should **compress the videos before uploading them**. This means that you reduce the file size without significantly reducing the quality of the video.
+This way you can accelerate the upload and minimize the server load of the KIT resources at the same time. How to achieve this is shown in this guide.
 
-#### Übersicht
+#### Overview
 [TOC]
 
 ---
 
 :::warning
-Wichtige Hinweise sind gelb gekennzeichnet.
+Important notes are marked yellow.
 :::
 
 :::info
-Zusatzinformationen sind blau gekennzeichnet.
+Additional information is marked in blue.
 :::
-
 ---
 
-## Schritt 1: Software für Videokompression
-Wir empfehlen für die Komprimierung von Videos die freie Software Handbrake.
+## Step 1: Video compression software
+We recommend the free software Handbrake for the compression of videos.
 
-1. Laden Sie sich Handbrake von der offiziellen Webseite herunter: [Handbrake herunterladen](https://handbrake.fr)
+1. Download Handbrake from the official website [Download Handbrake](https://handbrake.fr)
 
 :::info
-Handbrake ist eine Open Source Software, die es für alle gängigen Betriebssysteme gibt: Windows (auch als portable Version), macOS und Linux.
+Handbrake is an open source software, which is available for all common operating systems: Windows (also as portable version), macOS and Linux.
 :::
 
-2. Installieren Sie Handbrake auf Ihrem Computer. Ggf. müssen Sie hierzu Ihren ITB bzw. Administrator um Hilfe bitten, sofern Ihr eigener Benutzeraccount nicht über die dafür notwendigen Rechte verfügt.
+2. Install Handbrake on your computer. You may have to ask your ITB or administrator for help if your own user account does not have the necessary rights.
 
 
-## Schritt 2: Videos komprimieren
+## Step 2: Compress videos
 
-1. Öffnen Sie das Programm Handbrake.
-2. Sofern die Software nicht direkt nach dem Öffnen dazu auffordert, wählen Sie das erste zu komprimierende Video aus, indem Sie auf „Quelle öffnen” links oben im Eck klicken.
+1. Open the Handbrake program. 
+2. Unless the software prompts you to do so immediately after opening, select the first video to be compressed by clicking on "Open Source" in the upper left corner.
 
 :::warning
-Sie können auch einen ganzen Ordner auswählen, der mehrere Videodateien enthält. Handbrake lädt dann alle Videos auf einmal. Die nächsten beiden Abschnitte unterscheiden sich daher etwas.
+You can also select an entire folder containing several video files. Handbrake will then load all videos at once. The next two sections are therefore slightly different.
 ::::
 
-#### Die folgenden Schritte sind für _einzelne_ Komprimierungen
+#### The following steps are for _individual_ compressions
 
-3. Navigieren Sie im Dateibrowser zu Ihren gespeicherten Videos und wählen Sie **ein** zu komprimierendes Video aus:
+3. Navigate to your saved videos in the file browser and select **a** video to compress:
 ![](https://i.imgur.com/B5VyHFf.jpg)
-4. Wählen Sie im Auswahlmenü „Voreinstellungen” unter der Kategorie „General” den Punkt „Very Fast 720p30”:
+4. Select "Very Fast 720p30" in the "Preferences" drop-down menu under the "General" category
 ![](https://i.imgur.com/m9uaGaI.jpg)
-6. Wählen Sie am unteren Rand des Fensters einen Speicherort für das komprimierte Video:
+5. Select a location for the compressed video at the bottom of the window
 ![](https://i.imgur.com/JKNKcEN.jpg)
-8. Klicken Sie auf den grünen „Start”-Button in der Menüleiste.
+6. Click on the green "Start" button in the menu bar.
 ![](https://i.imgur.com/PKDFM8w.jpg)
-11. Springen Sie zu Punkt 16.
+7. Jump to point 15.
 
 
+### The following steps are for compressing _several_ videos at once
 
-### Die folgenden Schritte sind für die Komprimierung _mehrerer_ Videos gleichzeitig
-
-3. Navigieren Sie im Dateibrowser zu Ihren gespeicherten Videos und wählen Sie **den gesamten Ordner** aus, in dem die einzelnen Videos gespeichert sind.
-9. Wählen Sie im Auswahlmenü „Titel“ das erste zu komprimierende Video aus
+8. Navigate to your saved videos in the file browser and select **the entire folder** where each video is saved.
+9. Select the first video to be compressed in the "Title" drop-down menu
 ![](https://i.imgur.com/WSvKP8K.jpg)
-10. Wählen Sie im Auswahlmenü „Voreinstellungen” unter der Kategorie „General” den Punkt „Very Fast 720p30”.
+10. Select "Very Fast 720p30" in the "Preferences" drop-down menu under the "General" category
 ![](https://i.imgur.com/m9uaGaI.jpg)
-12. Klicken Sie in der Menüleiste auf den Button „Zur Warteschlage hinzufügen”
+11. Click on the button "Add to queue" in the menu bar
 ![](https://i.imgur.com/MV7m2gV.jpg)
-14. Wählen Sie am unteren Rand des Fensters einen Speicherort für das komprimierte Video.
-15. 🔄 Wiederholen Sie Punkt 4 bis 6 für *jedes* Video im ausgewählten Ordner bzw. in der Liste unter der Auswahl „Titel”.
-16. Klicken Sie auf den in der Menüleiste auf den Button „Warteschlange” um sich alle Videos in der Warteschlange anzeigen zu lassen.
+12. At the bottom of the window, select a location for the compressed video.
+13. 🔄 Repeat points 4 to 6 for *every* video in the selected folder or in the list under the "Title" selection.
+14. Click the "Queue" button on the menu bar to display all videos in the queue.
 ![](https://i.imgur.com/2V9ZwTj.jpg)
 
-### :arrow_forward: Steigen Sie hier wieder ein, egal ob Sie nur eines oder mehrere Videos komprimieren.
-16. Klicken Sie in der Menüleiste auf den grünen Button „Start”. 
-17. Warten Sie, bis alle Kompressionsvorgänge beendet sind.
+### :arrow_forward: Get back in here, no matter if you compress only one or several videos.
+15. Click on the green button "Start" in the menu bar. 
+16. Wait until all compression processes are finished.
 ![](https://i.imgur.com/g9rVi3N.jpg)
 
 :::danger
-**Videokompression ist ein sehr rechenintensiver Vorgang.** Je nach Leistung Ihres Computers kann der der Prozess einige Zeit in Anspruch nehmen und dabei die Leistungsfähigkeit des übrigen Systems beeinträchtigen.
+**Video compression is a very CPU-intensive process**, and depending on the performance of your computer, the process may take some time and affect the performance of the rest of the system.
 :::info
-Wir empfehlen daher, Ihren Arbeitsablauf so zu gestalten, dass die Komprimierung läuft, solange Sie selbst _nicht_ am Computer arbeiten.
+We therefore recommend that you set up your workflow so that the compression is running as long as you _not_ work on the computer yourself.
 :::
 
 
-## Schritt 3: Fertigstellung
+## Step 3: Completion
 
-**Herzlichen Glückwunsch, Sie haben Ihr Video erfolgreich komprimiert.**
+**Congratulations, you've successfully compressed your video.**
 
 :::success
-Für ein Beispiel-Video eines iPhone 11 von 6 Minuten Länge konnte die Dateigröße mit diesem Vorgang von 533 MB auf knapp 30 MB reduziert werden, bei nahezu gleichbleibender Qualität!
-Der Vorgang dauerte auf einem Notebook von 2015 etwa 3 Minuten.
+For an example video of an iPhone 11 of 6 minutes length, the file size could be reduced from 533 MB to almost 30 MB with this process, while maintaining almost the same quality!
+The process took about 3 minutes on a notebook from 2015.
 :::
 
-Wie Sie die Aufnahmen Ihren Studierenden bereitstellen, erfahren Sie in einer gesonderten Anleitung.
+How to make the recordings available to your students is explained in a separate manual.
 
 ---
-## Infos & Kontakt
+## Info & Contact
 
-### Lizenzhinweis
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Diese Anleitung für die Erstellung von digitalem Lehrmaterial</span> des <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Zentrum für Mediales Lernen (ZML) am Karlsruher Instituts für Technologie (KIT)</span> ist lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung 4.0 International Lizenz</a>.
+### License notice
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">These tutorials for the creation of digital teaching material</span> of <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">the center for Technology-Enhanced Learning (ZML) at the Karlsruhe Institute of Technology (KIT)</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
-### Impressum
+### Imprint
 
-**Herausgeber**
+**Publisher**
 Karlsruher Institut für Technologie (KIT)
 Kaiserstraße 12
 76131 Karlsruhe
 
-**Kontakt**
+**Contact**
 Karl-Friedrich-Str. 17
 76133 Karlsruhe
-Deutschland
+Germany
 Tel.: +49 721 608-48200
 Fax: +49 721 608-48210
 E-Mail: info@zml.kit.edu
