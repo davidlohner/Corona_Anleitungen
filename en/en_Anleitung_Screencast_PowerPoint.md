@@ -5,13 +5,13 @@ tags: KIT_corona, Anleitung, Phase1
 
 # Recording videos with PowerPoint
 ```
-last update: 31.03.2020
+last update: 07.04.2020
 ```
 :::success
 Additions for older versions of PowerPoint are planned for the next update.
 :::
 
-If you have your teaching content in PowerPoint slides, you can record your lecture with simple means. This guide shows which steps in PowerPoint are necessary for this.
+If you have your teaching content in PowerPoint slides, you can record your lecture with simple means. This guide shows which steps in PowerPoint are necessary to do so.
 
 #### Overview
 [TOC]
@@ -38,7 +38,7 @@ Additional information is marked in blue.
 :::warning
 Please update your PowerPoint installation to version 2016 to ensure that individual steps of this manual apply to your system. You may have to ask your ITB or administrator for help. PowerPoint 2016 can be optained from the [KIT Software Shop](https://rzunika.asknet.de) for business purposes.
 :::info
-If you have a **Office 365 subscription**, this guide should also work in the latest versions of PowerPoint.
+If you have an **Office 365 subscription**, this guide should also work in the latest versions of PowerPoint.
 :::
 
 
@@ -46,10 +46,10 @@ If you have a **Office 365 subscription**, this guide should also work in the la
 
 1. Launch PowerPoint.
 2. Open your slides.
-3. Switch to the "Slide Show" tab
-4. Click on "Record presentation"
-    * under Windows you have the possibility to switch on the webcam for a recording as well. This option can also be switched off.
-5. Give your lecture as usual. The recording will also end when you end the presentation.
+3. Switch to the "Slide Show" tab.
+4. Click on "Record presentation".
+    * If you are working with a Windows computer or laptop, you have the possibility to switch on the webcam during a recording as well. This option can be switched off.
+5. Give your lecture as usual. The recording will end when you end the presentation as well.
 6. Save the recording of the presentation under "File" - "Save as" or "Export" as video in **.mp4** format.
 7. Check the recorded video:
     * Is your voice good to hear and to understand?
@@ -60,7 +60,7 @@ If you are not satisfied with one of the aspects, correct the corresponding spot
 
 ## Some tips
 * Don’t record a 90-minute lecture all at once! Divide the recordings into **smaller sections of about 10-20 minutes**. This way you can reassemble each time, take breaks and don't have to re-record everything if you make mistakes.
-* If possible you should speak **free and not too quietly**. Imagine that the students are sitting opposite you: Use a direct speech and avoid long and complex sentences.
+* If possible you should speak **freely and not too quietly**. Imagine that the students are sitting in front of you: Use direct speech and avoid long and complex sentences.
 :::danger
 * During slide transitions that have a certain duration assigned, **no sound** is recorded.
 * During a presentation recording in the slides, **jumping back does not work**.
@@ -73,17 +73,17 @@ If you are not satisfied with one of the aspects, correct the corresponding spot
 ## MS PowerPoint Help
 If you have problems finding the function for recording your presentation in PowerPoint, the official support site of Microsoft can help you:
 
-[Recording a slide show (Microsoft)](https://support.office.com/de-de/article/aufzeichnen-einer-bildschirmpräsentation-mit-kommentaren-und-folienanzeigedauern-0b9502c6-5f6c-40ae-b1e7-e47d8741161c#OfficeVersion=Office_365)
+[Recording a slide show (Microsoft) in German](https://support.office.com/de-de/article/aufzeichnen-einer-bildschirmpräsentation-mit-kommentaren-und-folienanzeigedauern-0b9502c6-5f6c-40ae-b1e7-e47d8741161c#OfficeVersion=Office_365)
 
 ## Next steps
-* How to prepare the recordings for upload and create the smallest possible files with the same quality, this guide shows: [Video Compression Guide](https://s.kit.edu/tutorial-videokomprimierung).
+* How to prepare the recordings for upload and create the smallest possible files with the same quality, this guide shows: [Video Compression Guide](https://s.kit.edu/tutorial-video-compression).
 * How to make the recordings available to your students via ILIAS is explained in a separate manual.
 
 ---
 ## Info & Contact
 
 ### License notice
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">These tutorials for the creation of digital teaching material</span> of <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">the center for Technology-Enhanced Learning (ZML) at the Karlsruhe Institute of Technology (KIT) </span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License.</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">The tutorial for the creation of digital teaching material</span> of <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">the center for Technology-Enhanced Learning (ZML) at the Karlsruhe Institute of Technology (KIT) </span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License.</a>.
 
 ### Imprint
 
