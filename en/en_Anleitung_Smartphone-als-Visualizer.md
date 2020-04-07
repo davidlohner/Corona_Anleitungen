@@ -3,17 +3,17 @@ tags: KIT_corona, Anleitung
 ---
 ![](https://i.imgur.com/eAg9Fgb.png)
 
-# Smartphone as Visualizer
+# Smartphone as a Visualizer
 
 ```
-last update: 31.03.2020
+last update: 07.04.2020
 ```
 
-Numerous courses take place in lecture format. Lecturers write on the blackboard or use a visualizer.
+Numerous courses take place in lecture format. In lectures teachers usually write on the blackboard or use a visualizer.
 
 This tutorial shows how you can
-1. "build" a Visualizer with everyday objects and your smartphone,
-2. how to record videos with this setup to record your lecture yourself
+1. "build" a Visualizer with everyday objects and your smartphone.
+2. record videos with this setup to record your lecture yourself.
 
 In addition, you will receive some tips that you should follow for the recording.
 
@@ -59,11 +59,11 @@ If you use LEGO(r) bricks, you can also involve your children in the constructio
 The overall construction must be large enough so that you can write comfortably on the sheet of paper!
 :::
 
-5. Set up two "towers" that are the same height as you held your phone over the sheet in step 4
-6. Construct a support structure for your smartphone from the long, flat objects. You may have to fix the device with adhesive tape. If you are using a cardboard, you can cut a small recess for the camera into the cardboard.
+5. Set up two "towers" that are the same height as you held your phone over the sheet in step 4.
+6. Construct a support structure for your smartphone with the long, flat objects. You may have to fix your device with adhesive tape. If you are using a cardboard, you can cut a small hole into the cardboard for the camera.
 7. Attach the support structure to the towers so that the smartphone can film the sheet of paper without you holding it.
 
-Here are some examples of what your construction can look like (there are no limits to individual creativity)
+Here are some examples of what your construction can look like (there are no limits to individual creativity).
 
 |Books & Cardboard |LEGO(r)|
 |-----|--------|
@@ -85,8 +85,8 @@ Here are some examples of what your construction can look like (there are no lim
 1. Launch the camera app on your smartphone
 2. Make sure your phone records video in **landscape** format; the horizontal orientation sometimes confuses the accelerometer of the devices.
 3. If possible, set the video resolution to 1280x720 pixels (720p) Higher resolutions such as FullHD (1080p) will produce video files that are too large. 
-4. Make sure that there is enough memory space available on the device. One such recording has about 1GB for 20 minutes. The file size can be reduced later for uploading to KIT.
-5. Start a movie recording in your home studio that you have just set up.
+4. Make sure that there is enough memory space available on your device. One such recording has about 1GB for 20 minutes. The file size can be reduced later for uploading to KIT.
+5. Start a video recording in your home studio that you have just set up.
 
 :::warning
 If the video image is too dark, point a lamp from the top of the sheet at the sheet. In this way, your hand will not cast a shadow that is visible in the image while writing.
@@ -98,7 +98,7 @@ If the video image is too dark, point a lamp from the top of the sheet at the sh
 Since you are sitting directly at the smartphone, the sound recording with the built-in microphone should be loud and clear.
 :::
 
-7. stop video recording.
+7. Stop video recording.
 8. Check the recorded video:
     * Is the frame complete?
     * Is your writing legible (i.e. large and clean enough)?
@@ -110,20 +110,20 @@ If you are not satisfied with any of the aspects, correct your structure accordi
 
 ## Step 3: Record! 
 
-Technically you are ready, collect your content and get started!
+From a technical point of view your are now ready to collect your content and get started!
 
 After recording, transfer the recordings from your smartphone to your computer. There you can compress the file before uploading it to speed up the process. There is a separate manual for this.
 
 
 ### Some tips
-* Don't take a 90-minute lecture all at once! Divide the recordings into **smaller sections of about 10-20 minutes**. This way you can reassemble each time, take breaks and don't have to re-record everything if you make mistakes.
-* If possible you should speak **free and not too quietly**. Imagine that the students are sitting opposite you: Use a direct speech and avoid long and complex sentences.
+* Don't record a 90-minute lecture all at once! Divide the recordings into **smaller sections of about 10-20 minutes**. This way you can reassemble each time, take breaks and don't have to re-record everything if you make mistakes.
+* If possible you should speak **freely and not too quietly**. Imagine that the students are sitting in front of you: Use direct speech and avoid long and complex sentences.
 * You can provide sheets of paper with titles, headings or diagrams in advance, which you then "only" have to annotate.
 * Name the video files on your computer according to a uniform nomenclature and organize them in a well thought-out folder structure. This will help you to find and provide the individual learning units more easily later.
 
 
 ## Next steps
-* How to prepare the recordings for upload and create the smallest possible files with the same quality is shown in this guide: [Video Compression Guide](https://s.kit.edu/tutorial-videokomprimierung).
+* How to prepare the recordings for upload and create the smallest possible files with the same quality is shown in this guide: [Video Compression Guide](https://s.kit.edu/tutorial-video-compression).
 * A separate guide will show you how to make the recordings available to your students via ILIAS.
 ---
 ## Info & Contact
