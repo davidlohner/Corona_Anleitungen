@@ -4,10 +4,10 @@ tags: KIT_corona, Anleitung, Phase1
 ![](https://i.imgur.com/eAg9Fgb.png)
 
 ```
-last update: 31.03.2020
+last update: 07.04.2020
 ```
 # Cut and trim videos with Avidemux (Windows/Linux)
-Often you have unwanted sequences at the beginning or end of a self-produced video by switching the camera on and off. Often you want to remove a sequence from the video quickly. Avidemux offers Linux and Windows users a quick and easy way to shorten and cut.
+There are often unwanted sequences at the beginning or end of a self-produced video by switching the camera on and off. In those cases you may want to remove a sequence from the video easily. Avidemux offers Linux and Windows users a quick and easy way to shorten and cut videos.
 
 
 #### Overview
@@ -26,12 +26,11 @@ Additional information is marked in blue.
 ## Required equipment
 * Computer with Linux or Windows
 * The editing program Avidemux -> [Download](https://www.heise.de/download/product/avidemux-27035/download)
-* Your teaching content in **a** video
+* Your teaching content in **one** video
 
 ## Guide
 ### Open a video
-To be able to edit a video, it must first be imported into the program, of course.
-To do this, click "open" in the "File" menu. In the new window select the desired video from your hard drive.
+To be able to edit a video, it must first be imported into the program. To do this, click "Open" in the "File" menu. In the new window select the desired video from your hard drive.
 
 ### Cut off the beginning
 To remove unwanted sequences at the beginning of the video, move the slider on the timeline to the point where you want the video to start.
@@ -58,11 +57,11 @@ To cut in the middle of the video, the slider must first be set to the beginning
 Then press the A Button.
 Now move the slider to the point **to** where you want to remove everything.
 Then press the B button.
-The area in between is now automatically marked and can be deleted with **Remove**.
+The area in between is now automatically marked and can be deleted via **Remove**.
 
 ### Save the video
-On the left side there are several possibilities to make presettings. Select MP4 or MP4v2 (Muxer) for the output format.
-To save the video as Mp4, go to the "File" menu and click "Save".
+On the left side there are several possibilities to adjust presettings. Select MP4 or MP4v2 (Muxer) for the output format.
+To save the video as MP4, go to the "File" menu and click "Save".
 Select a location in the new window and name the video. Press "OK". You will receive a notification about the successful saving process.
 
 ![](https://i.imgur.com/Cx5iiXI.jpg)
@@ -76,25 +75,26 @@ Use the MP4v2 format as it is compatible with most players.
 
 
 ## Notes
-Avidemux is a simple program to cut sequences from videos or to shorten the beginning and end. You cannot move the sequences, swap the order or even insert a video clip into the video.
+Avidemux is a simple program to cut sequences from videos or to shorten the beginning and end. You cannot move the sequences around, swap the order or even insert a video clip into the video.
 If you want to do that, please refer to the related links.
 
 ## Related links
-There are many more, but more complex programs that can be used to cut and edit videos.
-* With the **Video Editor** preinstalled under Windows 10, or with the photo program from Windows, photos and video clips can be combined into _one_ video. [You can find instructions here](https://www.youtube.com/watch?v=XEyn2NYVZqw&feature=youtu.be)
+There are many other, but more complex programs that can be used to cut and edit videos.
+* With the **Video Editor** preinstalled under Windows 10, or with the photo program from Windows, photos and video clips can be combined into _one_ video. 
+    * [You can find instructions here](https://www.youtube.com/watch?v=XEyn2NYVZqw&feature=youtu.be)
     * [Or here at the official Microsoft support](https://support.microsoft.com/en-us/help/22877/windows-10-photos )
 * Corel **VideoStudio X10**: This program is available to KIT employees. [A manual can be found here](https://learn.corel.com/video-tutorials/videostudio-pro-tutorials/videostudio-x10-tutorials/)
 * For Linux users (and also under Windows) videos can be shortened, cut, inserted, repositioned and labeled with the program **ShotCut**.
 
 
 ## Next steps
-* How to prepare the recordings for upload and create the smallest possible files with the same quality is shown in this guide: [Video Compression Guide](https://s.kit.edu/tutorial-videokomprimierung).
+* How to prepare the recordings for upload and create the smallest possible files with the same quality is shown in this guide: [Video Compression Guide](https://s.kit.edu/tutorial-video-compression).
 * A separate guide will show you how to make the recordings available to your students via ILIAS.
 ---
 ## Info & Contact
 
 ### License notice
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">These tutorials for the creation of digital teaching material</span> of <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">the center for Technology-Enhanced Learning (ZML) at the Karlsruhe Institute of Technology (KIT)</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">This tutorial for the creation of digital teaching material</span> of <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">the center for Technology-Enhanced Learning (ZML) at the Karlsruhe Institute of Technology (KIT)</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
 ### Imprint
 
