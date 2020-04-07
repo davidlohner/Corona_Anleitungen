@@ -3,147 +3,145 @@ tags: KIT_corona, Anleitung
 ---
 ![](https://i.imgur.com/eAg9Fgb.png)
 
-# Das Smartphone als Visualizer
+# Smartphone as Visualizer
 
 ```
-letzte Aktualisierung: 31.03.2020
+last update: 31.03.2020
 ```
 
-Zahlreiche Lehrveranstaltungen finden im Format einer Vorlesung statt. Dabei schreiben Dozierende an die Tafel oder nutzen einen Visualizer.
+Numerous courses take place in lecture format. Lecturers write on the blackboard or use a visualizer.
 
-Diese Anleitung zeigt, wie Sie im Homeoffice
-1. mit alltäglichen Gegenständen und Ihrem Smartphone einen Visualizer „bauen”,
-2. wie Sie mit diesem Aufbau Videos aufzeichnen um Ihre Vorlesung selbst aufzuzeichnen
+This tutorial shows how you can
+1. "build" a Visualizer with everyday objects and your smartphone,
+2. how to record videos with this setup to record your lecture yourself
 
-Sie erhalten darüberhinaus einige Tipps, die Sie für die Aufnahme beachten sollten.
+In addition, you will receive some tips that you should follow for the recording.
 
-#### Übersicht
+#### Overview
 [TOC]
 
 
 ---
 
 :::warning
-Wichtige Hinweise sind gelb gekennzeichnet.
+Important notes are marked yellow.
 :::
 
 :::info
-Zusatzinformationen sind blau gekennzeichnet.
+Additional information is marked in blue.
 :::
 
 ---
 
-## Schritt 1: Visualizer bauen
-Ziel ist es, ihr Smartphone in horizontaler Lage und in entsprechendem Abstand auszurichten, sodass die Smartphone-Kamera ein Blatt Papier filmt, auf dem Sie Ihre Lehrinhalte erstellen.
+## Step 1: Build Visualizer
+The aim is to align your smartphone in a horizontal position and at an appropriate distance so that the smartphone camera films a sheet of paper on which you create your teaching content.
 
 
-### Benötigte Ausstattung
+### Required equipment
 * Smartphone
-* Bücher, Spielekartons, LEGO(r)-Steine oder andere Gegenstände, mit denen Sie zwei „Türme” bauen können
-* lange (ca 50 cm), flache Gegenstände (z.B. stabiler Karton, Lineale, schmale Holzlatten)
-* ggf. Klebestreifen (Tesafilm)
-
+* Books, game boxes, LEGO(r) bricks or other items with which you can build two "towers"
+* long (approx. 50 cm), flat objects (e.g. stable cardboard, rulers, narrow wooden slats)
+* adhesive tape (Sellotape) if necessary
 
 :::info
-Sollten Sie LEGO(r)-Steine verwenden, können Sie auch Ihre Kinder beim Aufbau mit einbeziehen!
+If you use LEGO(r) bricks, you can also involve your children in the construction!
 :::
 
 
-### Aufbauanleitung
+### Assembly instructions
 
-1. Legen Sie ein Blatt Papier im Querformat auf Ihren Schreibtisch.
-2. Starten Sie auf Ihrem Smartphone die Kamera-App, mit der Sie sonst auch filmen.
-3. Passen Sie den Bildausschnitt so an, dass das Blatt Papier möglichst das gesamte Videobild einnimmt.
-4. Merken Sie sich die Position Ihres Smartphones in Relation zum Blatt Papier.
+1. Place a sheet of paper in landscape format on your desk.
+2. Start the camera app on your smartphone that you normally use for filming.
+3. Adjust the picture so that the sheet of paper takes up as much of the video image as possible.
+4. Note the position of your smartphone in relation to the sheet of paper.
 
 :::warning
-Die Konstruktion muss insgesamt groß genug sein, damit Sie bequem auf dem Blatt Papier schreiben können!
+The overall construction must be large enough so that you can write comfortably on the sheet of paper!
 :::
 
-5. Errichten Sie zwei „Türme”, die die Höhe haben, in der Sie Ihr Smartphone in Schritt 4 über das Blatt  gehalten haben.
-6. Konstruieren Sie aus den langen, flachen Gegenständen eine Trägerkonstruktion für Ihr Smartphone. Ggf. müssen Sie das Gerät mit Klebestreifen fixieren. Sollten Sie einen Karton verwenden, können Sie für die Kamera eine kleine Aussparung in die Pappe schneiden.
-7. Befestigen Sie die Trägerkonstruktion an den Türmen, sodass das Smartphone das Blatt Papier filmen kann, ohne dass Sie es festhalten.
+5. Set up two "towers" that are the same height as you held your phone over the sheet in step 4
+6. Construct a support structure for your smartphone from the long, flat objects. You may have to fix the device with adhesive tape. If you are using a cardboard, you can cut a small recess for the camera into the cardboard.
+7. Attach the support structure to the towers so that the smartphone can film the sheet of paper without you holding it.
 
-Hier einige Beispiele, wie Ihre Konstruktion aussehen kann (der individuellen Kreativität sind keine Grenzen gesetzt):
+Here are some examples of what your construction can look like (there are no limits to individual creativity)
 
-|Bücher & Pappe |LEGO(r)|
+|Books & Cardboard |LEGO(r)|
 |-----|--------|
 |![](https://i.imgur.com/zPVDSVa.jpg)|![](https://i.imgur.com/cEqTsZd.jpg)|
 |![](https://i.imgur.com/oj8yIhS.jpg)|![](https://i.imgur.com/RUcOV6N.jpg)|
 
 
 
-## Schritt 2: Aufnahme Einrichten
+## Step 2: Set up recording
 
 
-### Benötigte Gegenstände
-* ggf. (Schreibtisch-)Lampe
-* ausreichend Papier
-* Stifte
+### Items needed
+* (Desk) lamp if necessary
+* Sufficient paper
+* Pens
 
 
-### Technik-Check
-1. Starten Sie die Kamera-App auf Ihrem Smartphone.
-2. Stellen Sie sicher, dass Ihr Smartphone das Video im **Querformat** aufzeichnet; die horizontale Ausrichtung bringt den Beschleunigungssensor der Geräte manchmal durcheinander.
-3. Stellen Sie nach Möglichkeit die Videoauflösung auf 1280x720 Bildpunkte (720p) ein. Bei höheren Auflösungen wie z.B. FullHD (1080p) entstehen zu große Videodateien. 
-4. Stellen Sie sicher, dass auf dem Gerät genügend Speicherplatz frei ist. Eine solche Aufnahme hat etwa 1GB für 20 Minuten. Für den Upload ins KIT kann die Dateigröße später noch reduziert werden.
-6. Starten Sie eine Filmaufnahme in ihrem eben aufgebauten Heim-Studio.
+### Technology check
+1. Launch the camera app on your smartphone
+2. Make sure your phone records video in **landscape** format; the horizontal orientation sometimes confuses the accelerometer of the devices.
+3. If possible, set the video resolution to 1280x720 pixels (720p) Higher resolutions such as FullHD (1080p) will produce video files that are too large. 
+4. Make sure that there is enough memory space available on the device. One such recording has about 1GB for 20 minutes. The file size can be reduced later for uploading to KIT.
+5. Start a movie recording in your home studio that you have just set up.
 
 :::warning
-Sollte das Videobild zu dunkel sein, richten Sie eine Lampe vom oberen Ende des Blattes auf das Blatt. So wirft Ihre Hand beim Schreiben keinen Schatten, der im Bild zu sehen ist.
+If the video image is too dark, point a lamp from the top of the sheet at the sheet. In this way, your hand will not cast a shadow that is visible in the image while writing.
 :::
 
-5. Sprechen Sie Ihre Lehrinhalte in gewohnter Lautstärke und notieren Sie dazu die nötigen Inhalte auf dem Blatt Papier.
+6. Speak your teaching content at the usual volume and write down the necessary content on a piece of paper.
 
 :::info
-Da Sie direkt am Smartphone sitzen, sollte die Tonaufnahme mit dem eingebauten Mikrofon laut und klar sein.
+Since you are sitting directly at the smartphone, the sound recording with the built-in microphone should be loud and clear.
 :::
 
-6. Stoppen Sie die Videoaufnahme.
-7. Prüfen Sie das aufgezeichnete Video:
-    * Ist der Bildausschnitt vollständig?
-    * Ist Ihre Schrift lesbar (also groß und sauber genug)?
-    * Ist Ihre Stimme gut zu hören und zu verstehen?
+7. stop video recording.
+8. Check the recorded video:
+    * Is the frame complete?
+    * Is your writing legible (i.e. large and clean enough)?
+    * Is your voice easy to hear and understand?
 
-Sollten Sie mit einem der Aspekte nicht zufrieden sein, korrigieren Sie Ihren Aufbau entsprechend und führen eine neue Testaufnahme durch. Die technische Bild- und Tonqualität der meisten Smartphones ist für solche Aufnahmen in der Regel absolut geeignet!
-
-
-
-## Schritt 3: Aufnahme! 
-
-Technisch sind Sie startklar, sammeln Sie Ihre Inhalte und legen Sie los!
-
-Nach der Aufzeichnung übertragen Sie die Aufnahmen von Ihrem Smartphone auf Ihren Computer. Dort können Sie die Datei vor dem Upload komprimieren um den zu beschleunigen. Hierzu gibt es eine gesonderte Anleitung.
-
-
-### Einige Tipps
-* Nehmen Sie keine 90 Minuten Vorlesung am Stück auf! Unterteilen Sie die Aufnahmen in **kleinere Abschnitte von etwa 10-20 Minuten**. So können Sie sich jedes Mal neu sammeln, Pausen einlegen und müssen bei Fehlern nicht alles neu aufzeichnen.
-* Sie sollten nach Möglichkeit **frei und nicht zu leise sprechen**. Stellen Sie sich vor die Studierenden säßen Ihnen gegenüber: Verwenden Sie eine direkte Ansprache und **vermeiden Sie lange und komplexe Sätze**.
-* Sie können Blätter vorab mit Titeln, Überschriften oder Schaubildern versehen, die Sie dann „nur noch” annotieren müssen.
-* Benennen Sie die Videodateien auf Ihrem Computer nach einer einheitlichen Nomenklatur und organisieren Sie sie in einer durchdachten Ordnerstruktur. Das hilft Ihnen, die einzelnen Lerneinheiten später besser wiederzufinden und bereitzustellen.
+If you are not satisfied with any of the aspects, correct your structure accordingly and carry out a new test recording. The technical picture and sound quality of most smartphones is usually absolutely suitable for such recordings!
 
 
 
-## Nächste Schritte
-* Wie Sie die Aufnahmen für den Upload vorbereiten und dafür möglichst kleine Dateien bei gleichbleibender Qualität erzeugen, zeigt diese Anleitung: [Anleitung zu Videokomprimierung](https://s.kit.edu/tutorial-videokomprimierung).
-* Wie Sie die Aufnahmen Ihren Studierenden über ILIAS bereitstellen, erfahren Sie in einer gesonderten Anleitung.
+## Step 3: Record! 
+
+Technically you are ready, collect your content and get started!
+
+After recording, transfer the recordings from your smartphone to your computer. There you can compress the file before uploading it to speed up the process. There is a separate manual for this.
+
+
+### Some tips
+* Don't take a 90-minute lecture all at once! Divide the recordings into **smaller sections of about 10-20 minutes**. This way you can reassemble each time, take breaks and don't have to re-record everything if you make mistakes.
+* If possible you should speak **free and not too quietly**. Imagine that the students are sitting opposite you: Use a direct speech and avoid long and complex sentences.
+* You can provide sheets of paper with titles, headings or diagrams in advance, which you then "only" have to annotate.
+* Name the video files on your computer according to a uniform nomenclature and organize them in a well thought-out folder structure. This will help you to find and provide the individual learning units more easily later.
+
+
+## Next steps
+* How to prepare the recordings for upload and create the smallest possible files with the same quality is shown in this guide: [Video Compression Guide](https://s.kit.edu/tutorial-videokomprimierung).
+* A separate guide will show you how to make the recordings available to your students via ILIAS.
 ---
-## Infos & Kontakt
+## Info & Contact
 
-### Lizenzhinweis
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Diese Anleitung für die Erstellung von digitalem Lehrmaterial</span> des <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Zentrum für Mediales Lernen (ZML) am Karlsruher Instituts für Technologie (KIT)</span> ist lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung 4.0 International Lizenz</a>.
+### License notice
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">These tutorials for the creation of digital teaching material</span> of <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">the center for Technology-Enhanced Learning (ZML) at the Karlsruhe Institute of Technology (KIT)</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
-### Impressum
+### Imprint
 
-**Herausgeber**
+**Publisher**
 Karlsruher Institut für Technologie (KIT)
 Kaiserstraße 12
 76131 Karlsruhe
 
-**Kontakt**
+**Contact**
 Karl-Friedrich-Str. 17
 76133 Karlsruhe
-Deutschland
+Germany
 Tel.: +49 721 608-48200
 Fax: +49 721 608-48210
 E-Mail: info@zml.kit.edu
