@@ -3,9 +3,9 @@ tags: KIT_corona, Anleitung, Videoschnitt
 ---
 ![](https://i.imgur.com/eAg9Fgb.png)
 
-# Cutting and trimming videos under macOS
+# Cutting and trimming videos with macOS
 ```
-last update: 31.03.2020
+last update: 07.04.2020
 ```
 You may want to edit, cut or shorten your video-recorded teaching content because, for example, you had to prepare material at the beginning, were interrupted or the recording ran a little longer, even though you had already finished. This manual shows how to perform the most common operations in video editing under macOS.
 
