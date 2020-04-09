@@ -5,11 +5,8 @@ tags: KIT_corona, Anleitung, Phase1
 
 # Videos mit PowerPoint aufzeichnen
 ```
-letzte Aktualisierung: 31.03.2020
+letzte Aktualisierung: 09.04.2020
 ```
-:::success
-Für das nächste Update sind Ergänzungen für ältere Versionen von PowerPoint vorgesehen.
-:::
 
 Wenn Sie ihre Lehrinhalte in PowerPoint-Folien vorliegen haben, können Sie Ihren Vortrag mit einfachen Mitteln aufzeichnen. Diese Anleitung zeigt, welche Schritte in PowerPoint dafür nötig sind.
 
@@ -32,7 +29,7 @@ Zusatzinformationen sind blau gekennzeichnet.
 * PC oder Mac mit:
     * Mikrofon (am besten ein Headset) 
     * optional: (integrierte) Webcam
-* PowerPoint (Version 2016 oder neuer)
+* MS PowerPoint
 * Ihre Lehrinhalte auf PowerPoint-Folien
 
 :::warning
@@ -42,7 +39,8 @@ Sollten Sie über ein **Office 365 Abo** verfügen, sollte diese Anleitung in de
 :::
 
 
-## Kurzanleitung 
+## Kurzanleitung
+Diese Kurzanleitung **skizziert den Prozess**, wie Sie in PowerPoint eine Präsentationsaufzeichnung anfertigen. Für **detailliertere Anleitungen zu spezifischen PowerPoint-Versionen finden Sie weiter unten** entsprechende Verweise.
 
 1. Starten Sie PowerPoint.
 2. Öffnen Sie Ihre Folien.
@@ -57,6 +55,13 @@ Sollten Sie über ein **Office 365 Abo** verfügen, sollte diese Anleitung in de
 
 Sollten Sie mit einem der Aspekte nicht zufrieden sein, korrigieren Sie die entsprechenden Stellen und führen eine neue Testaufnahme durch. Ggf. müssen Sie hierzu Ihren ITB bzw. Administrator um Hilfe bitten, um Ihr Setup (z.B. die Einstellungen des Mikrofons) zu optimieren.
 
+## Spezifische Versionen von PowerPoint 
+In der [Offiziellen Hilfe von Microsoft PowerPoint](https://support.office.com/de-de/article/aufzeichnen-einer-bildschirmpräsentation-mit-kommentaren-und-folienanzeigedauern-0b9502c6-5f6c-40ae-b1e7-e47d8741161c#OfficeVersion=Windows) ist das Vorgehen für die verschiedenen Versionen des Programms dokumentiert.
+
+Wählen Sie dazu das Betriebssystem, welches Sie verwenden und darunter im Auswahlmenü die entsprechende Version, die Sie einsetzen.
+![](https://i.imgur.com/21FhTzO.png)
+
+➡️ [**Link zur Offiziellen Hilfe von Microsoft PowerPoint**](https://support.office.com/de-de/article/aufzeichnen-einer-bildschirmpräsentation-mit-kommentaren-und-folienanzeigedauern-0b9502c6-5f6c-40ae-b1e7-e47d8741161c#OfficeVersion=Windows)
 
 ## Einige Tipps
 * Nehmen Sie keine 90 Minuten Vorlesung am Stück auf! Unterteilen Sie die Aufnahmen in **kleinere Abschnitte von etwa 10-20 Minuten**. So können Sie sich jedes Mal neu sammeln, Pausen einlegen und müssen bei Fehlern nicht alles neu aufzeichnen.
@@ -70,10 +75,6 @@ Sollten Sie mit einem der Aspekte nicht zufrieden sein, korrigieren Sie die ents
 :::
 * Benennen Sie die Videodateien auf Ihrem Computer nach einer einheitlichen Nomenklatur und organisieren Sie sie in einer durchdachten Ordnerstruktur. Das hilft Ihnen, die einzelnen Lerneinheiten später besser wiederzufinden und bereitzustellen.
 
-## MS PowerPoint-Hilfe
-Sollten Sie Probleme haben, in PowerPoint die Funktion für die Aufzeichnung Ihrer Präsentation zu finden, kann Ihnen die offizielle Support-Seite von Microsoft weiterhelfen:
-
-[Aufzeichnen einer Bildschirmpräsentation (Microsoft)](https://support.office.com/de-de/article/aufzeichnen-einer-bildschirmpräsentation-mit-kommentaren-und-folienanzeigedauern-0b9502c6-5f6c-40ae-b1e7-e47d8741161c#OfficeVersion=Office_365)
 
 ## Nächste Schritte
 * Wie Sie die Aufnahmen für den Upload vorbereiten und dafür möglichst kleine Dateien bei gleichbleibender Qualität erzeugen, zeigt diese Anleitung: [Anleitung zu Videokomprimierung](https://s.kit.edu/tutorial-videokomprimierung).
