@@ -5,7 +5,7 @@ tags: KIT_corona, Anleitung
 
 # Hinweise für Dozierende (an Studierende)
 ```
-letzte Aktualisierung: 07.04.2020
+letzte Aktualisierung: 09.04.2020
 ```
 Eine rein digitale Lehrveranstaltung bringt viele Aspekte mit sich, die eine Lehrveranstaltung in Präsenz nicht hat. Damit Ihre Lehre möglichst reibungsfrei abläuft, stehen hier einige Hinweise für die Organisation ihrer Lehrveranstaltungen und einige technische Tipps sowie Hinweise zum selbstorganisierten Lernen, die Sie an Ihre Studierenden weiterleiten können.
 
@@ -59,7 +59,8 @@ Ihre Studierenden verwenden in diesem Semester einige neue digitale Tools, darun
 * Bevor Sie Microsoft Teams (MS Teams) verwenden können, müssen Sie die [Datenschutzerklärung](https://my.scc.kit.edu/shib/azurefreigabe.php) für den Einsatz von Microsofts Clouddiensten am KIT bestätigen.
 * Verwenden Sie MS Teams mit den Browsern Microsoft Edge oder Google Chrome – oder den Desktop- bzw. Mobil-Anwendungen. Andere Browser werden nicht unterstützt.
 * Melden Sie sich bei [Microsoft Teams](https://teams.microsoft.com) mit Ihrer Studierenden-Mailadresse (uxxxx@student.kit.edu) an. Anschließend müssen Sie sich beim Shibboleth Identity Provider am KIT mit Ihrem Studierendenaccount (uxxxx) und entsprechendem Kennwort anmelden.
-* Weitere Hinweise für die Nutzung von MS Teams finden Sie **hier**
+* 
+* Weitere Hinweise und technischen Support für die Nutzung von [MS Teams finden Sie am SCC](http://www.scc.kit.edu/dienste/ms-teams.php).
 :::danger
 weitere Infos einfügen!! (Anleitung für Studis)
 :::
