@@ -70,7 +70,7 @@ Wählen Sie dazu das Betriebssystem, welches Sie verwenden und darunter im Auswa
 * Während einer Präsentationsaufzeichnung in den Folien **zurück**springen funktioniert **nicht**.
 :::
 :::success
-* Sie können nach der Aufnahme einzelne Folien neu aufzeichnen und so kleinere Fehler korrigieren. Eine Anleitung hierzu finden Sie in den offiziellen Support-Dokumenten von Microsoft (siehe unten).
+* Sie können nach der Aufnahme einzelne Folien neu aufzeichnen und so kleinere Fehler korrigieren. Eine Anleitung hierzu finden Sie in den offiziellen Support-Dokumenten von Microsoft.
 :::
 * Benennen Sie die Videodateien auf Ihrem Computer nach einer einheitlichen Nomenklatur und organisieren Sie sie in einer durchdachten Ordnerstruktur. Das hilft Ihnen, die einzelnen Lerneinheiten später besser wiederzufinden und bereitzustellen.
 
