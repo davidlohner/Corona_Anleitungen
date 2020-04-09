@@ -27,16 +27,15 @@ Zusatzinformationen sind blau gekennzeichnet.
 
 ### Benötigte Ausstattung
 * PC oder Mac mit:
-    * Mikrofon (am besten ein Headset) 
+    * Mikrofon: im Notebook integriert oder (besser) ein Headset 
     * optional: (integrierte) Webcam
 * MS PowerPoint
 * Ihre Lehrinhalte auf PowerPoint-Folien
 
 :::warning
-Bitte aktualisieren Sie Ihre PowerPoint-Installation auf Version 2016. Nur so kann sichergestellt sein, dass einzelne Schritte diese Anleitung auch auf Ihr System zutreffen. Ggf. müssen Sie hierzu Ihren ITB bzw. Administrator um Hilfe bitten. PowerPoint 2016 kann über den [Software Shop des KIT](https://rzunika.asknet.de) für dienstliche Zwecke bezogen werden.
-:::info
-Sollten Sie über ein **Office 365 Abo** verfügen, sollte diese Anleitung in den jeweils neuesten Versionen von PowerPoint ebenfalls funktionieren.
+Sollten sie das *integrierte* Mikrofon Ihres Notebooks verwenden, können Lüftergeräusche oder Tatstatureingaben **sehr laut** und störend aufgenommen werden. Wir empfehlen daher dringend, dass Sie für die Aufnahmen ein externes Mikrofon (Headset) verwenden!
 :::
+
 
 
 ## Kurzanleitung
