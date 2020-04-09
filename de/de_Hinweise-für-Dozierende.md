@@ -19,9 +19,9 @@ Eine rein digitale Lehrveranstaltung bringt viele Aspekte mit sich, die eine Leh
 Ein rein digitales Semester bedeutet, dass weder die Studierenden untereinander noch Sie selbst mit den Studierenden „spontan“ ein Gespräch führen können um Rückfragen zu beantworten. Daher ist es wichtig, die Organisation vollständig und transparent für alle Studierenden offenzulegen und zu kommunizieren.
 
 ## Regeln und Transparenz für Kommunikation
-* Kommunikationskanäle klar trennen
+* Kommunikationskanäle klar trennen und benennen:
     * Wofür werden Mails gesendet?
-    * Was wird über MS Teams besprochen?
+    * Was wird über MS Teams besprochen? (Beitrittslink bereitstellen!)
     * Welche Inhalte gehören in ein ILIAS-Forum?
 
 Überlegen Sie, welche Kanäle wie öffentlich sind: Oft können Studierende Fragen untereinander selbst klären. Das funktioniert nur, wenn alle Studierenden die Fragen auch lesen und darauf antworten können.
@@ -38,9 +38,9 @@ Ein rein digitales Semester bedeutet, dass weder die Studierenden untereinander 
 * Weisen Sie Ihre Studierenden in Gruppenarbeiten darauf hin, dass es sinnvoll ist, Arbeit in einzelne Schritte zu zerlegen und klare Zuständigkeiten zu definieren.
 
 ## Agiles Kursmanagement
-* Bitten Sie die Studierenden um **konstruktives Feedback** zur organisation Ihrer Lehrveranstaltung und gehen Sie bei Bedarf darauf ein. Für die meisten Studierenden und Lehrenden sind rein digitale Lehrveranstaltungen neu. Niemand kann auf Anhieb eine perfekte Online-Lehre abliefern.
+* Bitten Sie Ihre Studierenden um **konstruktives Feedback** zur organisation Ihrer Lehrveranstaltung und gehen Sie bei Bedarf darauf ein. Für die meisten Studierenden und Lehrenden sind rein digitale Lehrveranstaltungen neu. Niemand kann auf Anhieb eine perfekte Online-Lehre abliefern.
 * Passen Sie Ihre Lehrveranstaltung ggf. dem Feedback entsprechend an. Beachten Sie außerdem, dass zu unterschiedlichen Zeiten im Verlauf des Semesters verschiedene Aspekte wichtig sind:
-    * Zu Beginn gilt es, den Einstieg zu gesatlten
+    * Zu Beginn gilt es, den Einstieg zu gestalten
     * Während des Semesters stehen Inhalte und Kommunikation im Vordergrund
     * Gegen Ende werden voraussichtlich Rückfragen insbesondere zum prüfungsrelevanten Stoff kommen.
 
@@ -56,17 +56,21 @@ Ihre Studierenden verwenden in diesem Semester einige neue digitale Tools, darun
 * Erlauben Sie ILIAS, in Kursen Ihren Klarnamen anzugeigen und laden Sie ein Profilbild von sich in das System. Auf diese Weise sind sie in Kursen nicht mehr ganz anonym unterwegs und eine menschlichere Kommunikation wird möglich.
 
 ## Verwendung von Microsoft Teams
+
+### Erstkonfiguration von MS Teams
 * Bevor Sie Microsoft Teams (MS Teams) verwenden können, müssen Sie die [Datenschutzerklärung](https://my.scc.kit.edu/shib/azurefreigabe.php) für den Einsatz von Microsofts Clouddiensten am KIT bestätigen.
 * Verwenden Sie MS Teams mit den Browsern Microsoft Edge oder Google Chrome – oder den Desktop- bzw. Mobil-Anwendungen. Andere Browser werden nicht unterstützt.
 * Melden Sie sich bei [Microsoft Teams](https://teams.microsoft.com) mit Ihrer Studierenden-Mailadresse (uxxxx@student.kit.edu) an. Anschließend müssen Sie sich beim Shibboleth Identity Provider am KIT mit Ihrem Studierendenaccount (uxxxx) und entsprechendem Kennwort anmelden.
-* 
 * Weitere Hinweise und technischen Support für die Nutzung von [MS Teams finden Sie am SCC](http://www.scc.kit.edu/dienste/ms-teams.php).
-:::danger
-weitere Infos einfügen!! (Anleitung für Studis)
-:::
-* Einladungen zu Teams können (vorerst) NUR ÜBER den Link in der Einladungs-Mail angenommen werden
-* 
 
+### Hinweise für die Nutzung von MS Teams
+
+* **Sie erhalten den Link zum Team Ihrer Lehrveranstaltung von der jeweils zuständigen Lehrperson.**
+* Alternativ können Sie – sofern ein Team für die Lehrveranstaltung erzeugt wurde – den Link im Campus Management System im Eintrag der entsprechenden Lehrveranstaltung finden.
+* Nutzen Sie die „Antworten”-Funktion um auf Unterhaltungen in Kanälen zu antworten. So werden zusammengehörige Konversationen gruppiert dargestellt und die Kanäle bleiben übersichtlich.
+![](https://i.imgur.com/hpgByPD.jpg =450x)
+* Nutzen Sie unterschiedliche Kanäle innerhalb eines Teams um z.B. in kleineren Gruppen oder über definierte Themen zu diskutieren.
+* Bitte beachten Sie weiter die [Besonderheiten für Studierende](http://www.scc.kit.edu/dienste/13521.php) für die Verwendung von MS Teams, die das SCC beschreibt.
 
 ## Verwendung von Zoom
 :::danger
