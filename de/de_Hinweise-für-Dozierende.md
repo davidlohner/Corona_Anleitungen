@@ -76,7 +76,7 @@ Ihre Studierenden verwenden in diesem Semester einige neue digitale Tools, darun
 * Installieren Sie sich die Zoom-Applikation auf Ihrem Desktop- oder Mobilgerät, um alle Funktionalitäten nutzen zu können. 
 * Beitrittslink und Zugangsdatsafen für die virtuellen Lehrveranstaltungen erhalten Sie von der jeweils zuständigen Lehrperson bzw. über ILIAS.
 * Sie können im Chat auswählen, ob Ihre Nachricht an alle Teilnehmenden oder nur den Host des Meetings gesendet wird.
-
+* Sie können in einem Zoom-Meeting die Ansicht ändern, um entweder den Host des Meetings oder alle Teilnehmenden anzuzeigen. Wischen Sie dazu in den mobilen Apps einfach von rechts nach links über die Ansicht.
 
 
 
