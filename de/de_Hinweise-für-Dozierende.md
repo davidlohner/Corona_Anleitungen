@@ -73,9 +73,10 @@ Ihre Studierenden verwenden in diesem Semester einige neue digitale Tools, darun
 * Bitte beachten Sie weiter die [Besonderheiten für Studierende](http://www.scc.kit.edu/dienste/13521.php) für die Verwendung von MS Teams, die das SCC beschreibt.
 
 ## Verwendung von Zoom
-:::danger
-Anleitung für Zoom folgt...
-:::
+* Installieren Sie sich die Zoom-Applikation auf Ihrem Desktop- oder Mobilgerät, um alle Funktionalitäten nutzen zu können. 
+* Beitrittslink und Zugangsdatsafen für die virtuellen Lehrveranstaltungen erhalten Sie von der jeweils zuständigen Lehrperson bzw. über ILIAS.
+* Sie können im Chat auswählen, ob Ihre Nachricht an alle Teilnehmenden oder nur den Host des Meetings gesendet wird.
+
 
 
 
