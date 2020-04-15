@@ -38,8 +38,18 @@ Teams **Lehrveranstaltungen** sind im Tenant für die KIT-Mitarbeitenden geliste
 
 ## Schritt 4a: Team über einen Link beitreten
 * Sofern die jeweils zuständige Lehrperson ein Team über CAS erstellt hat, kann sie einen Link zum Team bereitstellen.
-* Klicken Sie auf diesen Link.
+* Sie werden auf eine Webseite von teams-connect umgeleitet, über die Sie dem Team beitreten können (Blauer Button "als uxxxx beitreten")
+* Klicken Sie auf diesen Button.
+
+**Auch hier kann es einige Stunden dauern, bis der Beitritt in das Team vollzogen ist.** 
 
 
 ## Schritt 4b: Team als Gast beitreten
 * Bitten Sie ihre jeweils zuständige Lehrperson, Ihr Studierendenkonto (uxxxx@student.kit.edu) ihrer Lehrveranstaltung als Gast hinzuzufügen.
+
+# Weitere Infos des SCC
+Bitte beachten Sie die weiterführenden Informationen des SCC:
+* [Besonderheiten für Studierendenkonten in MS Teams](http://www.scc.kit.edu/dienste/ms-teams-studierende.php)
+* [MS Teams FAQ](http://www.scc.kit.edu/dienste/ms-teams-faq.php)
+* [Allgemeine Infos zu MS Teams am KIT](http://www.scc.kit.edu/dienste/ms-teams.php)
+
