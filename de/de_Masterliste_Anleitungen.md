@@ -43,7 +43,7 @@ Achtung: **Vor dem Upload in ILIAS** für Videos bitte folgende Schritte durchf�
 
 ### Grundlagen
 * [Grundsätzliches Verfahren des Veranstaltungsmanagements am KIT](https:/s.kit.edu/ilias-veranstaltungsmanagement)
-* [KUrsraumerstellung allgemein](https:/s.kit.edu/ilias-kurserstellung)
+* [Kursraumerstellung allgemein](https:/s.kit.edu/ilias-kurserstellung)
 * [Einstellungen für den Kursraum](https:/s.kit.edu/ilias-kurseinstellungen)
 * [Rechteverwaltung in ILIAS](https:/s.kit.edu/ilias-rechteverwaltung)
 * [Was tun bei fehlendem OpenCast-Plugin in ILIAS?](https:/s.kit.edu/ilias-opencast-plugin)
@@ -70,3 +70,4 @@ Achtung: **Vor dem Upload in ILIAS** für Videos bitte folgende Schritte durchf�
 * [Volesung mit Zoom halten](https://s.kit.edu/tutorial-zoom-vorlesung)
 * [Seminar mit Zoom halten](https://s.kit.edu/tutorial-zoom-seminar)
 * [Zoom Nutzungshinweise für Studierende](https://s.kit.edu/tutorial-zoom-studierende)
+* [Hinweise zur Weitergabe von Lehrenden an  Studierende](hinweise-weitergabe-studierende)
