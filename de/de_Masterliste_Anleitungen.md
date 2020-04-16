@@ -70,4 +70,4 @@ Achtung: **Vor dem Upload in ILIAS** für Videos bitte folgende Schritte durchf�
 * [Volesung mit Zoom halten](https://s.kit.edu/tutorial-zoom-vorlesung)
 * [Seminar mit Zoom halten](https://s.kit.edu/tutorial-zoom-seminar)
 * [Zoom Nutzungshinweise für Studierende](https://s.kit.edu/tutorial-zoom-studierende)
-* [Hinweise zur Weitergabe von Lehrenden an  Studierende](hinweise-weitergabe-studierende)
+* [Hinweise zur Weitergabe von Lehrenden an  Studierende](https://s.kit.edu/hinweise-weitergabe-studierende)
